@@ -20,8 +20,8 @@ This is an implementation coverage review, not a claim of employer acceptance.
 | CSV/JSON/SQL export + source manifest | full-export/, manifest.json | Implemented, all synthetic local provenance |
 | Setup, assumptions, trade-offs and review | README, DATA_DICTIONARY, DECISIONS, WALKTHROUGH, START_ON_MAC | Implemented; Linux-tested, Mac instructions not machine-tested |
 | Prompt history and AI disclosure | AI_USE.md | Partial by disclosure: project-facing prompts and development record only; complete raw export unavailable. No full-history compliance claim |
-| Meaningful source evolution | local initial implementation commit, tests and fixes in development record | First review baseline; external PR flow not yet started |
-| Dedicated public repository | Not created | Held pending user approval; mandatory before submission |
+| Meaningful source evolution | Published snapshot through PR #1 with honest current timestamps; development stages recorded in artifacts/commits.txt and docs/AI_USE.md | Public history is current and truthful, not backfilled |
+| Dedicated public repository | Public at github.com/AloneRider-pixel/learning-path-lab-yottaflex; verified accessible while signed out | Created after candidate approval; must remain public and editable until the deadline |
 | Final portal repository link | Not submitted | Held pending candidate review and explicit final approval; portal allows one final send |
 | Confidentiality and privacy | No actual problem statement, private source files, credentials or real employee data in bundle | Checked in authored source and packaging |
 
