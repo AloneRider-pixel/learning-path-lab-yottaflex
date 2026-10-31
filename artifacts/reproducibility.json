@@ -1,0 +1,25 @@
+{
+  "same_seed": 20261022,
+  "all_checksums_match": true,
+  "row_counts_match": true,
+  "files_compared": 42,
+  "row_counts": {
+    "role": 25,
+    "skill": 500,
+    "employee": 5000,
+    "role_skill_target": 200,
+    "employee_skill": 40000,
+    "course": 1000,
+    "course_skill": 1000,
+    "prerequisite": 500,
+    "budget": 5,
+    "enrollment": 10000,
+    "enrollment_event": 17154,
+    "completion": 7154,
+    "reassessment": 5755,
+    "career_path": 24,
+    "learning_plan": 0,
+    "plan_item": 0,
+    "plan_event": 0
+  }
+}

@@ -1,0 +1,1202 @@
+[
+  {
+    "role_id": "ROL-000001",
+    "skill_id": "SKL-000001",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000001",
+    "skill_id": "SKL-000002",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000001",
+    "skill_id": "SKL-000003",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000001",
+    "skill_id": "SKL-000004",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000001",
+    "skill_id": "SKL-000005",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000001",
+    "skill_id": "SKL-000006",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000001",
+    "skill_id": "SKL-000007",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000001",
+    "skill_id": "SKL-000008",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000002",
+    "skill_id": "SKL-000008",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000002",
+    "skill_id": "SKL-000009",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000002",
+    "skill_id": "SKL-000010",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000002",
+    "skill_id": "SKL-000011",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000002",
+    "skill_id": "SKL-000012",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000002",
+    "skill_id": "SKL-000013",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000002",
+    "skill_id": "SKL-000014",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000002",
+    "skill_id": "SKL-000015",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000003",
+    "skill_id": "SKL-000015",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000003",
+    "skill_id": "SKL-000016",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000003",
+    "skill_id": "SKL-000017",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000003",
+    "skill_id": "SKL-000018",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000003",
+    "skill_id": "SKL-000019",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000003",
+    "skill_id": "SKL-000020",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000003",
+    "skill_id": "SKL-000021",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000003",
+    "skill_id": "SKL-000022",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000004",
+    "skill_id": "SKL-000022",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000004",
+    "skill_id": "SKL-000023",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000004",
+    "skill_id": "SKL-000024",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000004",
+    "skill_id": "SKL-000025",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000004",
+    "skill_id": "SKL-000026",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000004",
+    "skill_id": "SKL-000027",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000004",
+    "skill_id": "SKL-000028",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000004",
+    "skill_id": "SKL-000029",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000005",
+    "skill_id": "SKL-000029",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000005",
+    "skill_id": "SKL-000030",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000005",
+    "skill_id": "SKL-000031",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000005",
+    "skill_id": "SKL-000032",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000005",
+    "skill_id": "SKL-000033",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000005",
+    "skill_id": "SKL-000034",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000005",
+    "skill_id": "SKL-000035",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000005",
+    "skill_id": "SKL-000036",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000006",
+    "skill_id": "SKL-000036",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000006",
+    "skill_id": "SKL-000037",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000006",
+    "skill_id": "SKL-000038",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000006",
+    "skill_id": "SKL-000039",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000006",
+    "skill_id": "SKL-000040",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000006",
+    "skill_id": "SKL-000041",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000006",
+    "skill_id": "SKL-000042",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000006",
+    "skill_id": "SKL-000043",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000007",
+    "skill_id": "SKL-000043",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000007",
+    "skill_id": "SKL-000044",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000007",
+    "skill_id": "SKL-000045",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000007",
+    "skill_id": "SKL-000046",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000007",
+    "skill_id": "SKL-000047",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000007",
+    "skill_id": "SKL-000048",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000007",
+    "skill_id": "SKL-000049",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000007",
+    "skill_id": "SKL-000050",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000008",
+    "skill_id": "SKL-000050",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000008",
+    "skill_id": "SKL-000051",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000008",
+    "skill_id": "SKL-000052",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000008",
+    "skill_id": "SKL-000053",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000008",
+    "skill_id": "SKL-000054",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000008",
+    "skill_id": "SKL-000055",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000008",
+    "skill_id": "SKL-000056",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000008",
+    "skill_id": "SKL-000057",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000009",
+    "skill_id": "SKL-000057",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000009",
+    "skill_id": "SKL-000058",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000009",
+    "skill_id": "SKL-000059",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000009",
+    "skill_id": "SKL-000060",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000009",
+    "skill_id": "SKL-000061",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000009",
+    "skill_id": "SKL-000062",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000009",
+    "skill_id": "SKL-000063",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000009",
+    "skill_id": "SKL-000064",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000010",
+    "skill_id": "SKL-000064",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000010",
+    "skill_id": "SKL-000065",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000010",
+    "skill_id": "SKL-000066",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000010",
+    "skill_id": "SKL-000067",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000010",
+    "skill_id": "SKL-000068",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000010",
+    "skill_id": "SKL-000069",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000010",
+    "skill_id": "SKL-000070",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000010",
+    "skill_id": "SKL-000071",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000011",
+    "skill_id": "SKL-000071",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000011",
+    "skill_id": "SKL-000072",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000011",
+    "skill_id": "SKL-000073",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000011",
+    "skill_id": "SKL-000074",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000011",
+    "skill_id": "SKL-000075",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000011",
+    "skill_id": "SKL-000076",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000011",
+    "skill_id": "SKL-000077",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000011",
+    "skill_id": "SKL-000078",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000012",
+    "skill_id": "SKL-000078",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000012",
+    "skill_id": "SKL-000079",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000012",
+    "skill_id": "SKL-000080",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000012",
+    "skill_id": "SKL-000081",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000012",
+    "skill_id": "SKL-000082",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000012",
+    "skill_id": "SKL-000083",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000012",
+    "skill_id": "SKL-000084",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000012",
+    "skill_id": "SKL-000085",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000013",
+    "skill_id": "SKL-000085",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000013",
+    "skill_id": "SKL-000086",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000013",
+    "skill_id": "SKL-000087",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000013",
+    "skill_id": "SKL-000088",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000013",
+    "skill_id": "SKL-000089",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000013",
+    "skill_id": "SKL-000090",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000013",
+    "skill_id": "SKL-000091",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000013",
+    "skill_id": "SKL-000092",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000014",
+    "skill_id": "SKL-000092",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000014",
+    "skill_id": "SKL-000093",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000014",
+    "skill_id": "SKL-000094",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000014",
+    "skill_id": "SKL-000095",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000014",
+    "skill_id": "SKL-000096",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000014",
+    "skill_id": "SKL-000097",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000014",
+    "skill_id": "SKL-000098",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000014",
+    "skill_id": "SKL-000099",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000015",
+    "skill_id": "SKL-000099",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000015",
+    "skill_id": "SKL-000100",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000015",
+    "skill_id": "SKL-000101",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000015",
+    "skill_id": "SKL-000102",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000015",
+    "skill_id": "SKL-000103",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000015",
+    "skill_id": "SKL-000104",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000015",
+    "skill_id": "SKL-000105",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000015",
+    "skill_id": "SKL-000106",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000016",
+    "skill_id": "SKL-000106",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000016",
+    "skill_id": "SKL-000107",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000016",
+    "skill_id": "SKL-000108",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000016",
+    "skill_id": "SKL-000109",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000016",
+    "skill_id": "SKL-000110",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000016",
+    "skill_id": "SKL-000111",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000016",
+    "skill_id": "SKL-000112",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000016",
+    "skill_id": "SKL-000113",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000017",
+    "skill_id": "SKL-000113",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000017",
+    "skill_id": "SKL-000114",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000017",
+    "skill_id": "SKL-000115",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000017",
+    "skill_id": "SKL-000116",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000017",
+    "skill_id": "SKL-000117",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000017",
+    "skill_id": "SKL-000118",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000017",
+    "skill_id": "SKL-000119",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000017",
+    "skill_id": "SKL-000120",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000018",
+    "skill_id": "SKL-000120",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000018",
+    "skill_id": "SKL-000121",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000018",
+    "skill_id": "SKL-000122",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000018",
+    "skill_id": "SKL-000123",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000018",
+    "skill_id": "SKL-000124",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000018",
+    "skill_id": "SKL-000125",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000018",
+    "skill_id": "SKL-000126",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000018",
+    "skill_id": "SKL-000127",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000019",
+    "skill_id": "SKL-000127",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000019",
+    "skill_id": "SKL-000128",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000019",
+    "skill_id": "SKL-000129",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000019",
+    "skill_id": "SKL-000130",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000019",
+    "skill_id": "SKL-000131",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000019",
+    "skill_id": "SKL-000132",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000019",
+    "skill_id": "SKL-000133",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000019",
+    "skill_id": "SKL-000134",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000020",
+    "skill_id": "SKL-000134",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000020",
+    "skill_id": "SKL-000135",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000020",
+    "skill_id": "SKL-000136",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000020",
+    "skill_id": "SKL-000137",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000020",
+    "skill_id": "SKL-000138",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000020",
+    "skill_id": "SKL-000139",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000020",
+    "skill_id": "SKL-000140",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000020",
+    "skill_id": "SKL-000141",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000021",
+    "skill_id": "SKL-000141",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000021",
+    "skill_id": "SKL-000142",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000021",
+    "skill_id": "SKL-000143",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000021",
+    "skill_id": "SKL-000144",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000021",
+    "skill_id": "SKL-000145",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000021",
+    "skill_id": "SKL-000146",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000021",
+    "skill_id": "SKL-000147",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000021",
+    "skill_id": "SKL-000148",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000022",
+    "skill_id": "SKL-000148",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000022",
+    "skill_id": "SKL-000149",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000022",
+    "skill_id": "SKL-000150",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000022",
+    "skill_id": "SKL-000151",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000022",
+    "skill_id": "SKL-000152",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000022",
+    "skill_id": "SKL-000153",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000022",
+    "skill_id": "SKL-000154",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000022",
+    "skill_id": "SKL-000155",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000023",
+    "skill_id": "SKL-000155",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000023",
+    "skill_id": "SKL-000156",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000023",
+    "skill_id": "SKL-000157",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000023",
+    "skill_id": "SKL-000158",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000023",
+    "skill_id": "SKL-000159",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000023",
+    "skill_id": "SKL-000160",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000023",
+    "skill_id": "SKL-000161",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000023",
+    "skill_id": "SKL-000162",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000024",
+    "skill_id": "SKL-000162",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000024",
+    "skill_id": "SKL-000163",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000024",
+    "skill_id": "SKL-000164",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000024",
+    "skill_id": "SKL-000165",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000024",
+    "skill_id": "SKL-000166",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000024",
+    "skill_id": "SKL-000167",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000024",
+    "skill_id": "SKL-000168",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000024",
+    "skill_id": "SKL-000169",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000025",
+    "skill_id": "SKL-000169",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000025",
+    "skill_id": "SKL-000170",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000025",
+    "skill_id": "SKL-000171",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000025",
+    "skill_id": "SKL-000172",
+    "target": 5,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000025",
+    "skill_id": "SKL-000173",
+    "target": 4,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000025",
+    "skill_id": "SKL-000174",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000025",
+    "skill_id": "SKL-000175",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  },
+  {
+    "role_id": "ROL-000025",
+    "skill_id": "SKL-000176",
+    "target": 3,
+    "effective_from": "2026-01-01"
+  }
+]

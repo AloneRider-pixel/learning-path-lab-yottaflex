@@ -1,0 +1,228 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "check": "foreign_keys",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "role_primary_key_unique",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "skill_primary_key_unique",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "employee_primary_key_unique",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "role_skill_target_primary_key_unique",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "employee_skill_primary_key_unique",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "course_primary_key_unique",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "course_skill_primary_key_unique",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "prerequisite_primary_key_unique",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "budget_primary_key_unique",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "enrollment_primary_key_unique",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "enrollment_event_primary_key_unique",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "completion_primary_key_unique",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "reassessment_primary_key_unique",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "career_path_primary_key_unique",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "learning_plan_primary_key_unique",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "plan_item_primary_key_unique",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "plan_event_primary_key_unique",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "lifecycle_terminal_exclusive",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "event_date_order",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "lifecycle_terminal_has_completion",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "completion_date_order",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "reassessment_date_order",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "reassessment_employee_and_skill",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "enrollment_cost_reconciliation",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "capacity",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "budget_reconciliation",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "budget_department",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "completion_event_consistency",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "lifecycle_enrollment_event",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "event_enum",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "enrollment_availability",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "prerequisite_completion",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    },
+    {
+      "check": "prerequisite_acyclic",
+      "passed": true,
+      "violations": 0,
+      "examples": []
+    }
+  ],
+  "row_counts": {
+    "role": 25,
+    "skill": 500,
+    "employee": 5000,
+    "role_skill_target": 200,
+    "employee_skill": 40000,
+    "course": 1000,
+    "course_skill": 1000,
+    "prerequisite": 500,
+    "budget": 5,
+    "enrollment": 10000,
+    "enrollment_event": 17154,
+    "completion": 7154,
+    "reassessment": 5755,
+    "career_path": 24,
+    "learning_plan": 0,
+    "plan_item": 0,
+    "plan_event": 0
+  }
+}

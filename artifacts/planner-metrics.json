@@ -1,0 +1,11 @@
+{
+  "sample": "First 50 deterministic employee IDs, not a population estimate",
+  "sample_size": 50,
+  "feasible_paths": 50,
+  "mean_projected_gap_closure": 0.8686,
+  "mean_cost_INR": 25220,
+  "mean_hours": 84.8,
+  "no_budget_violations": true,
+  "no_hour_violations": true,
+  "warning": "Projected outcomes, not observed proficiency; no optimizer comparison."
+}

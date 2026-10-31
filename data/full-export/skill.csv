@@ -1,0 +1,501 @@
+id,name
+SKL-000001,Python: Foundations
+SKL-000002,Python: Applied Practice
+SKL-000003,Python: Diagnostics
+SKL-000004,Python: Design
+SKL-000005,Python: Validation
+SKL-000006,Python: Automation
+SKL-000007,Python: Quality
+SKL-000008,Python: Performance
+SKL-000009,Python: Documentation
+SKL-000010,Python: Monitoring
+SKL-000011,Python: Integration
+SKL-000012,Python: Risk Review
+SKL-000013,Python: Troubleshooting
+SKL-000014,Python: Planning
+SKL-000015,Python: Measurement
+SKL-000016,Python: Communication
+SKL-000017,Python: Implementation
+SKL-000018,Python: Optimization
+SKL-000019,Python: Controls
+SKL-000020,Python: Reporting
+SKL-000021,Python: Evaluation
+SKL-000022,Python: Maintenance
+SKL-000023,Python: Scaling
+SKL-000024,Python: Change Management
+SKL-000025,Python: Review
+SKL-000026,SQL: Foundations
+SKL-000027,SQL: Applied Practice
+SKL-000028,SQL: Diagnostics
+SKL-000029,SQL: Design
+SKL-000030,SQL: Validation
+SKL-000031,SQL: Automation
+SKL-000032,SQL: Quality
+SKL-000033,SQL: Performance
+SKL-000034,SQL: Documentation
+SKL-000035,SQL: Monitoring
+SKL-000036,SQL: Integration
+SKL-000037,SQL: Risk Review
+SKL-000038,SQL: Troubleshooting
+SKL-000039,SQL: Planning
+SKL-000040,SQL: Measurement
+SKL-000041,SQL: Communication
+SKL-000042,SQL: Implementation
+SKL-000043,SQL: Optimization
+SKL-000044,SQL: Controls
+SKL-000045,SQL: Reporting
+SKL-000046,SQL: Evaluation
+SKL-000047,SQL: Maintenance
+SKL-000048,SQL: Scaling
+SKL-000049,SQL: Change Management
+SKL-000050,SQL: Review
+SKL-000051,Data Modeling: Foundations
+SKL-000052,Data Modeling: Applied Practice
+SKL-000053,Data Modeling: Diagnostics
+SKL-000054,Data Modeling: Design
+SKL-000055,Data Modeling: Validation
+SKL-000056,Data Modeling: Automation
+SKL-000057,Data Modeling: Quality
+SKL-000058,Data Modeling: Performance
+SKL-000059,Data Modeling: Documentation
+SKL-000060,Data Modeling: Monitoring
+SKL-000061,Data Modeling: Integration
+SKL-000062,Data Modeling: Risk Review
+SKL-000063,Data Modeling: Troubleshooting
+SKL-000064,Data Modeling: Planning
+SKL-000065,Data Modeling: Measurement
+SKL-000066,Data Modeling: Communication
+SKL-000067,Data Modeling: Implementation
+SKL-000068,Data Modeling: Optimization
+SKL-000069,Data Modeling: Controls
+SKL-000070,Data Modeling: Reporting
+SKL-000071,Data Modeling: Evaluation
+SKL-000072,Data Modeling: Maintenance
+SKL-000073,Data Modeling: Scaling
+SKL-000074,Data Modeling: Change Management
+SKL-000075,Data Modeling: Review
+SKL-000076,Statistics: Foundations
+SKL-000077,Statistics: Applied Practice
+SKL-000078,Statistics: Diagnostics
+SKL-000079,Statistics: Design
+SKL-000080,Statistics: Validation
+SKL-000081,Statistics: Automation
+SKL-000082,Statistics: Quality
+SKL-000083,Statistics: Performance
+SKL-000084,Statistics: Documentation
+SKL-000085,Statistics: Monitoring
+SKL-000086,Statistics: Integration
+SKL-000087,Statistics: Risk Review
+SKL-000088,Statistics: Troubleshooting
+SKL-000089,Statistics: Planning
+SKL-000090,Statistics: Measurement
+SKL-000091,Statistics: Communication
+SKL-000092,Statistics: Implementation
+SKL-000093,Statistics: Optimization
+SKL-000094,Statistics: Controls
+SKL-000095,Statistics: Reporting
+SKL-000096,Statistics: Evaluation
+SKL-000097,Statistics: Maintenance
+SKL-000098,Statistics: Scaling
+SKL-000099,Statistics: Change Management
+SKL-000100,Statistics: Review
+SKL-000101,Machine Learning: Foundations
+SKL-000102,Machine Learning: Applied Practice
+SKL-000103,Machine Learning: Diagnostics
+SKL-000104,Machine Learning: Design
+SKL-000105,Machine Learning: Validation
+SKL-000106,Machine Learning: Automation
+SKL-000107,Machine Learning: Quality
+SKL-000108,Machine Learning: Performance
+SKL-000109,Machine Learning: Documentation
+SKL-000110,Machine Learning: Monitoring
+SKL-000111,Machine Learning: Integration
+SKL-000112,Machine Learning: Risk Review
+SKL-000113,Machine Learning: Troubleshooting
+SKL-000114,Machine Learning: Planning
+SKL-000115,Machine Learning: Measurement
+SKL-000116,Machine Learning: Communication
+SKL-000117,Machine Learning: Implementation
+SKL-000118,Machine Learning: Optimization
+SKL-000119,Machine Learning: Controls
+SKL-000120,Machine Learning: Reporting
+SKL-000121,Machine Learning: Evaluation
+SKL-000122,Machine Learning: Maintenance
+SKL-000123,Machine Learning: Scaling
+SKL-000124,Machine Learning: Change Management
+SKL-000125,Machine Learning: Review
+SKL-000126,API Design: Foundations
+SKL-000127,API Design: Applied Practice
+SKL-000128,API Design: Diagnostics
+SKL-000129,API Design: Design
+SKL-000130,API Design: Validation
+SKL-000131,API Design: Automation
+SKL-000132,API Design: Quality
+SKL-000133,API Design: Performance
+SKL-000134,API Design: Documentation
+SKL-000135,API Design: Monitoring
+SKL-000136,API Design: Integration
+SKL-000137,API Design: Risk Review
+SKL-000138,API Design: Troubleshooting
+SKL-000139,API Design: Planning
+SKL-000140,API Design: Measurement
+SKL-000141,API Design: Communication
+SKL-000142,API Design: Implementation
+SKL-000143,API Design: Optimization
+SKL-000144,API Design: Controls
+SKL-000145,API Design: Reporting
+SKL-000146,API Design: Evaluation
+SKL-000147,API Design: Maintenance
+SKL-000148,API Design: Scaling
+SKL-000149,API Design: Change Management
+SKL-000150,API Design: Review
+SKL-000151,Cloud Fundamentals: Foundations
+SKL-000152,Cloud Fundamentals: Applied Practice
+SKL-000153,Cloud Fundamentals: Diagnostics
+SKL-000154,Cloud Fundamentals: Design
+SKL-000155,Cloud Fundamentals: Validation
+SKL-000156,Cloud Fundamentals: Automation
+SKL-000157,Cloud Fundamentals: Quality
+SKL-000158,Cloud Fundamentals: Performance
+SKL-000159,Cloud Fundamentals: Documentation
+SKL-000160,Cloud Fundamentals: Monitoring
+SKL-000161,Cloud Fundamentals: Integration
+SKL-000162,Cloud Fundamentals: Risk Review
+SKL-000163,Cloud Fundamentals: Troubleshooting
+SKL-000164,Cloud Fundamentals: Planning
+SKL-000165,Cloud Fundamentals: Measurement
+SKL-000166,Cloud Fundamentals: Communication
+SKL-000167,Cloud Fundamentals: Implementation
+SKL-000168,Cloud Fundamentals: Optimization
+SKL-000169,Cloud Fundamentals: Controls
+SKL-000170,Cloud Fundamentals: Reporting
+SKL-000171,Cloud Fundamentals: Evaluation
+SKL-000172,Cloud Fundamentals: Maintenance
+SKL-000173,Cloud Fundamentals: Scaling
+SKL-000174,Cloud Fundamentals: Change Management
+SKL-000175,Cloud Fundamentals: Review
+SKL-000176,Security: Foundations
+SKL-000177,Security: Applied Practice
+SKL-000178,Security: Diagnostics
+SKL-000179,Security: Design
+SKL-000180,Security: Validation
+SKL-000181,Security: Automation
+SKL-000182,Security: Quality
+SKL-000183,Security: Performance
+SKL-000184,Security: Documentation
+SKL-000185,Security: Monitoring
+SKL-000186,Security: Integration
+SKL-000187,Security: Risk Review
+SKL-000188,Security: Troubleshooting
+SKL-000189,Security: Planning
+SKL-000190,Security: Measurement
+SKL-000191,Security: Communication
+SKL-000192,Security: Implementation
+SKL-000193,Security: Optimization
+SKL-000194,Security: Controls
+SKL-000195,Security: Reporting
+SKL-000196,Security: Evaluation
+SKL-000197,Security: Maintenance
+SKL-000198,Security: Scaling
+SKL-000199,Security: Change Management
+SKL-000200,Security: Review
+SKL-000201,Reliability: Foundations
+SKL-000202,Reliability: Applied Practice
+SKL-000203,Reliability: Diagnostics
+SKL-000204,Reliability: Design
+SKL-000205,Reliability: Validation
+SKL-000206,Reliability: Automation
+SKL-000207,Reliability: Quality
+SKL-000208,Reliability: Performance
+SKL-000209,Reliability: Documentation
+SKL-000210,Reliability: Monitoring
+SKL-000211,Reliability: Integration
+SKL-000212,Reliability: Risk Review
+SKL-000213,Reliability: Troubleshooting
+SKL-000214,Reliability: Planning
+SKL-000215,Reliability: Measurement
+SKL-000216,Reliability: Communication
+SKL-000217,Reliability: Implementation
+SKL-000218,Reliability: Optimization
+SKL-000219,Reliability: Controls
+SKL-000220,Reliability: Reporting
+SKL-000221,Reliability: Evaluation
+SKL-000222,Reliability: Maintenance
+SKL-000223,Reliability: Scaling
+SKL-000224,Reliability: Change Management
+SKL-000225,Reliability: Review
+SKL-000226,Test Engineering: Foundations
+SKL-000227,Test Engineering: Applied Practice
+SKL-000228,Test Engineering: Diagnostics
+SKL-000229,Test Engineering: Design
+SKL-000230,Test Engineering: Validation
+SKL-000231,Test Engineering: Automation
+SKL-000232,Test Engineering: Quality
+SKL-000233,Test Engineering: Performance
+SKL-000234,Test Engineering: Documentation
+SKL-000235,Test Engineering: Monitoring
+SKL-000236,Test Engineering: Integration
+SKL-000237,Test Engineering: Risk Review
+SKL-000238,Test Engineering: Troubleshooting
+SKL-000239,Test Engineering: Planning
+SKL-000240,Test Engineering: Measurement
+SKL-000241,Test Engineering: Communication
+SKL-000242,Test Engineering: Implementation
+SKL-000243,Test Engineering: Optimization
+SKL-000244,Test Engineering: Controls
+SKL-000245,Test Engineering: Reporting
+SKL-000246,Test Engineering: Evaluation
+SKL-000247,Test Engineering: Maintenance
+SKL-000248,Test Engineering: Scaling
+SKL-000249,Test Engineering: Change Management
+SKL-000250,Test Engineering: Review
+SKL-000251,Product Analytics: Foundations
+SKL-000252,Product Analytics: Applied Practice
+SKL-000253,Product Analytics: Diagnostics
+SKL-000254,Product Analytics: Design
+SKL-000255,Product Analytics: Validation
+SKL-000256,Product Analytics: Automation
+SKL-000257,Product Analytics: Quality
+SKL-000258,Product Analytics: Performance
+SKL-000259,Product Analytics: Documentation
+SKL-000260,Product Analytics: Monitoring
+SKL-000261,Product Analytics: Integration
+SKL-000262,Product Analytics: Risk Review
+SKL-000263,Product Analytics: Troubleshooting
+SKL-000264,Product Analytics: Planning
+SKL-000265,Product Analytics: Measurement
+SKL-000266,Product Analytics: Communication
+SKL-000267,Product Analytics: Implementation
+SKL-000268,Product Analytics: Optimization
+SKL-000269,Product Analytics: Controls
+SKL-000270,Product Analytics: Reporting
+SKL-000271,Product Analytics: Evaluation
+SKL-000272,Product Analytics: Maintenance
+SKL-000273,Product Analytics: Scaling
+SKL-000274,Product Analytics: Change Management
+SKL-000275,Product Analytics: Review
+SKL-000276,Customer Support: Foundations
+SKL-000277,Customer Support: Applied Practice
+SKL-000278,Customer Support: Diagnostics
+SKL-000279,Customer Support: Design
+SKL-000280,Customer Support: Validation
+SKL-000281,Customer Support: Automation
+SKL-000282,Customer Support: Quality
+SKL-000283,Customer Support: Performance
+SKL-000284,Customer Support: Documentation
+SKL-000285,Customer Support: Monitoring
+SKL-000286,Customer Support: Integration
+SKL-000287,Customer Support: Risk Review
+SKL-000288,Customer Support: Troubleshooting
+SKL-000289,Customer Support: Planning
+SKL-000290,Customer Support: Measurement
+SKL-000291,Customer Support: Communication
+SKL-000292,Customer Support: Implementation
+SKL-000293,Customer Support: Optimization
+SKL-000294,Customer Support: Controls
+SKL-000295,Customer Support: Reporting
+SKL-000296,Customer Support: Evaluation
+SKL-000297,Customer Support: Maintenance
+SKL-000298,Customer Support: Scaling
+SKL-000299,Customer Support: Change Management
+SKL-000300,Customer Support: Review
+SKL-000301,Process Analysis: Foundations
+SKL-000302,Process Analysis: Applied Practice
+SKL-000303,Process Analysis: Diagnostics
+SKL-000304,Process Analysis: Design
+SKL-000305,Process Analysis: Validation
+SKL-000306,Process Analysis: Automation
+SKL-000307,Process Analysis: Quality
+SKL-000308,Process Analysis: Performance
+SKL-000309,Process Analysis: Documentation
+SKL-000310,Process Analysis: Monitoring
+SKL-000311,Process Analysis: Integration
+SKL-000312,Process Analysis: Risk Review
+SKL-000313,Process Analysis: Troubleshooting
+SKL-000314,Process Analysis: Planning
+SKL-000315,Process Analysis: Measurement
+SKL-000316,Process Analysis: Communication
+SKL-000317,Process Analysis: Implementation
+SKL-000318,Process Analysis: Optimization
+SKL-000319,Process Analysis: Controls
+SKL-000320,Process Analysis: Reporting
+SKL-000321,Process Analysis: Evaluation
+SKL-000322,Process Analysis: Maintenance
+SKL-000323,Process Analysis: Scaling
+SKL-000324,Process Analysis: Change Management
+SKL-000325,Process Analysis: Review
+SKL-000326,Operations: Foundations
+SKL-000327,Operations: Applied Practice
+SKL-000328,Operations: Diagnostics
+SKL-000329,Operations: Design
+SKL-000330,Operations: Validation
+SKL-000331,Operations: Automation
+SKL-000332,Operations: Quality
+SKL-000333,Operations: Performance
+SKL-000334,Operations: Documentation
+SKL-000335,Operations: Monitoring
+SKL-000336,Operations: Integration
+SKL-000337,Operations: Risk Review
+SKL-000338,Operations: Troubleshooting
+SKL-000339,Operations: Planning
+SKL-000340,Operations: Measurement
+SKL-000341,Operations: Communication
+SKL-000342,Operations: Implementation
+SKL-000343,Operations: Optimization
+SKL-000344,Operations: Controls
+SKL-000345,Operations: Reporting
+SKL-000346,Operations: Evaluation
+SKL-000347,Operations: Maintenance
+SKL-000348,Operations: Scaling
+SKL-000349,Operations: Change Management
+SKL-000350,Operations: Review
+SKL-000351,Financial Analysis: Foundations
+SKL-000352,Financial Analysis: Applied Practice
+SKL-000353,Financial Analysis: Diagnostics
+SKL-000354,Financial Analysis: Design
+SKL-000355,Financial Analysis: Validation
+SKL-000356,Financial Analysis: Automation
+SKL-000357,Financial Analysis: Quality
+SKL-000358,Financial Analysis: Performance
+SKL-000359,Financial Analysis: Documentation
+SKL-000360,Financial Analysis: Monitoring
+SKL-000361,Financial Analysis: Integration
+SKL-000362,Financial Analysis: Risk Review
+SKL-000363,Financial Analysis: Troubleshooting
+SKL-000364,Financial Analysis: Planning
+SKL-000365,Financial Analysis: Measurement
+SKL-000366,Financial Analysis: Communication
+SKL-000367,Financial Analysis: Implementation
+SKL-000368,Financial Analysis: Optimization
+SKL-000369,Financial Analysis: Controls
+SKL-000370,Financial Analysis: Reporting
+SKL-000371,Financial Analysis: Evaluation
+SKL-000372,Financial Analysis: Maintenance
+SKL-000373,Financial Analysis: Scaling
+SKL-000374,Financial Analysis: Change Management
+SKL-000375,Financial Analysis: Review
+SKL-000376,People Analytics: Foundations
+SKL-000377,People Analytics: Applied Practice
+SKL-000378,People Analytics: Diagnostics
+SKL-000379,People Analytics: Design
+SKL-000380,People Analytics: Validation
+SKL-000381,People Analytics: Automation
+SKL-000382,People Analytics: Quality
+SKL-000383,People Analytics: Performance
+SKL-000384,People Analytics: Documentation
+SKL-000385,People Analytics: Monitoring
+SKL-000386,People Analytics: Integration
+SKL-000387,People Analytics: Risk Review
+SKL-000388,People Analytics: Troubleshooting
+SKL-000389,People Analytics: Planning
+SKL-000390,People Analytics: Measurement
+SKL-000391,People Analytics: Communication
+SKL-000392,People Analytics: Implementation
+SKL-000393,People Analytics: Optimization
+SKL-000394,People Analytics: Controls
+SKL-000395,People Analytics: Reporting
+SKL-000396,People Analytics: Evaluation
+SKL-000397,People Analytics: Maintenance
+SKL-000398,People Analytics: Scaling
+SKL-000399,People Analytics: Change Management
+SKL-000400,People Analytics: Review
+SKL-000401,Learning Design: Foundations
+SKL-000402,Learning Design: Applied Practice
+SKL-000403,Learning Design: Diagnostics
+SKL-000404,Learning Design: Design
+SKL-000405,Learning Design: Validation
+SKL-000406,Learning Design: Automation
+SKL-000407,Learning Design: Quality
+SKL-000408,Learning Design: Performance
+SKL-000409,Learning Design: Documentation
+SKL-000410,Learning Design: Monitoring
+SKL-000411,Learning Design: Integration
+SKL-000412,Learning Design: Risk Review
+SKL-000413,Learning Design: Troubleshooting
+SKL-000414,Learning Design: Planning
+SKL-000415,Learning Design: Measurement
+SKL-000416,Learning Design: Communication
+SKL-000417,Learning Design: Implementation
+SKL-000418,Learning Design: Optimization
+SKL-000419,Learning Design: Controls
+SKL-000420,Learning Design: Reporting
+SKL-000421,Learning Design: Evaluation
+SKL-000422,Learning Design: Maintenance
+SKL-000423,Learning Design: Scaling
+SKL-000424,Learning Design: Change Management
+SKL-000425,Learning Design: Review
+SKL-000426,Technical Sales: Foundations
+SKL-000427,Technical Sales: Applied Practice
+SKL-000428,Technical Sales: Diagnostics
+SKL-000429,Technical Sales: Design
+SKL-000430,Technical Sales: Validation
+SKL-000431,Technical Sales: Automation
+SKL-000432,Technical Sales: Quality
+SKL-000433,Technical Sales: Performance
+SKL-000434,Technical Sales: Documentation
+SKL-000435,Technical Sales: Monitoring
+SKL-000436,Technical Sales: Integration
+SKL-000437,Technical Sales: Risk Review
+SKL-000438,Technical Sales: Troubleshooting
+SKL-000439,Technical Sales: Planning
+SKL-000440,Technical Sales: Measurement
+SKL-000441,Technical Sales: Communication
+SKL-000442,Technical Sales: Implementation
+SKL-000443,Technical Sales: Optimization
+SKL-000444,Technical Sales: Controls
+SKL-000445,Technical Sales: Reporting
+SKL-000446,Technical Sales: Evaluation
+SKL-000447,Technical Sales: Maintenance
+SKL-000448,Technical Sales: Scaling
+SKL-000449,Technical Sales: Change Management
+SKL-000450,Technical Sales: Review
+SKL-000451,Solution Design: Foundations
+SKL-000452,Solution Design: Applied Practice
+SKL-000453,Solution Design: Diagnostics
+SKL-000454,Solution Design: Design
+SKL-000455,Solution Design: Validation
+SKL-000456,Solution Design: Automation
+SKL-000457,Solution Design: Quality
+SKL-000458,Solution Design: Performance
+SKL-000459,Solution Design: Documentation
+SKL-000460,Solution Design: Monitoring
+SKL-000461,Solution Design: Integration
+SKL-000462,Solution Design: Risk Review
+SKL-000463,Solution Design: Troubleshooting
+SKL-000464,Solution Design: Planning
+SKL-000465,Solution Design: Measurement
+SKL-000466,Solution Design: Communication
+SKL-000467,Solution Design: Implementation
+SKL-000468,Solution Design: Optimization
+SKL-000469,Solution Design: Controls
+SKL-000470,Solution Design: Reporting
+SKL-000471,Solution Design: Evaluation
+SKL-000472,Solution Design: Maintenance
+SKL-000473,Solution Design: Scaling
+SKL-000474,Solution Design: Change Management
+SKL-000475,Solution Design: Review
+SKL-000476,Data Governance: Foundations
+SKL-000477,Data Governance: Applied Practice
+SKL-000478,Data Governance: Diagnostics
+SKL-000479,Data Governance: Design
+SKL-000480,Data Governance: Validation
+SKL-000481,Data Governance: Automation
+SKL-000482,Data Governance: Quality
+SKL-000483,Data Governance: Performance
+SKL-000484,Data Governance: Documentation
+SKL-000485,Data Governance: Monitoring
+SKL-000486,Data Governance: Integration
+SKL-000487,Data Governance: Risk Review
+SKL-000488,Data Governance: Troubleshooting
+SKL-000489,Data Governance: Planning
+SKL-000490,Data Governance: Measurement
+SKL-000491,Data Governance: Communication
+SKL-000492,Data Governance: Implementation
+SKL-000493,Data Governance: Optimization
+SKL-000494,Data Governance: Controls
+SKL-000495,Data Governance: Reporting
+SKL-000496,Data Governance: Evaluation
+SKL-000497,Data Governance: Maintenance
+SKL-000498,Data Governance: Scaling
+SKL-000499,Data Governance: Change Management
+SKL-000500,Data Governance: Review

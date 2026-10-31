@@ -1,0 +1,4 @@
+fdf6bfd Add adversarial transaction checks and explainable scheduled course outcomes
+984bcdb Tie labelled anomaly events to baseline parents without contaminating planner inputs
+48a4e61 Add Mac entrypoint and explicit first-review coverage gates
+5f9af6b Build reproducible local learning-path planning workflow

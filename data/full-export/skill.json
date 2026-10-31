@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "SKL-000001",
+    "name": "Python: Foundations"
+  },
+  {
+    "id": "SKL-000002",
+    "name": "Python: Applied Practice"
+  },
+  {
+    "id": "SKL-000003",
+    "name": "Python: Diagnostics"
+  },
+  {
+    "id": "SKL-000004",
+    "name": "Python: Design"
+  },
+  {
+    "id": "SKL-000005",
+    "name": "Python: Validation"
+  },
+  {
+    "id": "SKL-000006",
+    "name": "Python: Automation"
+  },
+  {
+    "id": "SKL-000007",
+    "name": "Python: Quality"
+  },
+  {
+    "id": "SKL-000008",
+    "name": "Python: Performance"
+  },
+  {
+    "id": "SKL-000009",
+    "name": "Python: Documentation"
+  },
+  {
+    "id": "SKL-000010",
+    "name": "Python: Monitoring"
+  },
+  {
+    "id": "SKL-000011",
+    "name": "Python: Integration"
+  },
+  {
+    "id": "SKL-000012",
+    "name": "Python: Risk Review"
+  },
+  {
+    "id": "SKL-000013",
+    "name": "Python: Troubleshooting"
+  },
+  {
+    "id": "SKL-000014",
+    "name": "Python: Planning"
+  },
+  {
+    "id": "SKL-000015",
+    "name": "Python: Measurement"
+  },
+  {
+    "id": "SKL-000016",
+    "name": "Python: Communication"
+  },
+  {
+    "id": "SKL-000017",
+    "name": "Python: Implementation"
+  },
+  {
+    "id": "SKL-000018",
+    "name": "Python: Optimization"
+  },
+  {
+    "id": "SKL-000019",
+    "name": "Python: Controls"
+  },
+  {
+    "id": "SKL-000020",
+    "name": "Python: Reporting"
+  },
+  {
+    "id": "SKL-000021",
+    "name": "Python: Evaluation"
+  },
+  {
+    "id": "SKL-000022",
+    "name": "Python: Maintenance"
+  },
+  {
+    "id": "SKL-000023",
+    "name": "Python: Scaling"
+  },
+  {
+    "id": "SKL-000024",
+    "name": "Python: Change Management"
+  },
+  {
+    "id": "SKL-000025",
+    "name": "Python: Review"
+  },
+  {
+    "id": "SKL-000026",
+    "name": "SQL: Foundations"
+  },
+  {
+    "id": "SKL-000027",
+    "name": "SQL: Applied Practice"
+  },
+  {
+    "id": "SKL-000028",
+    "name": "SQL: Diagnostics"
+  },
+  {
+    "id": "SKL-000029",
+    "name": "SQL: Design"
+  },
+  {
+    "id": "SKL-000030",
+    "name": "SQL: Validation"
+  },
+  {
+    "id": "SKL-000031",
+    "name": "SQL: Automation"
+  },
+  {
+    "id": "SKL-000032",
+    "name": "SQL: Quality"
+  },
+  {
+    "id": "SKL-000033",
+    "name": "SQL: Performance"
+  },
+  {
+    "id": "SKL-000034",
+    "name": "SQL: Documentation"
+  },
+  {
+    "id": "SKL-000035",
+    "name": "SQL: Monitoring"
+  },
+  {
+    "id": "SKL-000036",
+    "name": "SQL: Integration"
+  },
+  {
+    "id": "SKL-000037",
+    "name": "SQL: Risk Review"
+  },
+  {
+    "id": "SKL-000038",
+    "name": "SQL: Troubleshooting"
+  },
+  {
+    "id": "SKL-000039",
+    "name": "SQL: Planning"
+  },
+  {
+    "id": "SKL-000040",
+    "name": "SQL: Measurement"
+  },
+  {
+    "id": "SKL-000041",
+    "name": "SQL: Communication"
+  },
+  {
+    "id": "SKL-000042",
+    "name": "SQL: Implementation"
+  },
+  {
+    "id": "SKL-000043",
+    "name": "SQL: Optimization"
+  },
+  {
+    "id": "SKL-000044",
+    "name": "SQL: Controls"
+  },
+  {
+    "id": "SKL-000045",
+    "name": "SQL: Reporting"
+  },
+  {
+    "id": "SKL-000046",
+    "name": "SQL: Evaluation"
+  },
+  {
+    "id": "SKL-000047",
+    "name": "SQL: Maintenance"
+  },
+  {
+    "id": "SKL-000048",
+    "name": "SQL: Scaling"
+  },
+  {
+    "id": "SKL-000049",
+    "name": "SQL: Change Management"
+  },
+  {
+    "id": "SKL-000050",
+    "name": "SQL: Review"
+  },
+  {
+    "id": "SKL-000051",
+    "name": "Data Modeling: Foundations"
+  },
+  {
+    "id": "SKL-000052",
+    "name": "Data Modeling: Applied Practice"
+  },
+  {
+    "id": "SKL-000053",
+    "name": "Data Modeling: Diagnostics"
+  },
+  {
+    "id": "SKL-000054",
+    "name": "Data Modeling: Design"
+  },
+  {
+    "id": "SKL-000055",
+    "name": "Data Modeling: Validation"
+  },
+  {
+    "id": "SKL-000056",
+    "name": "Data Modeling: Automation"
+  },
+  {
+    "id": "SKL-000057",
+    "name": "Data Modeling: Quality"
+  },
+  {
+    "id": "SKL-000058",
+    "name": "Data Modeling: Performance"
+  },
+  {
+    "id": "SKL-000059",
+    "name": "Data Modeling: Documentation"
+  },
+  {
+    "id": "SKL-000060",
+    "name": "Data Modeling: Monitoring"
+  },
+  {
+    "id": "SKL-000061",
+    "name": "Data Modeling: Integration"
+  },
+  {
+    "id": "SKL-000062",
+    "name": "Data Modeling: Risk Review"
+  },
+  {
+    "id": "SKL-000063",
+    "name": "Data Modeling: Troubleshooting"
+  },
+  {
+    "id": "SKL-000064",
+    "name": "Data Modeling: Planning"
+  },
+  {
+    "id": "SKL-000065",
+    "name": "Data Modeling: Measurement"
+  },
+  {
+    "id": "SKL-000066",
+    "name": "Data Modeling: Communication"
+  },
+  {
+    "id": "SKL-000067",
+    "name": "Data Modeling: Implementation"
+  },
+  {
+    "id": "SKL-000068",
+    "name": "Data Modeling: Optimization"
+  },
+  {
+    "id": "SKL-000069",
+    "name": "Data Modeling: Controls"
+  },
+  {
+    "id": "SKL-000070",
+    "name": "Data Modeling: Reporting"
+  },
+  {
+    "id": "SKL-000071",
+    "name": "Data Modeling: Evaluation"
+  },
+  {
+    "id": "SKL-000072",
+    "name": "Data Modeling: Maintenance"
+  },
+  {
+    "id": "SKL-000073",
+    "name": "Data Modeling: Scaling"
+  },
+  {
+    "id": "SKL-000074",
+    "name": "Data Modeling: Change Management"
+  },
+  {
+    "id": "SKL-000075",
+    "name": "Data Modeling: Review"
+  },
+  {
+    "id": "SKL-000076",
+    "name": "Statistics: Foundations"
+  },
+  {
+    "id": "SKL-000077",
+    "name": "Statistics: Applied Practice"
+  },
+  {
+    "id": "SKL-000078",
+    "name": "Statistics: Diagnostics"
+  },
+  {
+    "id": "SKL-000079",
+    "name": "Statistics: Design"
+  },
+  {
+    "id": "SKL-000080",
+    "name": "Statistics: Validation"
+  },
+  {
+    "id": "SKL-000081",
+    "name": "Statistics: Automation"
+  },
+  {
+    "id": "SKL-000082",
+    "name": "Statistics: Quality"
+  },
+  {
+    "id": "SKL-000083",
+    "name": "Statistics: Performance"
+  },
+  {
+    "id": "SKL-000084",
+    "name": "Statistics: Documentation"
+  },
+  {
+    "id": "SKL-000085",
+    "name": "Statistics: Monitoring"
+  },
+  {
+    "id": "SKL-000086",
+    "name": "Statistics: Integration"
+  },
+  {
+    "id": "SKL-000087",
+    "name": "Statistics: Risk Review"
+  },
+  {
+    "id": "SKL-000088",
+    "name": "Statistics: Troubleshooting"
+  },
+  {
+    "id": "SKL-000089",
+    "name": "Statistics: Planning"
+  },
+  {
+    "id": "SKL-000090",
+    "name": "Statistics: Measurement"
+  },
+  {
+    "id": "SKL-000091",
+    "name": "Statistics: Communication"
+  },
+  {
+    "id": "SKL-000092",
+    "name": "Statistics: Implementation"
+  },
+  {
+    "id": "SKL-000093",
+    "name": "Statistics: Optimization"
+  },
+  {
+    "id": "SKL-000094",
+    "name": "Statistics: Controls"
+  },
+  {
+    "id": "SKL-000095",
+    "name": "Statistics: Reporting"
+  },
+  {
+    "id": "SKL-000096",
+    "name": "Statistics: Evaluation"
+  },
+  {
+    "id": "SKL-000097",
+    "name": "Statistics: Maintenance"
+  },
+  {
+    "id": "SKL-000098",
+    "name": "Statistics: Scaling"
+  },
+  {
+    "id": "SKL-000099",
+    "name": "Statistics: Change Management"
+  },
+  {
+    "id": "SKL-000100",
+    "name": "Statistics: Review"
+  },
+  {
+    "id": "SKL-000101",
+    "name": "Machine Learning: Foundations"
+  },
+  {
+    "id": "SKL-000102",
+    "name": "Machine Learning: Applied Practice"
+  },
+  {
+    "id": "SKL-000103",
+    "name": "Machine Learning: Diagnostics"
+  },
+  {
+    "id": "SKL-000104",
+    "name": "Machine Learning: Design"
+  },
+  {
+    "id": "SKL-000105",
+    "name": "Machine Learning: Validation"
+  },
+  {
+    "id": "SKL-000106",
+    "name": "Machine Learning: Automation"
+  },
+  {
+    "id": "SKL-000107",
+    "name": "Machine Learning: Quality"
+  },
+  {
+    "id": "SKL-000108",
+    "name": "Machine Learning: Performance"
+  },
+  {
+    "id": "SKL-000109",
+    "name": "Machine Learning: Documentation"
+  },
+  {
+    "id": "SKL-000110",
+    "name": "Machine Learning: Monitoring"
+  },
+  {
+    "id": "SKL-000111",
+    "name": "Machine Learning: Integration"
+  },
+  {
+    "id": "SKL-000112",
+    "name": "Machine Learning: Risk Review"
+  },
+  {
+    "id": "SKL-000113",
+    "name": "Machine Learning: Troubleshooting"
+  },
+  {
+    "id": "SKL-000114",
+    "name": "Machine Learning: Planning"
+  },
+  {
+    "id": "SKL-000115",
+    "name": "Machine Learning: Measurement"
+  },
+  {
+    "id": "SKL-000116",
+    "name": "Machine Learning: Communication"
+  },
+  {
+    "id": "SKL-000117",
+    "name": "Machine Learning: Implementation"
+  },
+  {
+    "id": "SKL-000118",
+    "name": "Machine Learning: Optimization"
+  },
+  {
+    "id": "SKL-000119",
+    "name": "Machine Learning: Controls"
+  },
+  {
+    "id": "SKL-000120",
+    "name": "Machine Learning: Reporting"
+  },
+  {
+    "id": "SKL-000121",
+    "name": "Machine Learning: Evaluation"
+  },
+  {
+    "id": "SKL-000122",
+    "name": "Machine Learning: Maintenance"
+  },
+  {
+    "id": "SKL-000123",
+    "name": "Machine Learning: Scaling"
+  },
+  {
+    "id": "SKL-000124",
+    "name": "Machine Learning: Change Management"
+  },
+  {
+    "id": "SKL-000125",
+    "name": "Machine Learning: Review"
+  },
+  {
+    "id": "SKL-000126",
+    "name": "API Design: Foundations"
+  },
+  {
+    "id": "SKL-000127",
+    "name": "API Design: Applied Practice"
+  },
+  {
+    "id": "SKL-000128",
+    "name": "API Design: Diagnostics"
+  },
+  {
+    "id": "SKL-000129",
+    "name": "API Design: Design"
+  },
+  {
+    "id": "SKL-000130",
+    "name": "API Design: Validation"
+  },
+  {
+    "id": "SKL-000131",
+    "name": "API Design: Automation"
+  },
+  {
+    "id": "SKL-000132",
+    "name": "API Design: Quality"
+  },
+  {
+    "id": "SKL-000133",
+    "name": "API Design: Performance"
+  },
+  {
+    "id": "SKL-000134",
+    "name": "API Design: Documentation"
+  },
+  {
+    "id": "SKL-000135",
+    "name": "API Design: Monitoring"
+  },
+  {
+    "id": "SKL-000136",
+    "name": "API Design: Integration"
+  },
+  {
+    "id": "SKL-000137",
+    "name": "API Design: Risk Review"
+  },
+  {
+    "id": "SKL-000138",
+    "name": "API Design: Troubleshooting"
+  },
+  {
+    "id": "SKL-000139",
+    "name": "API Design: Planning"
+  },
+  {
+    "id": "SKL-000140",
+    "name": "API Design: Measurement"
+  },
+  {
+    "id": "SKL-000141",
+    "name": "API Design: Communication"
+  },
+  {
+    "id": "SKL-000142",
+    "name": "API Design: Implementation"
+  },
+  {
+    "id": "SKL-000143",
+    "name": "API Design: Optimization"
+  },
+  {
+    "id": "SKL-000144",
+    "name": "API Design: Controls"
+  },
+  {
+    "id": "SKL-000145",
+    "name": "API Design: Reporting"
+  },
+  {
+    "id": "SKL-000146",
+    "name": "API Design: Evaluation"
+  },
+  {
+    "id": "SKL-000147",
+    "name": "API Design: Maintenance"
+  },
+  {
+    "id": "SKL-000148",
+    "name": "API Design: Scaling"
+  },
+  {
+    "id": "SKL-000149",
+    "name": "API Design: Change Management"
+  },
+  {
+    "id": "SKL-000150",
+    "name": "API Design: Review"
+  },
+  {
+    "id": "SKL-000151",
+    "name": "Cloud Fundamentals: Foundations"
+  },
+  {
+    "id": "SKL-000152",
+    "name": "Cloud Fundamentals: Applied Practice"
+  },
+  {
+    "id": "SKL-000153",
+    "name": "Cloud Fundamentals: Diagnostics"
+  },
+  {
+    "id": "SKL-000154",
+    "name": "Cloud Fundamentals: Design"
+  },
+  {
+    "id": "SKL-000155",
+    "name": "Cloud Fundamentals: Validation"
+  },
+  {
+    "id": "SKL-000156",
+    "name": "Cloud Fundamentals: Automation"
+  },
+  {
+    "id": "SKL-000157",
+    "name": "Cloud Fundamentals: Quality"
+  },
+  {
+    "id": "SKL-000158",
+    "name": "Cloud Fundamentals: Performance"
+  },
+  {
+    "id": "SKL-000159",
+    "name": "Cloud Fundamentals: Documentation"
+  },
+  {
+    "id": "SKL-000160",
+    "name": "Cloud Fundamentals: Monitoring"
+  },
+  {
+    "id": "SKL-000161",
+    "name": "Cloud Fundamentals: Integration"
+  },
+  {
+    "id": "SKL-000162",
+    "name": "Cloud Fundamentals: Risk Review"
+  },
+  {
+    "id": "SKL-000163",
+    "name": "Cloud Fundamentals: Troubleshooting"
+  },
+  {
+    "id": "SKL-000164",
+    "name": "Cloud Fundamentals: Planning"
+  },
+  {
+    "id": "SKL-000165",
+    "name": "Cloud Fundamentals: Measurement"
+  },
+  {
+    "id": "SKL-000166",
+    "name": "Cloud Fundamentals: Communication"
+  },
+  {
+    "id": "SKL-000167",
+    "name": "Cloud Fundamentals: Implementation"
+  },
+  {
+    "id": "SKL-000168",
+    "name": "Cloud Fundamentals: Optimization"
+  },
+  {
+    "id": "SKL-000169",
+    "name": "Cloud Fundamentals: Controls"
+  },
+  {
+    "id": "SKL-000170",
+    "name": "Cloud Fundamentals: Reporting"
+  },
+  {
+    "id": "SKL-000171",
+    "name": "Cloud Fundamentals: Evaluation"
+  },
+  {
+    "id": "SKL-000172",
+    "name": "Cloud Fundamentals: Maintenance"
+  },
+  {
+    "id": "SKL-000173",
+    "name": "Cloud Fundamentals: Scaling"
+  },
+  {
+    "id": "SKL-000174",
+    "name": "Cloud Fundamentals: Change Management"
+  },
+  {
+    "id": "SKL-000175",
+    "name": "Cloud Fundamentals: Review"
+  },
+  {
+    "id": "SKL-000176",
+    "name": "Security: Foundations"
+  },
+  {
+    "id": "SKL-000177",
+    "name": "Security: Applied Practice"
+  },
+  {
+    "id": "SKL-000178",
+    "name": "Security: Diagnostics"
+  },
+  {
+    "id": "SKL-000179",
+    "name": "Security: Design"
+  },
+  {
+    "id": "SKL-000180",
+    "name": "Security: Validation"
+  },
+  {
+    "id": "SKL-000181",
+    "name": "Security: Automation"
+  },
+  {
+    "id": "SKL-000182",
+    "name": "Security: Quality"
+  },
+  {
+    "id": "SKL-000183",
+    "name": "Security: Performance"
+  },
+  {
+    "id": "SKL-000184",
+    "name": "Security: Documentation"
+  },
+  {
+    "id": "SKL-000185",
+    "name": "Security: Monitoring"
+  },
+  {
+    "id": "SKL-000186",
+    "name": "Security: Integration"
+  },
+  {
+    "id": "SKL-000187",
+    "name": "Security: Risk Review"
+  },
+  {
+    "id": "SKL-000188",
+    "name": "Security: Troubleshooting"
+  },
+  {
+    "id": "SKL-000189",
+    "name": "Security: Planning"
+  },
+  {
+    "id": "SKL-000190",
+    "name": "Security: Measurement"
+  },
+  {
+    "id": "SKL-000191",
+    "name": "Security: Communication"
+  },
+  {
+    "id": "SKL-000192",
+    "name": "Security: Implementation"
+  },
+  {
+    "id": "SKL-000193",
+    "name": "Security: Optimization"
+  },
+  {
+    "id": "SKL-000194",
+    "name": "Security: Controls"
+  },
+  {
+    "id": "SKL-000195",
+    "name": "Security: Reporting"
+  },
+  {
+    "id": "SKL-000196",
+    "name": "Security: Evaluation"
+  },
+  {
+    "id": "SKL-000197",
+    "name": "Security: Maintenance"
+  },
+  {
+    "id": "SKL-000198",
+    "name": "Security: Scaling"
+  },
+  {
+    "id": "SKL-000199",
+    "name": "Security: Change Management"
+  },
+  {
+    "id": "SKL-000200",
+    "name": "Security: Review"
+  },
+  {
+    "id": "SKL-000201",
+    "name": "Reliability: Foundations"
+  },
+  {
+    "id": "SKL-000202",
+    "name": "Reliability: Applied Practice"
+  },
+  {
+    "id": "SKL-000203",
+    "name": "Reliability: Diagnostics"
+  },
+  {
+    "id": "SKL-000204",
+    "name": "Reliability: Design"
+  },
+  {
+    "id": "SKL-000205",
+    "name": "Reliability: Validation"
+  },
+  {
+    "id": "SKL-000206",
+    "name": "Reliability: Automation"
+  },
+  {
+    "id": "SKL-000207",
+    "name": "Reliability: Quality"
+  },
+  {
+    "id": "SKL-000208",
+    "name": "Reliability: Performance"
+  },
+  {
+    "id": "SKL-000209",
+    "name": "Reliability: Documentation"
+  },
+  {
+    "id": "SKL-000210",
+    "name": "Reliability: Monitoring"
+  },
+  {
+    "id": "SKL-000211",
+    "name": "Reliability: Integration"
+  },
+  {
+    "id": "SKL-000212",
+    "name": "Reliability: Risk Review"
+  },
+  {
+    "id": "SKL-000213",
+    "name": "Reliability: Troubleshooting"
+  },
+  {
+    "id": "SKL-000214",
+    "name": "Reliability: Planning"
+  },
+  {
+    "id": "SKL-000215",
+    "name": "Reliability: Measurement"
+  },
+  {
+    "id": "SKL-000216",
+    "name": "Reliability: Communication"
+  },
+  {
+    "id": "SKL-000217",
+    "name": "Reliability: Implementation"
+  },
+  {
+    "id": "SKL-000218",
+    "name": "Reliability: Optimization"
+  },
+  {
+    "id": "SKL-000219",
+    "name": "Reliability: Controls"
+  },
+  {
+    "id": "SKL-000220",
+    "name": "Reliability: Reporting"
+  },
+  {
+    "id": "SKL-000221",
+    "name": "Reliability: Evaluation"
+  },
+  {
+    "id": "SKL-000222",
+    "name": "Reliability: Maintenance"
+  },
+  {
+    "id": "SKL-000223",
+    "name": "Reliability: Scaling"
+  },
+  {
+    "id": "SKL-000224",
+    "name": "Reliability: Change Management"
+  },
+  {
+    "id": "SKL-000225",
+    "name": "Reliability: Review"
+  },
+  {
+    "id": "SKL-000226",
+    "name": "Test Engineering: Foundations"
+  },
+  {
+    "id": "SKL-000227",
+    "name": "Test Engineering: Applied Practice"
+  },
+  {
+    "id": "SKL-000228",
+    "name": "Test Engineering: Diagnostics"
+  },
+  {
+    "id": "SKL-000229",
+    "name": "Test Engineering: Design"
+  },
+  {
+    "id": "SKL-000230",
+    "name": "Test Engineering: Validation"
+  },
+  {
+    "id": "SKL-000231",
+    "name": "Test Engineering: Automation"
+  },
+  {
+    "id": "SKL-000232",
+    "name": "Test Engineering: Quality"
+  },
+  {
+    "id": "SKL-000233",
+    "name": "Test Engineering: Performance"
+  },
+  {
+    "id": "SKL-000234",
+    "name": "Test Engineering: Documentation"
+  },
+  {
+    "id": "SKL-000235",
+    "name": "Test Engineering: Monitoring"
+  },
+  {
+    "id": "SKL-000236",
+    "name": "Test Engineering: Integration"
+  },
+  {
+    "id": "SKL-000237",
+    "name": "Test Engineering: Risk Review"
+  },
+  {
+    "id": "SKL-000238",
+    "name": "Test Engineering: Troubleshooting"
+  },
+  {
+    "id": "SKL-000239",
+    "name": "Test Engineering: Planning"
+  },
+  {
+    "id": "SKL-000240",
+    "name": "Test Engineering: Measurement"
+  },
+  {
+    "id": "SKL-000241",
+    "name": "Test Engineering: Communication"
+  },
+  {
+    "id": "SKL-000242",
+    "name": "Test Engineering: Implementation"
+  },
+  {
+    "id": "SKL-000243",
+    "name": "Test Engineering: Optimization"
+  },
+  {
+    "id": "SKL-000244",
+    "name": "Test Engineering: Controls"
+  },
+  {
+    "id": "SKL-000245",
+    "name": "Test Engineering: Reporting"
+  },
+  {
+    "id": "SKL-000246",
+    "name": "Test Engineering: Evaluation"
+  },
+  {
+    "id": "SKL-000247",
+    "name": "Test Engineering: Maintenance"
+  },
+  {
+    "id": "SKL-000248",
+    "name": "Test Engineering: Scaling"
+  },
+  {
+    "id": "SKL-000249",
+    "name": "Test Engineering: Change Management"
+  },
+  {
+    "id": "SKL-000250",
+    "name": "Test Engineering: Review"
+  },
+  {
+    "id": "SKL-000251",
+    "name": "Product Analytics: Foundations"
+  },
+  {
+    "id": "SKL-000252",
+    "name": "Product Analytics: Applied Practice"
+  },
+  {
+    "id": "SKL-000253",
+    "name": "Product Analytics: Diagnostics"
+  },
+  {
+    "id": "SKL-000254",
+    "name": "Product Analytics: Design"
+  },
+  {
+    "id": "SKL-000255",
+    "name": "Product Analytics: Validation"
+  },
+  {
+    "id": "SKL-000256",
+    "name": "Product Analytics: Automation"
+  },
+  {
+    "id": "SKL-000257",
+    "name": "Product Analytics: Quality"
+  },
+  {
+    "id": "SKL-000258",
+    "name": "Product Analytics: Performance"
+  },
+  {
+    "id": "SKL-000259",
+    "name": "Product Analytics: Documentation"
+  },
+  {
+    "id": "SKL-000260",
+    "name": "Product Analytics: Monitoring"
+  },
+  {
+    "id": "SKL-000261",
+    "name": "Product Analytics: Integration"
+  },
+  {
+    "id": "SKL-000262",
+    "name": "Product Analytics: Risk Review"
+  },
+  {
+    "id": "SKL-000263",
+    "name": "Product Analytics: Troubleshooting"
+  },
+  {
+    "id": "SKL-000264",
+    "name": "Product Analytics: Planning"
+  },
+  {
+    "id": "SKL-000265",
+    "name": "Product Analytics: Measurement"
+  },
+  {
+    "id": "SKL-000266",
+    "name": "Product Analytics: Communication"
+  },
+  {
+    "id": "SKL-000267",
+    "name": "Product Analytics: Implementation"
+  },
+  {
+    "id": "SKL-000268",
+    "name": "Product Analytics: Optimization"
+  },
+  {
+    "id": "SKL-000269",
+    "name": "Product Analytics: Controls"
+  },
+  {
+    "id": "SKL-000270",
+    "name": "Product Analytics: Reporting"
+  },
+  {
+    "id": "SKL-000271",
+    "name": "Product Analytics: Evaluation"
+  },
+  {
+    "id": "SKL-000272",
+    "name": "Product Analytics: Maintenance"
+  },
+  {
+    "id": "SKL-000273",
+    "name": "Product Analytics: Scaling"
+  },
+  {
+    "id": "SKL-000274",
+    "name": "Product Analytics: Change Management"
+  },
+  {
+    "id": "SKL-000275",
+    "name": "Product Analytics: Review"
+  },
+  {
+    "id": "SKL-000276",
+    "name": "Customer Support: Foundations"
+  },
+  {
+    "id": "SKL-000277",
+    "name": "Customer Support: Applied Practice"
+  },
+  {
+    "id": "SKL-000278",
+    "name": "Customer Support: Diagnostics"
+  },
+  {
+    "id": "SKL-000279",
+    "name": "Customer Support: Design"
+  },
+  {
+    "id": "SKL-000280",
+    "name": "Customer Support: Validation"
+  },
+  {
+    "id": "SKL-000281",
+    "name": "Customer Support: Automation"
+  },
+  {
+    "id": "SKL-000282",
+    "name": "Customer Support: Quality"
+  },
+  {
+    "id": "SKL-000283",
+    "name": "Customer Support: Performance"
+  },
+  {
+    "id": "SKL-000284",
+    "name": "Customer Support: Documentation"
+  },
+  {
+    "id": "SKL-000285",
+    "name": "Customer Support: Monitoring"
+  },
+  {
+    "id": "SKL-000286",
+    "name": "Customer Support: Integration"
+  },
+  {
+    "id": "SKL-000287",
+    "name": "Customer Support: Risk Review"
+  },
+  {
+    "id": "SKL-000288",
+    "name": "Customer Support: Troubleshooting"
+  },
+  {
+    "id": "SKL-000289",
+    "name": "Customer Support: Planning"
+  },
+  {
+    "id": "SKL-000290",
+    "name": "Customer Support: Measurement"
+  },
+  {
+    "id": "SKL-000291",
+    "name": "Customer Support: Communication"
+  },
+  {
+    "id": "SKL-000292",
+    "name": "Customer Support: Implementation"
+  },
+  {
+    "id": "SKL-000293",
+    "name": "Customer Support: Optimization"
+  },
+  {
+    "id": "SKL-000294",
+    "name": "Customer Support: Controls"
+  },
+  {
+    "id": "SKL-000295",
+    "name": "Customer Support: Reporting"
+  },
+  {
+    "id": "SKL-000296",
+    "name": "Customer Support: Evaluation"
+  },
+  {
+    "id": "SKL-000297",
+    "name": "Customer Support: Maintenance"
+  },
+  {
+    "id": "SKL-000298",
+    "name": "Customer Support: Scaling"
+  },
+  {
+    "id": "SKL-000299",
+    "name": "Customer Support: Change Management"
+  },
+  {
+    "id": "SKL-000300",
+    "name": "Customer Support: Review"
+  },
+  {
+    "id": "SKL-000301",
+    "name": "Process Analysis: Foundations"
+  },
+  {
+    "id": "SKL-000302",
+    "name": "Process Analysis: Applied Practice"
+  },
+  {
+    "id": "SKL-000303",
+    "name": "Process Analysis: Diagnostics"
+  },
+  {
+    "id": "SKL-000304",
+    "name": "Process Analysis: Design"
+  },
+  {
+    "id": "SKL-000305",
+    "name": "Process Analysis: Validation"
+  },
+  {
+    "id": "SKL-000306",
+    "name": "Process Analysis: Automation"
+  },
+  {
+    "id": "SKL-000307",
+    "name": "Process Analysis: Quality"
+  },
+  {
+    "id": "SKL-000308",
+    "name": "Process Analysis: Performance"
+  },
+  {
+    "id": "SKL-000309",
+    "name": "Process Analysis: Documentation"
+  },
+  {
+    "id": "SKL-000310",
+    "name": "Process Analysis: Monitoring"
+  },
+  {
+    "id": "SKL-000311",
+    "name": "Process Analysis: Integration"
+  },
+  {
+    "id": "SKL-000312",
+    "name": "Process Analysis: Risk Review"
+  },
+  {
+    "id": "SKL-000313",
+    "name": "Process Analysis: Troubleshooting"
+  },
+  {
+    "id": "SKL-000314",
+    "name": "Process Analysis: Planning"
+  },
+  {
+    "id": "SKL-000315",
+    "name": "Process Analysis: Measurement"
+  },
+  {
+    "id": "SKL-000316",
+    "name": "Process Analysis: Communication"
+  },
+  {
+    "id": "SKL-000317",
+    "name": "Process Analysis: Implementation"
+  },
+  {
+    "id": "SKL-000318",
+    "name": "Process Analysis: Optimization"
+  },
+  {
+    "id": "SKL-000319",
+    "name": "Process Analysis: Controls"
+  },
+  {
+    "id": "SKL-000320",
+    "name": "Process Analysis: Reporting"
+  },
+  {
+    "id": "SKL-000321",
+    "name": "Process Analysis: Evaluation"
+  },
+  {
+    "id": "SKL-000322",
+    "name": "Process Analysis: Maintenance"
+  },
+  {
+    "id": "SKL-000323",
+    "name": "Process Analysis: Scaling"
+  },
+  {
+    "id": "SKL-000324",
+    "name": "Process Analysis: Change Management"
+  },
+  {
+    "id": "SKL-000325",
+    "name": "Process Analysis: Review"
+  },
+  {
+    "id": "SKL-000326",
+    "name": "Operations: Foundations"
+  },
+  {
+    "id": "SKL-000327",
+    "name": "Operations: Applied Practice"
+  },
+  {
+    "id": "SKL-000328",
+    "name": "Operations: Diagnostics"
+  },
+  {
+    "id": "SKL-000329",
+    "name": "Operations: Design"
+  },
+  {
+    "id": "SKL-000330",
+    "name": "Operations: Validation"
+  },
+  {
+    "id": "SKL-000331",
+    "name": "Operations: Automation"
+  },
+  {
+    "id": "SKL-000332",
+    "name": "Operations: Quality"
+  },
+  {
+    "id": "SKL-000333",
+    "name": "Operations: Performance"
+  },
+  {
+    "id": "SKL-000334",
+    "name": "Operations: Documentation"
+  },
+  {
+    "id": "SKL-000335",
+    "name": "Operations: Monitoring"
+  },
+  {
+    "id": "SKL-000336",
+    "name": "Operations: Integration"
+  },
+  {
+    "id": "SKL-000337",
+    "name": "Operations: Risk Review"
+  },
+  {
+    "id": "SKL-000338",
+    "name": "Operations: Troubleshooting"
+  },
+  {
+    "id": "SKL-000339",
+    "name": "Operations: Planning"
+  },
+  {
+    "id": "SKL-000340",
+    "name": "Operations: Measurement"
+  },
+  {
+    "id": "SKL-000341",
+    "name": "Operations: Communication"
+  },
+  {
+    "id": "SKL-000342",
+    "name": "Operations: Implementation"
+  },
+  {
+    "id": "SKL-000343",
+    "name": "Operations: Optimization"
+  },
+  {
+    "id": "SKL-000344",
+    "name": "Operations: Controls"
+  },
+  {
+    "id": "SKL-000345",
+    "name": "Operations: Reporting"
+  },
+  {
+    "id": "SKL-000346",
+    "name": "Operations: Evaluation"
+  },
+  {
+    "id": "SKL-000347",
+    "name": "Operations: Maintenance"
+  },
+  {
+    "id": "SKL-000348",
+    "name": "Operations: Scaling"
+  },
+  {
+    "id": "SKL-000349",
+    "name": "Operations: Change Management"
+  },
+  {
+    "id": "SKL-000350",
+    "name": "Operations: Review"
+  },
+  {
+    "id": "SKL-000351",
+    "name": "Financial Analysis: Foundations"
+  },
+  {
+    "id": "SKL-000352",
+    "name": "Financial Analysis: Applied Practice"
+  },
+  {
+    "id": "SKL-000353",
+    "name": "Financial Analysis: Diagnostics"
+  },
+  {
+    "id": "SKL-000354",
+    "name": "Financial Analysis: Design"
+  },
+  {
+    "id": "SKL-000355",
+    "name": "Financial Analysis: Validation"
+  },
+  {
+    "id": "SKL-000356",
+    "name": "Financial Analysis: Automation"
+  },
+  {
+    "id": "SKL-000357",
+    "name": "Financial Analysis: Quality"
+  },
+  {
+    "id": "SKL-000358",
+    "name": "Financial Analysis: Performance"
+  },
+  {
+    "id": "SKL-000359",
+    "name": "Financial Analysis: Documentation"
+  },
+  {
+    "id": "SKL-000360",
+    "name": "Financial Analysis: Monitoring"
+  },
+  {
+    "id": "SKL-000361",
+    "name": "Financial Analysis: Integration"
+  },
+  {
+    "id": "SKL-000362",
+    "name": "Financial Analysis: Risk Review"
+  },
+  {
+    "id": "SKL-000363",
+    "name": "Financial Analysis: Troubleshooting"
+  },
+  {
+    "id": "SKL-000364",
+    "name": "Financial Analysis: Planning"
+  },
+  {
+    "id": "SKL-000365",
+    "name": "Financial Analysis: Measurement"
+  },
+  {
+    "id": "SKL-000366",
+    "name": "Financial Analysis: Communication"
+  },
+  {
+    "id": "SKL-000367",
+    "name": "Financial Analysis: Implementation"
+  },
+  {
+    "id": "SKL-000368",
+    "name": "Financial Analysis: Optimization"
+  },
+  {
+    "id": "SKL-000369",
+    "name": "Financial Analysis: Controls"
+  },
+  {
+    "id": "SKL-000370",
+    "name": "Financial Analysis: Reporting"
+  },
+  {
+    "id": "SKL-000371",
+    "name": "Financial Analysis: Evaluation"
+  },
+  {
+    "id": "SKL-000372",
+    "name": "Financial Analysis: Maintenance"
+  },
+  {
+    "id": "SKL-000373",
+    "name": "Financial Analysis: Scaling"
+  },
+  {
+    "id": "SKL-000374",
+    "name": "Financial Analysis: Change Management"
+  },
+  {
+    "id": "SKL-000375",
+    "name": "Financial Analysis: Review"
+  },
+  {
+    "id": "SKL-000376",
+    "name": "People Analytics: Foundations"
+  },
+  {
+    "id": "SKL-000377",
+    "name": "People Analytics: Applied Practice"
+  },
+  {
+    "id": "SKL-000378",
+    "name": "People Analytics: Diagnostics"
+  },
+  {
+    "id": "SKL-000379",
+    "name": "People Analytics: Design"
+  },
+  {
+    "id": "SKL-000380",
+    "name": "People Analytics: Validation"
+  },
+  {
+    "id": "SKL-000381",
+    "name": "People Analytics: Automation"
+  },
+  {
+    "id": "SKL-000382",
+    "name": "People Analytics: Quality"
+  },
+  {
+    "id": "SKL-000383",
+    "name": "People Analytics: Performance"
+  },
+  {
+    "id": "SKL-000384",
+    "name": "People Analytics: Documentation"
+  },
+  {
+    "id": "SKL-000385",
+    "name": "People Analytics: Monitoring"
+  },
+  {
+    "id": "SKL-000386",
+    "name": "People Analytics: Integration"
+  },
+  {
+    "id": "SKL-000387",
+    "name": "People Analytics: Risk Review"
+  },
+  {
+    "id": "SKL-000388",
+    "name": "People Analytics: Troubleshooting"
+  },
+  {
+    "id": "SKL-000389",
+    "name": "People Analytics: Planning"
+  },
+  {
+    "id": "SKL-000390",
+    "name": "People Analytics: Measurement"
+  },
+  {
+    "id": "SKL-000391",
+    "name": "People Analytics: Communication"
+  },
+  {
+    "id": "SKL-000392",
+    "name": "People Analytics: Implementation"
+  },
+  {
+    "id": "SKL-000393",
+    "name": "People Analytics: Optimization"
+  },
+  {
+    "id": "SKL-000394",
+    "name": "People Analytics: Controls"
+  },
+  {
+    "id": "SKL-000395",
+    "name": "People Analytics: Reporting"
+  },
+  {
+    "id": "SKL-000396",
+    "name": "People Analytics: Evaluation"
+  },
+  {
+    "id": "SKL-000397",
+    "name": "People Analytics: Maintenance"
+  },
+  {
+    "id": "SKL-000398",
+    "name": "People Analytics: Scaling"
+  },
+  {
+    "id": "SKL-000399",
+    "name": "People Analytics: Change Management"
+  },
+  {
+    "id": "SKL-000400",
+    "name": "People Analytics: Review"
+  },
+  {
+    "id": "SKL-000401",
+    "name": "Learning Design: Foundations"
+  },
+  {
+    "id": "SKL-000402",
+    "name": "Learning Design: Applied Practice"
+  },
+  {
+    "id": "SKL-000403",
+    "name": "Learning Design: Diagnostics"
+  },
+  {
+    "id": "SKL-000404",
+    "name": "Learning Design: Design"
+  },
+  {
+    "id": "SKL-000405",
+    "name": "Learning Design: Validation"
+  },
+  {
+    "id": "SKL-000406",
+    "name": "Learning Design: Automation"
+  },
+  {
+    "id": "SKL-000407",
+    "name": "Learning Design: Quality"
+  },
+  {
+    "id": "SKL-000408",
+    "name": "Learning Design: Performance"
+  },
+  {
+    "id": "SKL-000409",
+    "name": "Learning Design: Documentation"
+  },
+  {
+    "id": "SKL-000410",
+    "name": "Learning Design: Monitoring"
+  },
+  {
+    "id": "SKL-000411",
+    "name": "Learning Design: Integration"
+  },
+  {
+    "id": "SKL-000412",
+    "name": "Learning Design: Risk Review"
+  },
+  {
+    "id": "SKL-000413",
+    "name": "Learning Design: Troubleshooting"
+  },
+  {
+    "id": "SKL-000414",
+    "name": "Learning Design: Planning"
+  },
+  {
+    "id": "SKL-000415",
+    "name": "Learning Design: Measurement"
+  },
+  {
+    "id": "SKL-000416",
+    "name": "Learning Design: Communication"
+  },
+  {
+    "id": "SKL-000417",
+    "name": "Learning Design: Implementation"
+  },
+  {
+    "id": "SKL-000418",
+    "name": "Learning Design: Optimization"
+  },
+  {
+    "id": "SKL-000419",
+    "name": "Learning Design: Controls"
+  },
+  {
+    "id": "SKL-000420",
+    "name": "Learning Design: Reporting"
+  },
+  {
+    "id": "SKL-000421",
+    "name": "Learning Design: Evaluation"
+  },
+  {
+    "id": "SKL-000422",
+    "name": "Learning Design: Maintenance"
+  },
+  {
+    "id": "SKL-000423",
+    "name": "Learning Design: Scaling"
+  },
+  {
+    "id": "SKL-000424",
+    "name": "Learning Design: Change Management"
+  },
+  {
+    "id": "SKL-000425",
+    "name": "Learning Design: Review"
+  },
+  {
+    "id": "SKL-000426",
+    "name": "Technical Sales: Foundations"
+  },
+  {
+    "id": "SKL-000427",
+    "name": "Technical Sales: Applied Practice"
+  },
+  {
+    "id": "SKL-000428",
+    "name": "Technical Sales: Diagnostics"
+  },
+  {
+    "id": "SKL-000429",
+    "name": "Technical Sales: Design"
+  },
+  {
+    "id": "SKL-000430",
+    "name": "Technical Sales: Validation"
+  },
+  {
+    "id": "SKL-000431",
+    "name": "Technical Sales: Automation"
+  },
+  {
+    "id": "SKL-000432",
+    "name": "Technical Sales: Quality"
+  },
+  {
+    "id": "SKL-000433",
+    "name": "Technical Sales: Performance"
+  },
+  {
+    "id": "SKL-000434",
+    "name": "Technical Sales: Documentation"
+  },
+  {
+    "id": "SKL-000435",
+    "name": "Technical Sales: Monitoring"
+  },
+  {
+    "id": "SKL-000436",
+    "name": "Technical Sales: Integration"
+  },
+  {
+    "id": "SKL-000437",
+    "name": "Technical Sales: Risk Review"
+  },
+  {
+    "id": "SKL-000438",
+    "name": "Technical Sales: Troubleshooting"
+  },
+  {
+    "id": "SKL-000439",
+    "name": "Technical Sales: Planning"
+  },
+  {
+    "id": "SKL-000440",
+    "name": "Technical Sales: Measurement"
+  },
+  {
+    "id": "SKL-000441",
+    "name": "Technical Sales: Communication"
+  },
+  {
+    "id": "SKL-000442",
+    "name": "Technical Sales: Implementation"
+  },
+  {
+    "id": "SKL-000443",
+    "name": "Technical Sales: Optimization"
+  },
+  {
+    "id": "SKL-000444",
+    "name": "Technical Sales: Controls"
+  },
+  {
+    "id": "SKL-000445",
+    "name": "Technical Sales: Reporting"
+  },
+  {
+    "id": "SKL-000446",
+    "name": "Technical Sales: Evaluation"
+  },
+  {
+    "id": "SKL-000447",
+    "name": "Technical Sales: Maintenance"
+  },
+  {
+    "id": "SKL-000448",
+    "name": "Technical Sales: Scaling"
+  },
+  {
+    "id": "SKL-000449",
+    "name": "Technical Sales: Change Management"
+  },
+  {
+    "id": "SKL-000450",
+    "name": "Technical Sales: Review"
+  },
+  {
+    "id": "SKL-000451",
+    "name": "Solution Design: Foundations"
+  },
+  {
+    "id": "SKL-000452",
+    "name": "Solution Design: Applied Practice"
+  },
+  {
+    "id": "SKL-000453",
+    "name": "Solution Design: Diagnostics"
+  },
+  {
+    "id": "SKL-000454",
+    "name": "Solution Design: Design"
+  },
+  {
+    "id": "SKL-000455",
+    "name": "Solution Design: Validation"
+  },
+  {
+    "id": "SKL-000456",
+    "name": "Solution Design: Automation"
+  },
+  {
+    "id": "SKL-000457",
+    "name": "Solution Design: Quality"
+  },
+  {
+    "id": "SKL-000458",
+    "name": "Solution Design: Performance"
+  },
+  {
+    "id": "SKL-000459",
+    "name": "Solution Design: Documentation"
+  },
+  {
+    "id": "SKL-000460",
+    "name": "Solution Design: Monitoring"
+  },
+  {
+    "id": "SKL-000461",
+    "name": "Solution Design: Integration"
+  },
+  {
+    "id": "SKL-000462",
+    "name": "Solution Design: Risk Review"
+  },
+  {
+    "id": "SKL-000463",
+    "name": "Solution Design: Troubleshooting"
+  },
+  {
+    "id": "SKL-000464",
+    "name": "Solution Design: Planning"
+  },
+  {
+    "id": "SKL-000465",
+    "name": "Solution Design: Measurement"
+  },
+  {
+    "id": "SKL-000466",
+    "name": "Solution Design: Communication"
+  },
+  {
+    "id": "SKL-000467",
+    "name": "Solution Design: Implementation"
+  },
+  {
+    "id": "SKL-000468",
+    "name": "Solution Design: Optimization"
+  },
+  {
+    "id": "SKL-000469",
+    "name": "Solution Design: Controls"
+  },
+  {
+    "id": "SKL-000470",
+    "name": "Solution Design: Reporting"
+  },
+  {
+    "id": "SKL-000471",
+    "name": "Solution Design: Evaluation"
+  },
+  {
+    "id": "SKL-000472",
+    "name": "Solution Design: Maintenance"
+  },
+  {
+    "id": "SKL-000473",
+    "name": "Solution Design: Scaling"
+  },
+  {
+    "id": "SKL-000474",
+    "name": "Solution Design: Change Management"
+  },
+  {
+    "id": "SKL-000475",
+    "name": "Solution Design: Review"
+  },
+  {
+    "id": "SKL-000476",
+    "name": "Data Governance: Foundations"
+  },
+  {
+    "id": "SKL-000477",
+    "name": "Data Governance: Applied Practice"
+  },
+  {
+    "id": "SKL-000478",
+    "name": "Data Governance: Diagnostics"
+  },
+  {
+    "id": "SKL-000479",
+    "name": "Data Governance: Design"
+  },
+  {
+    "id": "SKL-000480",
+    "name": "Data Governance: Validation"
+  },
+  {
+    "id": "SKL-000481",
+    "name": "Data Governance: Automation"
+  },
+  {
+    "id": "SKL-000482",
+    "name": "Data Governance: Quality"
+  },
+  {
+    "id": "SKL-000483",
+    "name": "Data Governance: Performance"
+  },
+  {
+    "id": "SKL-000484",
+    "name": "Data Governance: Documentation"
+  },
+  {
+    "id": "SKL-000485",
+    "name": "Data Governance: Monitoring"
+  },
+  {
+    "id": "SKL-000486",
+    "name": "Data Governance: Integration"
+  },
+  {
+    "id": "SKL-000487",
+    "name": "Data Governance: Risk Review"
+  },
+  {
+    "id": "SKL-000488",
+    "name": "Data Governance: Troubleshooting"
+  },
+  {
+    "id": "SKL-000489",
+    "name": "Data Governance: Planning"
+  },
+  {
+    "id": "SKL-000490",
+    "name": "Data Governance: Measurement"
+  },
+  {
+    "id": "SKL-000491",
+    "name": "Data Governance: Communication"
+  },
+  {
+    "id": "SKL-000492",
+    "name": "Data Governance: Implementation"
+  },
+  {
+    "id": "SKL-000493",
+    "name": "Data Governance: Optimization"
+  },
+  {
+    "id": "SKL-000494",
+    "name": "Data Governance: Controls"
+  },
+  {
+    "id": "SKL-000495",
+    "name": "Data Governance: Reporting"
+  },
+  {
+    "id": "SKL-000496",
+    "name": "Data Governance: Evaluation"
+  },
+  {
+    "id": "SKL-000497",
+    "name": "Data Governance: Maintenance"
+  },
+  {
+    "id": "SKL-000498",
+    "name": "Data Governance: Scaling"
+  },
+  {
+    "id": "SKL-000499",
+    "name": "Data Governance: Change Management"
+  },
+  {
+    "id": "SKL-000500",
+    "name": "Data Governance: Review"
+  }
+]

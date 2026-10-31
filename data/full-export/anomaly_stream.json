@@ -1,0 +1,60 @@
+[
+  {
+    "kind": "recommendation",
+    "employee_id": "EMP-000001",
+    "course_ids": [
+      "CRS-000503"
+    ],
+    "planning_on": "2026-10-22",
+    "proposed_cost": 0,
+    "record_id": "INJECT-000001"
+  },
+  {
+    "kind": "budget_reservation",
+    "employee_id": "EMP-000001",
+    "budget_id": "BUD-Engineering-2026",
+    "proposed_cost": 30001,
+    "record_id": "INJECT-000002"
+  },
+  {
+    "kind": "completion",
+    "employee_id": "EMP-000001",
+    "enrollment_id": "ENR-EMP-000001-CRS-000001",
+    "completion_id": "CMP-2026-000001",
+    "completed_on": "2026-03-01",
+    "record_id": "INJECT-000003"
+  },
+  {
+    "kind": "learning_claim",
+    "employee_id": "EMP-000015",
+    "completion_id": "CMP-2026-000021",
+    "skill_id": "SKL-000100",
+    "claimed_level": 5,
+    "record_id": "INJECT-000004"
+  },
+  {
+    "kind": "recommendation",
+    "employee_id": "EMP-000001",
+    "course_ids": [
+      "CRS-000041"
+    ],
+    "planning_on": "2026-10-22",
+    "proposed_cost": 0,
+    "record_id": "INJECT-000005"
+  },
+  {
+    "kind": "budget_reservation",
+    "employee_id": "EMP-000001",
+    "budget_id": "BUD-Engineering-2026",
+    "proposed_cost": 30000,
+    "record_id": "INJECT-000006"
+  },
+  {
+    "kind": "learning_claim",
+    "employee_id": "EMP-000015",
+    "completion_id": "CMP-2026-000021",
+    "skill_id": "SKL-000100",
+    "claimed_level": 4,
+    "record_id": "INJECT-000007"
+  }
+]

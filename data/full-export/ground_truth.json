@@ -1,0 +1,67 @@
+[
+  {
+    "case_id": "CASE-001",
+    "issue_type": "valid",
+    "expected": []
+  },
+  {
+    "case_id": "CASE-002",
+    "issue_type": "missing_prerequisite",
+    "expected": [
+      "prerequisite_violation"
+    ]
+  },
+  {
+    "case_id": "CASE-003",
+    "issue_type": "over_budget",
+    "expected": [
+      "budget_exceeded"
+    ]
+  },
+  {
+    "case_id": "CASE-004",
+    "issue_type": "duplicate_completion",
+    "expected": [
+      "duplicate_completion"
+    ]
+  },
+  {
+    "case_id": "CASE-005",
+    "issue_type": "unverified_outcome",
+    "expected": [
+      "missing_reassessment"
+    ]
+  },
+  {
+    "case_id": "CASE-006",
+    "issue_type": "unavailable",
+    "expected": [
+      "course_unavailable"
+    ]
+  },
+  {
+    "case_id": "CASE-007",
+    "issue_type": "exact_budget",
+    "expected": []
+  },
+  {
+    "case_id": "CASE-008",
+    "issue_type": "last_available_day",
+    "expected": []
+  },
+  {
+    "case_id": "CASE-009",
+    "issue_type": "below_target_after_reassessment",
+    "expected": [
+      "residual_skill_gap"
+    ]
+  },
+  {
+    "case_id": "CASE-010",
+    "issue_type": "multiple_issues",
+    "expected": [
+      "budget_exceeded",
+      "prerequisite_violation"
+    ]
+  }
+]
