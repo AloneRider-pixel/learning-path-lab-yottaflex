@@ -6,7 +6,7 @@ from urllib.parse import urlparse,parse_qs
 from .core import connect,rows,recommend,validate,approve_plan,record_completion,reassess
 
 PAGE=Path(__file__).with_name('index.html')
-def serve(dbpath,port):
+def serve(dbpath,port,host='127.0.0.1'):
     class Handler(BaseHTTPRequestHandler):
         def reply(self,value,status=200):
             raw=json.dumps(value).encode();self.send_response(status);self.send_header('Content-Type','application/json');self.send_header('Cache-Control','no-store');self.send_header('Content-Length',str(len(raw)));self.end_headers();self.wfile.write(raw)
@@ -28,8 +28,11 @@ def serve(dbpath,port):
             except (ValueError,sqlite3.Error) as exc:self.reply({'error':str(exc)},400)
             finally:db.close()
         def do_POST(self):
-            # Local-only mutations, with same-origin and bounded JSON input.
-            if self.headers.get('Origin') not in (None,f'http://127.0.0.1:{port}',f'http://localhost:{port}'):
+            # Same-origin mutations only, with bounded JSON input. The origin's
+            # host must match the Host header, so this holds on loopback and on a
+            # hosted demo domain alike.
+            origin = self.headers.get('Origin')
+            if origin is not None and urlparse(origin).netloc != self.headers.get('Host',''):
                 self.reply({'error':'Cross-origin request rejected'},403);return
             if self.headers.get('Content-Type','').split(';')[0]!='application/json':self.reply({'error':'JSON required'},415);return
             try:
@@ -44,5 +47,5 @@ def serve(dbpath,port):
                     self.reply(result,201)
                 finally:db.close()
             except (ValueError,KeyError,sqlite3.Error) as exc:self.reply({'error':str(exc)},400)
-    print(f'Learning Path Lab: http://127.0.0.1:{port} (local synthetic demo, no authentication)')
-    ThreadingHTTPServer(('127.0.0.1',port),Handler).serve_forever()
+    print(f'Learning Path Lab: http://{host}:{port} (synthetic demo, no authentication)')
+    ThreadingHTTPServer((host,port),Handler).serve_forever()
