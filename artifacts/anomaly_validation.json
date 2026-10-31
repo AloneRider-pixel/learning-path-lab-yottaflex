@@ -1,0 +1,55 @@
+{
+  "records": 7,
+  "all_parent_ids_valid": true,
+  "exact_matches": 7,
+  "predictions": {
+    "INJECT-000001": [
+      "prerequisite_violation"
+    ],
+    "INJECT-000002": [
+      "budget_exceeded"
+    ],
+    "INJECT-000003": [
+      "duplicate_completion"
+    ],
+    "INJECT-000004": [
+      "missing_reassessment"
+    ],
+    "INJECT-000005": [
+      "course_unavailable"
+    ],
+    "INJECT-000006": [],
+    "INJECT-000007": []
+  },
+  "parent_validation": [
+    {
+      "record_id": "INJECT-000001",
+      "parent_ids_valid": true
+    },
+    {
+      "record_id": "INJECT-000002",
+      "parent_ids_valid": true
+    },
+    {
+      "record_id": "INJECT-000003",
+      "parent_ids_valid": true
+    },
+    {
+      "record_id": "INJECT-000004",
+      "parent_ids_valid": true
+    },
+    {
+      "record_id": "INJECT-000005",
+      "parent_ids_valid": true
+    },
+    {
+      "record_id": "INJECT-000006",
+      "parent_ids_valid": true
+    },
+    {
+      "record_id": "INJECT-000007",
+      "parent_ids_valid": true
+    }
+  ],
+  "isolation": "Proposed anomaly events are a sidecar tied to baseline IDs, never planner features or committed clean records."
+}

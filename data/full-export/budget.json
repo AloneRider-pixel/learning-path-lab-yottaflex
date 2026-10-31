@@ -1,0 +1,32 @@
+[
+  {
+    "id": "BUD-Engineering-2026",
+    "department": "Engineering",
+    "year": 2026,
+    "amount": 6730000
+  },
+  {
+    "id": "BUD-Operations-2026",
+    "department": "Operations",
+    "year": 2026,
+    "amount": 4430000
+  },
+  {
+    "id": "BUD-Sales-2026",
+    "department": "Sales",
+    "year": 2026,
+    "amount": 7660000
+  },
+  {
+    "id": "BUD-People-2026",
+    "department": "People",
+    "year": 2026,
+    "amount": 8930000
+  },
+  {
+    "id": "BUD-Finance-2026",
+    "department": "Finance",
+    "year": 2026,
+    "amount": 6160000
+  }
+]

@@ -1,0 +1,259 @@
+[
+  {
+    "completed": [
+      "CRS-000001"
+    ],
+    "planned": [
+      "CRS-000002"
+    ],
+    "prerequisites": {
+      "CRS-000002": [
+        "CRS-000001"
+      ]
+    },
+    "cost": 100,
+    "budget": 200,
+    "completions": [
+      "CMP-2026-000001"
+    ],
+    "target": 4,
+    "assessed_level": 4,
+    "completion_present": true,
+    "reassessed": true,
+    "available_from": "2026-01-01",
+    "available_to": "2026-12-31",
+    "planning_on": "2026-10-22",
+    "case_id": "CASE-001"
+  },
+  {
+    "completed": [],
+    "planned": [
+      "CRS-000002"
+    ],
+    "prerequisites": {
+      "CRS-000002": [
+        "CRS-000001"
+      ]
+    },
+    "cost": 100,
+    "budget": 200,
+    "completions": [
+      "CMP-2026-000001"
+    ],
+    "target": 4,
+    "assessed_level": 4,
+    "completion_present": true,
+    "reassessed": true,
+    "available_from": "2026-01-01",
+    "available_to": "2026-12-31",
+    "planning_on": "2026-10-22",
+    "case_id": "CASE-002"
+  },
+  {
+    "completed": [
+      "CRS-000001"
+    ],
+    "planned": [
+      "CRS-000002"
+    ],
+    "prerequisites": {
+      "CRS-000002": [
+        "CRS-000001"
+      ]
+    },
+    "cost": 201,
+    "budget": 200,
+    "completions": [
+      "CMP-2026-000001"
+    ],
+    "target": 4,
+    "assessed_level": 4,
+    "completion_present": true,
+    "reassessed": true,
+    "available_from": "2026-01-01",
+    "available_to": "2026-12-31",
+    "planning_on": "2026-10-22",
+    "case_id": "CASE-003"
+  },
+  {
+    "completed": [
+      "CRS-000001"
+    ],
+    "planned": [
+      "CRS-000002"
+    ],
+    "prerequisites": {
+      "CRS-000002": [
+        "CRS-000001"
+      ]
+    },
+    "cost": 100,
+    "budget": 200,
+    "completions": [
+      "CMP-2026-000001",
+      "CMP-2026-000001"
+    ],
+    "target": 4,
+    "assessed_level": 4,
+    "completion_present": true,
+    "reassessed": true,
+    "available_from": "2026-01-01",
+    "available_to": "2026-12-31",
+    "planning_on": "2026-10-22",
+    "case_id": "CASE-004"
+  },
+  {
+    "completed": [
+      "CRS-000001"
+    ],
+    "planned": [
+      "CRS-000002"
+    ],
+    "prerequisites": {
+      "CRS-000002": [
+        "CRS-000001"
+      ]
+    },
+    "cost": 100,
+    "budget": 200,
+    "completions": [
+      "CMP-2026-000001"
+    ],
+    "target": 4,
+    "assessed_level": 2,
+    "completion_present": true,
+    "reassessed": false,
+    "available_from": "2026-01-01",
+    "available_to": "2026-12-31",
+    "planning_on": "2026-10-22",
+    "case_id": "CASE-005"
+  },
+  {
+    "completed": [
+      "CRS-000001"
+    ],
+    "planned": [
+      "CRS-000002"
+    ],
+    "prerequisites": {
+      "CRS-000002": [
+        "CRS-000001"
+      ]
+    },
+    "cost": 100,
+    "budget": 200,
+    "completions": [
+      "CMP-2026-000001"
+    ],
+    "target": 4,
+    "assessed_level": 4,
+    "completion_present": true,
+    "reassessed": true,
+    "available_from": "2027-01-01",
+    "available_to": "2026-12-31",
+    "planning_on": "2026-10-22",
+    "case_id": "CASE-006"
+  },
+  {
+    "completed": [
+      "CRS-000001"
+    ],
+    "planned": [
+      "CRS-000002"
+    ],
+    "prerequisites": {
+      "CRS-000002": [
+        "CRS-000001"
+      ]
+    },
+    "cost": 200,
+    "budget": 200,
+    "completions": [
+      "CMP-2026-000001"
+    ],
+    "target": 4,
+    "assessed_level": 4,
+    "completion_present": true,
+    "reassessed": true,
+    "available_from": "2026-01-01",
+    "available_to": "2026-12-31",
+    "planning_on": "2026-10-22",
+    "case_id": "CASE-007"
+  },
+  {
+    "completed": [
+      "CRS-000001"
+    ],
+    "planned": [
+      "CRS-000002"
+    ],
+    "prerequisites": {
+      "CRS-000002": [
+        "CRS-000001"
+      ]
+    },
+    "cost": 100,
+    "budget": 200,
+    "completions": [
+      "CMP-2026-000001"
+    ],
+    "target": 4,
+    "assessed_level": 4,
+    "completion_present": true,
+    "reassessed": true,
+    "available_from": "2026-01-01",
+    "available_to": "2026-10-22",
+    "planning_on": "2026-10-22",
+    "case_id": "CASE-008"
+  },
+  {
+    "completed": [
+      "CRS-000001"
+    ],
+    "planned": [
+      "CRS-000002"
+    ],
+    "prerequisites": {
+      "CRS-000002": [
+        "CRS-000001"
+      ]
+    },
+    "cost": 100,
+    "budget": 200,
+    "completions": [
+      "CMP-2026-000001"
+    ],
+    "target": 4,
+    "assessed_level": 2,
+    "completion_present": true,
+    "reassessed": true,
+    "available_from": "2026-01-01",
+    "available_to": "2026-12-31",
+    "planning_on": "2026-10-22",
+    "case_id": "CASE-009"
+  },
+  {
+    "completed": [],
+    "planned": [
+      "CRS-000002"
+    ],
+    "prerequisites": {
+      "CRS-000002": [
+        "CRS-000001"
+      ]
+    },
+    "cost": 250,
+    "budget": 200,
+    "completions": [
+      "CMP-2026-000001"
+    ],
+    "target": 4,
+    "assessed_level": 4,
+    "completion_present": true,
+    "reassessed": true,
+    "available_from": "2026-01-01",
+    "available_to": "2026-12-31",
+    "planning_on": "2026-10-22",
+    "case_id": "CASE-010"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "record_id": "INJECT-000001",
+    "issue_type": "prerequisite_violation",
+    "expected": [
+      "prerequisite_violation"
+    ]
+  },
+  {
+    "record_id": "INJECT-000002",
+    "issue_type": "budget_exceeded",
+    "expected": [
+      "budget_exceeded"
+    ]
+  },
+  {
+    "record_id": "INJECT-000003",
+    "issue_type": "duplicate_completion",
+    "expected": [
+      "duplicate_completion"
+    ]
+  },
+  {
+    "record_id": "INJECT-000004",
+    "issue_type": "missing_reassessment",
+    "expected": [
+      "missing_reassessment"
+    ]
+  },
+  {
+    "record_id": "INJECT-000005",
+    "issue_type": "course_unavailable",
+    "expected": [
+      "course_unavailable"
+    ]
+  },
+  {
+    "record_id": "INJECT-000006",
+    "issue_type": "exact_budget_boundary",
+    "expected": []
+  },
+  {
+    "record_id": "INJECT-000007",
+    "issue_type": "no_false_learning_claim",
+    "expected": []
+  }
+]

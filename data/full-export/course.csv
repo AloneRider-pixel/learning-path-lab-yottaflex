@@ -1,0 +1,1001 @@
+id,name,cost,hours,capacity,available_from,available_to
+CRS-000001,Foundation: Python / Foundations,9000,16,204,2026-01-01,2027-12-31
+CRS-000002,Foundation: Python / Applied Practice,4000,8,204,2026-01-01,2027-12-31
+CRS-000003,Foundation: Python / Diagnostics,2500,8,80,2026-01-01,2027-12-31
+CRS-000004,Foundation: Python / Design,4000,16,40,2026-01-01,2027-12-31
+CRS-000005,Foundation: Python / Validation,4000,12,12,2026-01-01,2027-12-31
+CRS-000006,Foundation: Python / Automation,6000,8,20,2026-01-01,2027-12-31
+CRS-000007,Foundation: Python / Quality,6000,8,80,2026-01-01,2027-12-31
+CRS-000008,Foundation: Python / Performance,6000,24,204,2026-01-01,2027-12-31
+CRS-000009,Foundation: Python / Documentation,0,16,204,2026-01-01,2027-12-31
+CRS-000010,Foundation: Python / Monitoring,1500,4,12,2026-01-01,2027-12-31
+CRS-000011,Foundation: Python / Integration,9000,24,80,2026-01-01,2027-12-31
+CRS-000012,Foundation: Python / Risk Review,0,8,40,2026-01-01,2027-12-31
+CRS-000013,Foundation: Python / Troubleshooting,1500,24,40,2026-01-01,2027-12-31
+CRS-000014,Foundation: Python / Planning,2500,8,40,2026-01-01,2027-12-31
+CRS-000015,Foundation: Python / Measurement,9000,24,204,2026-01-01,2027-12-31
+CRS-000016,Foundation: Python / Communication,0,4,204,2026-01-01,2027-12-31
+CRS-000017,Foundation: Python / Implementation,1500,12,20,2026-01-01,2027-12-31
+CRS-000018,Foundation: Python / Optimization,2500,12,40,2026-01-01,2027-12-31
+CRS-000019,Foundation: Python / Controls,9000,4,20,2026-01-01,2027-12-31
+CRS-000020,Foundation: Python / Reporting,9000,24,20,2026-01-01,2027-12-31
+CRS-000021,Foundation: Python / Evaluation,4000,24,20,2026-01-01,2027-12-31
+CRS-000022,Foundation: Python / Maintenance,2500,16,204,2026-01-01,2027-12-31
+CRS-000023,Foundation: Python / Scaling,4000,8,204,2026-01-01,2027-12-31
+CRS-000024,Foundation: Python / Change Management,0,8,12,2026-01-01,2027-12-31
+CRS-000025,Foundation: Python / Review,6000,12,80,2026-01-01,2027-12-31
+CRS-000026,Foundation: SQL / Foundations,2500,16,40,2026-01-01,2027-12-31
+CRS-000027,Foundation: SQL / Applied Practice,9000,8,40,2026-01-01,2027-12-31
+CRS-000028,Foundation: SQL / Diagnostics,6000,8,40,2026-01-01,2027-12-31
+CRS-000029,Foundation: SQL / Design,4000,4,204,2026-01-01,2027-12-31
+CRS-000030,Foundation: SQL / Validation,0,24,204,2026-01-01,2027-12-31
+CRS-000031,Foundation: SQL / Automation,4000,4,40,2026-01-01,2027-12-31
+CRS-000032,Foundation: SQL / Quality,2500,4,40,2026-01-01,2027-12-31
+CRS-000033,Foundation: SQL / Performance,6000,12,12,2026-01-01,2027-12-31
+CRS-000034,Foundation: SQL / Documentation,4000,16,40,2026-01-01,2027-12-31
+CRS-000035,Foundation: SQL / Monitoring,0,12,12,2026-01-01,2027-12-31
+CRS-000036,Foundation: SQL / Integration,1500,24,204,2026-01-01,2027-12-31
+CRS-000037,Foundation: SQL / Risk Review,1500,4,204,2026-01-01,2027-12-31
+CRS-000038,Foundation: SQL / Troubleshooting,2500,12,12,2026-01-01,2027-12-31
+CRS-000039,Foundation: SQL / Planning,2500,12,20,2026-01-01,2027-12-31
+CRS-000040,Foundation: SQL / Measurement,6000,8,80,2026-01-01,2027-12-31
+CRS-000041,Foundation: SQL / Communication,9000,4,40,2027-07-01,2027-12-31
+CRS-000042,Foundation: SQL / Implementation,0,12,12,2026-01-01,2027-12-31
+CRS-000043,Foundation: SQL / Optimization,6000,16,204,2026-01-01,2027-12-31
+CRS-000044,Foundation: SQL / Controls,1500,12,204,2026-01-01,2027-12-31
+CRS-000045,Foundation: SQL / Reporting,2500,24,12,2026-01-01,2027-12-31
+CRS-000046,Foundation: SQL / Evaluation,2500,12,80,2026-01-01,2027-12-31
+CRS-000047,Foundation: SQL / Maintenance,0,4,40,2026-01-01,2027-12-31
+CRS-000048,Foundation: SQL / Scaling,1500,12,40,2026-01-01,2027-12-31
+CRS-000049,Foundation: SQL / Change Management,2500,8,40,2026-01-01,2027-12-31
+CRS-000050,Foundation: SQL / Review,9000,4,204,2026-01-01,2027-12-31
+CRS-000051,Foundation: Data Modeling / Foundations,1500,24,204,2026-01-01,2027-12-31
+CRS-000052,Foundation: Data Modeling / Applied Practice,1500,4,40,2026-01-01,2027-12-31
+CRS-000053,Foundation: Data Modeling / Diagnostics,6000,4,20,2026-01-01,2027-12-31
+CRS-000054,Foundation: Data Modeling / Design,4000,4,12,2026-01-01,2027-12-31
+CRS-000055,Foundation: Data Modeling / Validation,2500,8,12,2026-01-01,2027-12-31
+CRS-000056,Foundation: Data Modeling / Automation,9000,4,20,2026-01-01,2027-12-31
+CRS-000057,Foundation: Data Modeling / Quality,4000,16,204,2026-01-01,2027-12-31
+CRS-000058,Foundation: Data Modeling / Performance,6000,4,204,2026-01-01,2027-12-31
+CRS-000059,Foundation: Data Modeling / Documentation,2500,12,80,2026-01-01,2027-12-31
+CRS-000060,Foundation: Data Modeling / Monitoring,2500,8,40,2026-01-01,2027-12-31
+CRS-000061,Foundation: Data Modeling / Integration,6000,8,40,2026-01-01,2027-12-31
+CRS-000062,Foundation: Data Modeling / Risk Review,4000,24,80,2026-01-01,2027-12-31
+CRS-000063,Foundation: Data Modeling / Troubleshooting,6000,12,20,2026-01-01,2027-12-31
+CRS-000064,Foundation: Data Modeling / Planning,4000,12,204,2026-01-01,2027-12-31
+CRS-000065,Foundation: Data Modeling / Measurement,0,4,204,2026-01-01,2027-12-31
+CRS-000066,Foundation: Data Modeling / Communication,1500,4,40,2026-01-01,2027-12-31
+CRS-000067,Foundation: Data Modeling / Implementation,1500,4,12,2026-01-01,2027-12-31
+CRS-000068,Foundation: Data Modeling / Optimization,0,16,12,2026-01-01,2027-12-31
+CRS-000069,Foundation: Data Modeling / Controls,2500,12,12,2026-01-01,2027-12-31
+CRS-000070,Foundation: Data Modeling / Reporting,6000,8,40,2026-01-01,2027-12-31
+CRS-000071,Foundation: Data Modeling / Evaluation,2500,4,204,2026-01-01,2027-12-31
+CRS-000072,Foundation: Data Modeling / Maintenance,6000,16,204,2026-01-01,2027-12-31
+CRS-000073,Foundation: Data Modeling / Scaling,4000,8,80,2026-01-01,2027-12-31
+CRS-000074,Foundation: Data Modeling / Change Management,2500,8,12,2026-01-01,2027-12-31
+CRS-000075,Foundation: Data Modeling / Review,1500,24,12,2026-01-01,2027-12-31
+CRS-000076,Foundation: Statistics / Foundations,1500,8,12,2026-01-01,2027-12-31
+CRS-000077,Foundation: Statistics / Applied Practice,4000,4,40,2026-01-01,2027-12-31
+CRS-000078,Foundation: Statistics / Diagnostics,1500,8,204,2026-01-01,2027-12-31
+CRS-000079,Foundation: Statistics / Design,0,4,204,2026-01-01,2027-12-31
+CRS-000080,Foundation: Statistics / Validation,2500,16,12,2026-01-01,2027-12-31
+CRS-000081,Foundation: Statistics / Automation,0,8,20,2026-01-01,2027-12-31
+CRS-000082,Foundation: Statistics / Quality,4000,12,80,2027-07-01,2027-12-31
+CRS-000083,Foundation: Statistics / Performance,1500,8,20,2026-01-01,2027-12-31
+CRS-000084,Foundation: Statistics / Documentation,6000,24,20,2026-01-01,2027-12-31
+CRS-000085,Foundation: Statistics / Monitoring,1500,12,204,2026-01-01,2027-12-31
+CRS-000086,Foundation: Statistics / Integration,0,16,204,2026-01-01,2027-12-31
+CRS-000087,Foundation: Statistics / Risk Review,1500,16,20,2026-01-01,2027-12-31
+CRS-000088,Foundation: Statistics / Troubleshooting,9000,12,40,2026-01-01,2027-12-31
+CRS-000089,Foundation: Statistics / Planning,2500,8,12,2026-01-01,2027-12-31
+CRS-000090,Foundation: Statistics / Measurement,6000,4,80,2026-01-01,2027-12-31
+CRS-000091,Foundation: Statistics / Communication,2500,8,80,2026-01-01,2027-12-31
+CRS-000092,Foundation: Statistics / Implementation,4000,8,204,2026-01-01,2027-12-31
+CRS-000093,Foundation: Statistics / Optimization,1500,12,204,2026-01-01,2027-12-31
+CRS-000094,Foundation: Statistics / Controls,4000,4,40,2026-01-01,2027-12-31
+CRS-000095,Foundation: Statistics / Reporting,4000,12,80,2026-01-01,2027-12-31
+CRS-000096,Foundation: Statistics / Evaluation,2500,12,20,2026-01-01,2027-12-31
+CRS-000097,Foundation: Statistics / Maintenance,2500,4,20,2026-01-01,2027-12-31
+CRS-000098,Foundation: Statistics / Scaling,6000,24,20,2026-01-01,2027-12-31
+CRS-000099,Foundation: Statistics / Change Management,6000,8,204,2026-01-01,2027-12-31
+CRS-000100,Foundation: Statistics / Review,4000,4,204,2026-01-01,2027-12-31
+CRS-000101,Foundation: Machine Learning / Foundations,0,4,80,2026-01-01,2027-12-31
+CRS-000102,Foundation: Machine Learning / Applied Practice,2500,24,20,2026-01-01,2027-12-31
+CRS-000103,Foundation: Machine Learning / Diagnostics,2500,4,20,2026-01-01,2027-12-31
+CRS-000104,Foundation: Machine Learning / Design,0,8,40,2026-01-01,2027-12-31
+CRS-000105,Foundation: Machine Learning / Validation,6000,4,40,2026-01-01,2027-12-31
+CRS-000106,Foundation: Machine Learning / Automation,2500,8,204,2026-01-01,2027-12-31
+CRS-000107,Foundation: Machine Learning / Quality,4000,12,204,2026-01-01,2027-12-31
+CRS-000108,Foundation: Machine Learning / Performance,6000,16,20,2026-01-01,2027-12-31
+CRS-000109,Foundation: Machine Learning / Documentation,0,24,20,2026-01-01,2027-12-31
+CRS-000110,Foundation: Machine Learning / Monitoring,1500,12,20,2026-01-01,2027-12-31
+CRS-000111,Foundation: Machine Learning / Integration,9000,12,40,2026-01-01,2027-12-31
+CRS-000112,Foundation: Machine Learning / Risk Review,4000,8,12,2026-01-01,2027-12-31
+CRS-000113,Foundation: Machine Learning / Troubleshooting,1500,16,204,2026-01-01,2027-12-31
+CRS-000114,Foundation: Machine Learning / Planning,1500,4,204,2026-01-01,2027-12-31
+CRS-000115,Foundation: Machine Learning / Measurement,6000,24,40,2026-01-01,2027-12-31
+CRS-000116,Foundation: Machine Learning / Communication,4000,16,12,2026-01-01,2027-12-31
+CRS-000117,Foundation: Machine Learning / Implementation,4000,8,80,2026-01-01,2027-12-31
+CRS-000118,Foundation: Machine Learning / Optimization,4000,24,80,2026-01-01,2027-12-31
+CRS-000119,Foundation: Machine Learning / Controls,4000,8,12,2026-01-01,2027-12-31
+CRS-000120,Foundation: Machine Learning / Reporting,4000,4,204,2026-01-01,2027-12-31
+CRS-000121,Foundation: Machine Learning / Evaluation,9000,4,204,2026-01-01,2027-12-31
+CRS-000122,Foundation: Machine Learning / Maintenance,0,16,20,2026-01-01,2027-12-31
+CRS-000123,Foundation: Machine Learning / Scaling,6000,12,80,2027-07-01,2027-12-31
+CRS-000124,Foundation: Machine Learning / Change Management,0,24,40,2026-01-01,2027-12-31
+CRS-000125,Foundation: Machine Learning / Review,2500,12,40,2026-01-01,2027-12-31
+CRS-000126,Foundation: API Design / Foundations,6000,24,20,2026-01-01,2027-12-31
+CRS-000127,Foundation: API Design / Applied Practice,9000,12,204,2026-01-01,2027-12-31
+CRS-000128,Foundation: API Design / Diagnostics,6000,16,204,2026-01-01,2027-12-31
+CRS-000129,Foundation: API Design / Design,9000,8,80,2026-01-01,2027-12-31
+CRS-000130,Foundation: API Design / Validation,1500,12,20,2026-01-01,2027-12-31
+CRS-000131,Foundation: API Design / Automation,1500,24,20,2026-01-01,2027-12-31
+CRS-000132,Foundation: API Design / Quality,9000,24,40,2026-01-01,2027-12-31
+CRS-000133,Foundation: API Design / Performance,9000,8,12,2026-01-01,2027-12-31
+CRS-000134,Foundation: API Design / Documentation,2500,24,204,2026-01-01,2027-12-31
+CRS-000135,Foundation: API Design / Monitoring,2500,4,204,2026-01-01,2027-12-31
+CRS-000136,Foundation: API Design / Integration,6000,8,20,2026-01-01,2027-12-31
+CRS-000137,Foundation: API Design / Risk Review,4000,4,12,2026-01-01,2027-12-31
+CRS-000138,Foundation: API Design / Troubleshooting,4000,24,20,2026-01-01,2027-12-31
+CRS-000139,Foundation: API Design / Planning,9000,24,40,2026-01-01,2027-12-31
+CRS-000140,Foundation: API Design / Measurement,9000,24,12,2026-01-01,2027-12-31
+CRS-000141,Foundation: API Design / Communication,0,24,204,2026-01-01,2027-12-31
+CRS-000142,Foundation: API Design / Implementation,2500,8,204,2026-01-01,2027-12-31
+CRS-000143,Foundation: API Design / Optimization,1500,8,12,2026-01-01,2027-12-31
+CRS-000144,Foundation: API Design / Controls,1500,8,40,2026-01-01,2027-12-31
+CRS-000145,Foundation: API Design / Reporting,1500,4,12,2026-01-01,2027-12-31
+CRS-000146,Foundation: API Design / Evaluation,9000,4,40,2026-01-01,2027-12-31
+CRS-000147,Foundation: API Design / Maintenance,2500,4,20,2026-01-01,2027-12-31
+CRS-000148,Foundation: API Design / Scaling,0,24,204,2026-01-01,2027-12-31
+CRS-000149,Foundation: API Design / Change Management,4000,4,204,2026-01-01,2027-12-31
+CRS-000150,Foundation: API Design / Review,0,12,12,2026-01-01,2027-12-31
+CRS-000151,Foundation: Cloud Fundamentals / Foundations,1500,4,40,2026-01-01,2027-12-31
+CRS-000152,Foundation: Cloud Fundamentals / Applied Practice,9000,16,12,2026-01-01,2027-12-31
+CRS-000153,Foundation: Cloud Fundamentals / Diagnostics,0,16,20,2026-01-01,2027-12-31
+CRS-000154,Foundation: Cloud Fundamentals / Design,2500,12,80,2026-01-01,2027-12-31
+CRS-000155,Foundation: Cloud Fundamentals / Validation,0,8,204,2026-01-01,2027-12-31
+CRS-000156,Foundation: Cloud Fundamentals / Automation,4000,16,204,2026-01-01,2027-12-31
+CRS-000157,Foundation: Cloud Fundamentals / Quality,4000,4,40,2026-01-01,2027-12-31
+CRS-000158,Foundation: Cloud Fundamentals / Performance,2500,16,12,2026-01-01,2027-12-31
+CRS-000159,Foundation: Cloud Fundamentals / Documentation,1500,8,40,2026-01-01,2027-12-31
+CRS-000160,Foundation: Cloud Fundamentals / Monitoring,4000,12,12,2026-01-01,2027-12-31
+CRS-000161,Foundation: Cloud Fundamentals / Integration,1500,8,40,2026-01-01,2027-12-31
+CRS-000162,Foundation: Cloud Fundamentals / Risk Review,1500,8,204,2026-01-01,2027-12-31
+CRS-000163,Foundation: Cloud Fundamentals / Troubleshooting,6000,4,204,2026-01-01,2027-12-31
+CRS-000164,Foundation: Cloud Fundamentals / Planning,2500,16,80,2027-07-01,2027-12-31
+CRS-000165,Foundation: Cloud Fundamentals / Measurement,9000,8,20,2026-01-01,2027-12-31
+CRS-000166,Foundation: Cloud Fundamentals / Communication,6000,4,12,2026-01-01,2027-12-31
+CRS-000167,Foundation: Cloud Fundamentals / Implementation,4000,16,20,2026-01-01,2027-12-31
+CRS-000168,Foundation: Cloud Fundamentals / Optimization,1500,24,40,2026-01-01,2027-12-31
+CRS-000169,Foundation: Cloud Fundamentals / Controls,6000,8,204,2026-01-01,2027-12-31
+CRS-000170,Foundation: Cloud Fundamentals / Reporting,1500,8,204,2026-01-01,2027-12-31
+CRS-000171,Foundation: Cloud Fundamentals / Evaluation,6000,8,20,2026-01-01,2027-12-31
+CRS-000172,Foundation: Cloud Fundamentals / Maintenance,1500,16,80,2026-01-01,2027-12-31
+CRS-000173,Foundation: Cloud Fundamentals / Scaling,1500,4,80,2026-01-01,2027-12-31
+CRS-000174,Foundation: Cloud Fundamentals / Change Management,1500,4,80,2026-01-01,2027-12-31
+CRS-000175,Foundation: Cloud Fundamentals / Review,0,12,20,2026-01-01,2027-12-31
+CRS-000176,Foundation: Security / Foundations,1500,16,40,2026-01-01,2027-12-31
+CRS-000177,Foundation: Security / Applied Practice,0,24,80,2026-01-01,2027-12-31
+CRS-000178,Foundation: Security / Diagnostics,1500,4,12,2026-01-01,2027-12-31
+CRS-000179,Foundation: Security / Design,6000,16,12,2026-01-01,2027-12-31
+CRS-000180,Foundation: Security / Validation,2500,4,12,2026-01-01,2027-12-31
+CRS-000181,Foundation: Security / Automation,1500,4,40,2026-01-01,2027-12-31
+CRS-000182,Foundation: Security / Quality,1500,16,12,2026-01-01,2027-12-31
+CRS-000183,Foundation: Security / Performance,6000,24,12,2026-01-01,2027-12-31
+CRS-000184,Foundation: Security / Documentation,0,12,20,2026-01-01,2027-12-31
+CRS-000185,Foundation: Security / Monitoring,0,4,80,2026-01-01,2027-12-31
+CRS-000186,Foundation: Security / Integration,0,16,80,2026-01-01,2027-12-31
+CRS-000187,Foundation: Security / Risk Review,1500,16,40,2026-01-01,2027-12-31
+CRS-000188,Foundation: Security / Troubleshooting,0,16,40,2026-01-01,2027-12-31
+CRS-000189,Foundation: Security / Planning,1500,8,40,2026-01-01,2027-12-31
+CRS-000190,Foundation: Security / Measurement,9000,8,80,2026-01-01,2027-12-31
+CRS-000191,Foundation: Security / Communication,2500,8,20,2026-01-01,2027-12-31
+CRS-000192,Foundation: Security / Implementation,2500,16,20,2026-01-01,2027-12-31
+CRS-000193,Foundation: Security / Optimization,6000,4,20,2026-01-01,2027-12-31
+CRS-000194,Foundation: Security / Controls,2500,8,12,2026-01-01,2027-12-31
+CRS-000195,Foundation: Security / Reporting,9000,8,12,2026-01-01,2027-12-31
+CRS-000196,Foundation: Security / Evaluation,6000,4,12,2026-01-01,2027-12-31
+CRS-000197,Foundation: Security / Maintenance,1500,8,80,2026-01-01,2027-12-31
+CRS-000198,Foundation: Security / Scaling,9000,8,20,2026-01-01,2027-12-31
+CRS-000199,Foundation: Security / Change Management,4000,4,12,2026-01-01,2027-12-31
+CRS-000200,Foundation: Security / Review,6000,24,40,2026-01-01,2027-12-31
+CRS-000201,Foundation: Reliability / Foundations,4000,24,40,2026-01-01,2027-12-31
+CRS-000202,Foundation: Reliability / Applied Practice,0,8,40,2026-01-01,2027-12-31
+CRS-000203,Foundation: Reliability / Diagnostics,1500,8,80,2026-01-01,2027-12-31
+CRS-000204,Foundation: Reliability / Design,4000,12,12,2026-01-01,2027-12-31
+CRS-000205,Foundation: Reliability / Validation,1500,4,20,2027-07-01,2027-12-31
+CRS-000206,Foundation: Reliability / Automation,6000,4,12,2026-01-01,2027-12-31
+CRS-000207,Foundation: Reliability / Quality,2500,4,20,2026-01-01,2027-12-31
+CRS-000208,Foundation: Reliability / Performance,9000,8,12,2026-01-01,2027-12-31
+CRS-000209,Foundation: Reliability / Documentation,2500,16,12,2026-01-01,2027-12-31
+CRS-000210,Foundation: Reliability / Monitoring,4000,8,12,2026-01-01,2027-12-31
+CRS-000211,Foundation: Reliability / Integration,6000,16,20,2026-01-01,2027-12-31
+CRS-000212,Foundation: Reliability / Risk Review,6000,8,20,2026-01-01,2027-12-31
+CRS-000213,Foundation: Reliability / Troubleshooting,9000,12,80,2026-01-01,2027-12-31
+CRS-000214,Foundation: Reliability / Planning,1500,16,20,2026-01-01,2027-12-31
+CRS-000215,Foundation: Reliability / Measurement,1500,8,80,2026-01-01,2027-12-31
+CRS-000216,Foundation: Reliability / Communication,9000,4,80,2026-01-01,2027-12-31
+CRS-000217,Foundation: Reliability / Implementation,4000,4,12,2026-01-01,2027-12-31
+CRS-000218,Foundation: Reliability / Optimization,6000,16,40,2026-01-01,2027-12-31
+CRS-000219,Foundation: Reliability / Controls,1500,16,40,2026-01-01,2027-12-31
+CRS-000220,Foundation: Reliability / Reporting,9000,8,20,2026-01-01,2027-12-31
+CRS-000221,Foundation: Reliability / Evaluation,0,4,12,2026-01-01,2027-12-31
+CRS-000222,Foundation: Reliability / Maintenance,4000,24,80,2026-01-01,2027-12-31
+CRS-000223,Foundation: Reliability / Scaling,9000,16,12,2026-01-01,2027-12-31
+CRS-000224,Foundation: Reliability / Change Management,2500,24,40,2026-01-01,2027-12-31
+CRS-000225,Foundation: Reliability / Review,0,16,20,2026-01-01,2027-12-31
+CRS-000226,Foundation: Test Engineering / Foundations,0,24,80,2026-01-01,2027-12-31
+CRS-000227,Foundation: Test Engineering / Applied Practice,1500,4,80,2026-01-01,2027-12-31
+CRS-000228,Foundation: Test Engineering / Diagnostics,0,4,20,2026-01-01,2027-12-31
+CRS-000229,Foundation: Test Engineering / Design,6000,24,12,2026-01-01,2027-12-31
+CRS-000230,Foundation: Test Engineering / Validation,2500,24,80,2026-01-01,2027-12-31
+CRS-000231,Foundation: Test Engineering / Automation,2500,24,80,2026-01-01,2027-12-31
+CRS-000232,Foundation: Test Engineering / Quality,1500,16,80,2026-01-01,2027-12-31
+CRS-000233,Foundation: Test Engineering / Performance,2500,16,12,2026-01-01,2027-12-31
+CRS-000234,Foundation: Test Engineering / Documentation,0,24,20,2026-01-01,2027-12-31
+CRS-000235,Foundation: Test Engineering / Monitoring,2500,24,80,2026-01-01,2027-12-31
+CRS-000236,Foundation: Test Engineering / Integration,4000,4,20,2026-01-01,2027-12-31
+CRS-000237,Foundation: Test Engineering / Risk Review,4000,12,40,2026-01-01,2027-12-31
+CRS-000238,Foundation: Test Engineering / Troubleshooting,4000,8,80,2026-01-01,2027-12-31
+CRS-000239,Foundation: Test Engineering / Planning,6000,8,80,2026-01-01,2027-12-31
+CRS-000240,Foundation: Test Engineering / Measurement,0,24,20,2026-01-01,2027-12-31
+CRS-000241,Foundation: Test Engineering / Communication,6000,16,80,2026-01-01,2027-12-31
+CRS-000242,Foundation: Test Engineering / Implementation,0,24,40,2026-01-01,2027-12-31
+CRS-000243,Foundation: Test Engineering / Optimization,4000,4,80,2026-01-01,2027-12-31
+CRS-000244,Foundation: Test Engineering / Controls,4000,24,80,2026-01-01,2027-12-31
+CRS-000245,Foundation: Test Engineering / Reporting,4000,8,40,2026-01-01,2027-12-31
+CRS-000246,Foundation: Test Engineering / Evaluation,0,8,12,2027-07-01,2027-12-31
+CRS-000247,Foundation: Test Engineering / Maintenance,0,16,20,2026-01-01,2027-12-31
+CRS-000248,Foundation: Test Engineering / Scaling,4000,12,20,2026-01-01,2027-12-31
+CRS-000249,Foundation: Test Engineering / Change Management,4000,16,20,2026-01-01,2027-12-31
+CRS-000250,Foundation: Test Engineering / Review,2500,24,80,2026-01-01,2027-12-31
+CRS-000251,Foundation: Product Analytics / Foundations,6000,8,40,2026-01-01,2027-12-31
+CRS-000252,Foundation: Product Analytics / Applied Practice,0,24,12,2026-01-01,2027-12-31
+CRS-000253,Foundation: Product Analytics / Diagnostics,1500,24,40,2026-01-01,2027-12-31
+CRS-000254,Foundation: Product Analytics / Design,0,4,40,2026-01-01,2027-12-31
+CRS-000255,Foundation: Product Analytics / Validation,2500,12,80,2026-01-01,2027-12-31
+CRS-000256,Foundation: Product Analytics / Automation,4000,8,80,2026-01-01,2027-12-31
+CRS-000257,Foundation: Product Analytics / Quality,1500,24,80,2026-01-01,2027-12-31
+CRS-000258,Foundation: Product Analytics / Performance,9000,24,80,2026-01-01,2027-12-31
+CRS-000259,Foundation: Product Analytics / Documentation,0,8,12,2026-01-01,2027-12-31
+CRS-000260,Foundation: Product Analytics / Monitoring,0,8,80,2026-01-01,2027-12-31
+CRS-000261,Foundation: Product Analytics / Integration,1500,24,80,2026-01-01,2027-12-31
+CRS-000262,Foundation: Product Analytics / Risk Review,1500,4,40,2026-01-01,2027-12-31
+CRS-000263,Foundation: Product Analytics / Troubleshooting,2500,8,40,2026-01-01,2027-12-31
+CRS-000264,Foundation: Product Analytics / Planning,6000,8,12,2026-01-01,2027-12-31
+CRS-000265,Foundation: Product Analytics / Measurement,6000,12,20,2026-01-01,2027-12-31
+CRS-000266,Foundation: Product Analytics / Communication,9000,8,80,2026-01-01,2027-12-31
+CRS-000267,Foundation: Product Analytics / Implementation,1500,16,40,2026-01-01,2027-12-31
+CRS-000268,Foundation: Product Analytics / Optimization,1500,16,20,2026-01-01,2027-12-31
+CRS-000269,Foundation: Product Analytics / Controls,9000,24,20,2026-01-01,2027-12-31
+CRS-000270,Foundation: Product Analytics / Reporting,4000,8,20,2026-01-01,2027-12-31
+CRS-000271,Foundation: Product Analytics / Evaluation,6000,8,12,2026-01-01,2027-12-31
+CRS-000272,Foundation: Product Analytics / Maintenance,6000,16,20,2026-01-01,2027-12-31
+CRS-000273,Foundation: Product Analytics / Scaling,9000,12,80,2026-01-01,2027-12-31
+CRS-000274,Foundation: Product Analytics / Change Management,6000,4,20,2026-01-01,2027-12-31
+CRS-000275,Foundation: Product Analytics / Review,0,12,80,2026-01-01,2027-12-31
+CRS-000276,Foundation: Customer Support / Foundations,0,12,12,2026-01-01,2027-12-31
+CRS-000277,Foundation: Customer Support / Applied Practice,9000,24,12,2026-01-01,2027-12-31
+CRS-000278,Foundation: Customer Support / Diagnostics,0,4,20,2026-01-01,2027-12-31
+CRS-000279,Foundation: Customer Support / Design,0,8,12,2026-01-01,2027-12-31
+CRS-000280,Foundation: Customer Support / Validation,1500,16,80,2026-01-01,2027-12-31
+CRS-000281,Foundation: Customer Support / Automation,6000,16,12,2026-01-01,2027-12-31
+CRS-000282,Foundation: Customer Support / Quality,2500,24,12,2026-01-01,2027-12-31
+CRS-000283,Foundation: Customer Support / Performance,1500,16,20,2026-01-01,2027-12-31
+CRS-000284,Foundation: Customer Support / Documentation,0,24,12,2026-01-01,2027-12-31
+CRS-000285,Foundation: Customer Support / Monitoring,0,24,20,2026-01-01,2027-12-31
+CRS-000286,Foundation: Customer Support / Integration,0,8,20,2026-01-01,2027-12-31
+CRS-000287,Foundation: Customer Support / Risk Review,9000,12,20,2027-07-01,2027-12-31
+CRS-000288,Foundation: Customer Support / Troubleshooting,9000,8,12,2026-01-01,2027-12-31
+CRS-000289,Foundation: Customer Support / Planning,9000,16,12,2026-01-01,2027-12-31
+CRS-000290,Foundation: Customer Support / Measurement,4000,16,20,2026-01-01,2027-12-31
+CRS-000291,Foundation: Customer Support / Communication,9000,8,20,2026-01-01,2027-12-31
+CRS-000292,Foundation: Customer Support / Implementation,9000,4,80,2026-01-01,2027-12-31
+CRS-000293,Foundation: Customer Support / Optimization,1500,24,40,2026-01-01,2027-12-31
+CRS-000294,Foundation: Customer Support / Controls,2500,8,20,2026-01-01,2027-12-31
+CRS-000295,Foundation: Customer Support / Reporting,2500,8,20,2026-01-01,2027-12-31
+CRS-000296,Foundation: Customer Support / Evaluation,4000,24,40,2026-01-01,2027-12-31
+CRS-000297,Foundation: Customer Support / Maintenance,9000,16,20,2026-01-01,2027-12-31
+CRS-000298,Foundation: Customer Support / Scaling,0,24,12,2026-01-01,2027-12-31
+CRS-000299,Foundation: Customer Support / Change Management,2500,8,40,2026-01-01,2027-12-31
+CRS-000300,Foundation: Customer Support / Review,0,4,40,2026-01-01,2027-12-31
+CRS-000301,Foundation: Process Analysis / Foundations,1500,16,20,2026-01-01,2027-12-31
+CRS-000302,Foundation: Process Analysis / Applied Practice,1500,24,12,2026-01-01,2027-12-31
+CRS-000303,Foundation: Process Analysis / Diagnostics,1500,12,20,2026-01-01,2027-12-31
+CRS-000304,Foundation: Process Analysis / Design,1500,4,80,2026-01-01,2027-12-31
+CRS-000305,Foundation: Process Analysis / Validation,1500,24,40,2026-01-01,2027-12-31
+CRS-000306,Foundation: Process Analysis / Automation,9000,12,20,2026-01-01,2027-12-31
+CRS-000307,Foundation: Process Analysis / Quality,1500,12,80,2026-01-01,2027-12-31
+CRS-000308,Foundation: Process Analysis / Performance,9000,24,80,2026-01-01,2027-12-31
+CRS-000309,Foundation: Process Analysis / Documentation,0,8,40,2026-01-01,2027-12-31
+CRS-000310,Foundation: Process Analysis / Monitoring,6000,8,40,2026-01-01,2027-12-31
+CRS-000311,Foundation: Process Analysis / Integration,2500,8,40,2026-01-01,2027-12-31
+CRS-000312,Foundation: Process Analysis / Risk Review,6000,8,12,2026-01-01,2027-12-31
+CRS-000313,Foundation: Process Analysis / Troubleshooting,2500,4,40,2026-01-01,2027-12-31
+CRS-000314,Foundation: Process Analysis / Planning,4000,24,80,2026-01-01,2027-12-31
+CRS-000315,Foundation: Process Analysis / Measurement,6000,16,20,2026-01-01,2027-12-31
+CRS-000316,Foundation: Process Analysis / Communication,6000,12,80,2026-01-01,2027-12-31
+CRS-000317,Foundation: Process Analysis / Implementation,4000,24,40,2026-01-01,2027-12-31
+CRS-000318,Foundation: Process Analysis / Optimization,9000,16,80,2026-01-01,2027-12-31
+CRS-000319,Foundation: Process Analysis / Controls,1500,8,80,2026-01-01,2027-12-31
+CRS-000320,Foundation: Process Analysis / Reporting,1500,4,40,2026-01-01,2027-12-31
+CRS-000321,Foundation: Process Analysis / Evaluation,4000,12,40,2026-01-01,2027-12-31
+CRS-000322,Foundation: Process Analysis / Maintenance,0,16,40,2026-01-01,2027-12-31
+CRS-000323,Foundation: Process Analysis / Scaling,0,16,12,2026-01-01,2027-12-31
+CRS-000324,Foundation: Process Analysis / Change Management,9000,16,80,2026-01-01,2027-12-31
+CRS-000325,Foundation: Process Analysis / Review,4000,8,20,2026-01-01,2027-12-31
+CRS-000326,Foundation: Operations / Foundations,2500,24,40,2026-01-01,2027-12-31
+CRS-000327,Foundation: Operations / Applied Practice,0,12,40,2026-01-01,2027-12-31
+CRS-000328,Foundation: Operations / Diagnostics,2500,16,40,2027-07-01,2027-12-31
+CRS-000329,Foundation: Operations / Design,4000,8,40,2026-01-01,2027-12-31
+CRS-000330,Foundation: Operations / Validation,9000,12,20,2026-01-01,2027-12-31
+CRS-000331,Foundation: Operations / Automation,9000,12,20,2026-01-01,2027-12-31
+CRS-000332,Foundation: Operations / Quality,2500,8,20,2026-01-01,2027-12-31
+CRS-000333,Foundation: Operations / Performance,1500,24,40,2026-01-01,2027-12-31
+CRS-000334,Foundation: Operations / Documentation,9000,24,20,2026-01-01,2027-12-31
+CRS-000335,Foundation: Operations / Monitoring,4000,16,12,2026-01-01,2027-12-31
+CRS-000336,Foundation: Operations / Integration,1500,24,80,2026-01-01,2027-12-31
+CRS-000337,Foundation: Operations / Risk Review,4000,16,20,2026-01-01,2027-12-31
+CRS-000338,Foundation: Operations / Troubleshooting,4000,16,40,2026-01-01,2027-12-31
+CRS-000339,Foundation: Operations / Planning,4000,8,40,2026-01-01,2027-12-31
+CRS-000340,Foundation: Operations / Measurement,6000,4,12,2026-01-01,2027-12-31
+CRS-000341,Foundation: Operations / Communication,4000,4,12,2026-01-01,2027-12-31
+CRS-000342,Foundation: Operations / Implementation,1500,16,40,2026-01-01,2027-12-31
+CRS-000343,Foundation: Operations / Optimization,6000,16,40,2026-01-01,2027-12-31
+CRS-000344,Foundation: Operations / Controls,1500,8,12,2026-01-01,2027-12-31
+CRS-000345,Foundation: Operations / Reporting,9000,8,80,2026-01-01,2027-12-31
+CRS-000346,Foundation: Operations / Evaluation,0,16,12,2026-01-01,2027-12-31
+CRS-000347,Foundation: Operations / Maintenance,2500,8,20,2026-01-01,2027-12-31
+CRS-000348,Foundation: Operations / Scaling,1500,4,12,2026-01-01,2027-12-31
+CRS-000349,Foundation: Operations / Change Management,1500,8,80,2026-01-01,2027-12-31
+CRS-000350,Foundation: Operations / Review,9000,24,20,2026-01-01,2027-12-31
+CRS-000351,Foundation: Financial Analysis / Foundations,1500,8,40,2026-01-01,2027-12-31
+CRS-000352,Foundation: Financial Analysis / Applied Practice,9000,16,12,2026-01-01,2027-12-31
+CRS-000353,Foundation: Financial Analysis / Diagnostics,9000,24,20,2026-01-01,2027-12-31
+CRS-000354,Foundation: Financial Analysis / Design,9000,24,80,2026-01-01,2027-12-31
+CRS-000355,Foundation: Financial Analysis / Validation,9000,8,20,2026-01-01,2027-12-31
+CRS-000356,Foundation: Financial Analysis / Automation,0,4,80,2026-01-01,2027-12-31
+CRS-000357,Foundation: Financial Analysis / Quality,1500,16,40,2026-01-01,2027-12-31
+CRS-000358,Foundation: Financial Analysis / Performance,4000,24,20,2026-01-01,2027-12-31
+CRS-000359,Foundation: Financial Analysis / Documentation,1500,4,20,2026-01-01,2027-12-31
+CRS-000360,Foundation: Financial Analysis / Monitoring,6000,24,80,2026-01-01,2027-12-31
+CRS-000361,Foundation: Financial Analysis / Integration,0,4,40,2026-01-01,2027-12-31
+CRS-000362,Foundation: Financial Analysis / Risk Review,4000,24,12,2026-01-01,2027-12-31
+CRS-000363,Foundation: Financial Analysis / Troubleshooting,4000,8,12,2026-01-01,2027-12-31
+CRS-000364,Foundation: Financial Analysis / Planning,6000,16,20,2026-01-01,2027-12-31
+CRS-000365,Foundation: Financial Analysis / Measurement,9000,8,80,2026-01-01,2027-12-31
+CRS-000366,Foundation: Financial Analysis / Communication,0,12,40,2026-01-01,2027-12-31
+CRS-000367,Foundation: Financial Analysis / Implementation,0,8,80,2026-01-01,2027-12-31
+CRS-000368,Foundation: Financial Analysis / Optimization,6000,24,40,2026-01-01,2027-12-31
+CRS-000369,Foundation: Financial Analysis / Controls,6000,12,12,2027-07-01,2027-12-31
+CRS-000370,Foundation: Financial Analysis / Reporting,0,8,12,2026-01-01,2027-12-31
+CRS-000371,Foundation: Financial Analysis / Evaluation,1500,16,20,2026-01-01,2027-12-31
+CRS-000372,Foundation: Financial Analysis / Maintenance,4000,16,40,2026-01-01,2027-12-31
+CRS-000373,Foundation: Financial Analysis / Scaling,6000,8,12,2026-01-01,2027-12-31
+CRS-000374,Foundation: Financial Analysis / Change Management,9000,16,80,2026-01-01,2027-12-31
+CRS-000375,Foundation: Financial Analysis / Review,2500,24,12,2026-01-01,2027-12-31
+CRS-000376,Foundation: People Analytics / Foundations,2500,8,12,2026-01-01,2027-12-31
+CRS-000377,Foundation: People Analytics / Applied Practice,4000,4,12,2026-01-01,2027-12-31
+CRS-000378,Foundation: People Analytics / Diagnostics,6000,24,12,2026-01-01,2027-12-31
+CRS-000379,Foundation: People Analytics / Design,4000,24,40,2026-01-01,2027-12-31
+CRS-000380,Foundation: People Analytics / Validation,6000,4,40,2026-01-01,2027-12-31
+CRS-000381,Foundation: People Analytics / Automation,4000,12,80,2026-01-01,2027-12-31
+CRS-000382,Foundation: People Analytics / Quality,2500,8,12,2026-01-01,2027-12-31
+CRS-000383,Foundation: People Analytics / Performance,4000,8,80,2026-01-01,2027-12-31
+CRS-000384,Foundation: People Analytics / Documentation,1500,8,12,2026-01-01,2027-12-31
+CRS-000385,Foundation: People Analytics / Monitoring,6000,12,40,2026-01-01,2027-12-31
+CRS-000386,Foundation: People Analytics / Integration,2500,8,20,2026-01-01,2027-12-31
+CRS-000387,Foundation: People Analytics / Risk Review,9000,12,12,2026-01-01,2027-12-31
+CRS-000388,Foundation: People Analytics / Troubleshooting,2500,24,80,2026-01-01,2027-12-31
+CRS-000389,Foundation: People Analytics / Planning,1500,24,12,2026-01-01,2027-12-31
+CRS-000390,Foundation: People Analytics / Measurement,6000,16,12,2026-01-01,2027-12-31
+CRS-000391,Foundation: People Analytics / Communication,0,8,40,2026-01-01,2027-12-31
+CRS-000392,Foundation: People Analytics / Implementation,1500,4,40,2026-01-01,2027-12-31
+CRS-000393,Foundation: People Analytics / Optimization,2500,8,40,2026-01-01,2027-12-31
+CRS-000394,Foundation: People Analytics / Controls,1500,8,40,2026-01-01,2027-12-31
+CRS-000395,Foundation: People Analytics / Reporting,9000,12,20,2026-01-01,2027-12-31
+CRS-000396,Foundation: People Analytics / Evaluation,1500,24,80,2026-01-01,2027-12-31
+CRS-000397,Foundation: People Analytics / Maintenance,9000,8,20,2026-01-01,2027-12-31
+CRS-000398,Foundation: People Analytics / Scaling,4000,24,20,2026-01-01,2027-12-31
+CRS-000399,Foundation: People Analytics / Change Management,0,4,40,2026-01-01,2027-12-31
+CRS-000400,Foundation: People Analytics / Review,9000,24,20,2026-01-01,2027-12-31
+CRS-000401,Foundation: Learning Design / Foundations,4000,24,20,2026-01-01,2027-12-31
+CRS-000402,Foundation: Learning Design / Applied Practice,6000,12,40,2026-01-01,2027-12-31
+CRS-000403,Foundation: Learning Design / Diagnostics,6000,8,20,2026-01-01,2027-12-31
+CRS-000404,Foundation: Learning Design / Design,2500,8,40,2026-01-01,2027-12-31
+CRS-000405,Foundation: Learning Design / Validation,9000,8,80,2026-01-01,2027-12-31
+CRS-000406,Foundation: Learning Design / Automation,9000,8,40,2026-01-01,2027-12-31
+CRS-000407,Foundation: Learning Design / Quality,9000,12,40,2026-01-01,2027-12-31
+CRS-000408,Foundation: Learning Design / Performance,0,24,12,2026-01-01,2027-12-31
+CRS-000409,Foundation: Learning Design / Documentation,0,8,40,2026-01-01,2027-12-31
+CRS-000410,Foundation: Learning Design / Monitoring,6000,16,20,2027-07-01,2027-12-31
+CRS-000411,Foundation: Learning Design / Integration,9000,4,40,2026-01-01,2027-12-31
+CRS-000412,Foundation: Learning Design / Risk Review,0,24,80,2026-01-01,2027-12-31
+CRS-000413,Foundation: Learning Design / Troubleshooting,2500,24,80,2026-01-01,2027-12-31
+CRS-000414,Foundation: Learning Design / Planning,9000,12,12,2026-01-01,2027-12-31
+CRS-000415,Foundation: Learning Design / Measurement,0,4,40,2026-01-01,2027-12-31
+CRS-000416,Foundation: Learning Design / Communication,0,16,40,2026-01-01,2027-12-31
+CRS-000417,Foundation: Learning Design / Implementation,9000,24,40,2026-01-01,2027-12-31
+CRS-000418,Foundation: Learning Design / Optimization,2500,12,80,2026-01-01,2027-12-31
+CRS-000419,Foundation: Learning Design / Controls,2500,8,20,2026-01-01,2027-12-31
+CRS-000420,Foundation: Learning Design / Reporting,4000,12,80,2026-01-01,2027-12-31
+CRS-000421,Foundation: Learning Design / Evaluation,1500,8,40,2026-01-01,2027-12-31
+CRS-000422,Foundation: Learning Design / Maintenance,0,4,40,2026-01-01,2027-12-31
+CRS-000423,Foundation: Learning Design / Scaling,0,24,40,2026-01-01,2027-12-31
+CRS-000424,Foundation: Learning Design / Change Management,0,4,40,2026-01-01,2027-12-31
+CRS-000425,Foundation: Learning Design / Review,6000,12,80,2026-01-01,2027-12-31
+CRS-000426,Foundation: Technical Sales / Foundations,1500,4,40,2026-01-01,2027-12-31
+CRS-000427,Foundation: Technical Sales / Applied Practice,4000,4,80,2026-01-01,2027-12-31
+CRS-000428,Foundation: Technical Sales / Diagnostics,1500,12,12,2026-01-01,2027-12-31
+CRS-000429,Foundation: Technical Sales / Design,0,4,20,2026-01-01,2027-12-31
+CRS-000430,Foundation: Technical Sales / Validation,2500,4,20,2026-01-01,2027-12-31
+CRS-000431,Foundation: Technical Sales / Automation,6000,24,20,2026-01-01,2027-12-31
+CRS-000432,Foundation: Technical Sales / Quality,2500,24,80,2026-01-01,2027-12-31
+CRS-000433,Foundation: Technical Sales / Performance,6000,12,80,2026-01-01,2027-12-31
+CRS-000434,Foundation: Technical Sales / Documentation,4000,16,20,2026-01-01,2027-12-31
+CRS-000435,Foundation: Technical Sales / Monitoring,4000,24,20,2026-01-01,2027-12-31
+CRS-000436,Foundation: Technical Sales / Integration,4000,12,40,2026-01-01,2027-12-31
+CRS-000437,Foundation: Technical Sales / Risk Review,1500,24,80,2026-01-01,2027-12-31
+CRS-000438,Foundation: Technical Sales / Troubleshooting,4000,4,40,2026-01-01,2027-12-31
+CRS-000439,Foundation: Technical Sales / Planning,2500,4,20,2026-01-01,2027-12-31
+CRS-000440,Foundation: Technical Sales / Measurement,2500,12,12,2026-01-01,2027-12-31
+CRS-000441,Foundation: Technical Sales / Communication,1500,8,80,2026-01-01,2027-12-31
+CRS-000442,Foundation: Technical Sales / Implementation,1500,24,80,2026-01-01,2027-12-31
+CRS-000443,Foundation: Technical Sales / Optimization,0,16,40,2026-01-01,2027-12-31
+CRS-000444,Foundation: Technical Sales / Controls,1500,24,12,2026-01-01,2027-12-31
+CRS-000445,Foundation: Technical Sales / Reporting,6000,8,20,2026-01-01,2027-12-31
+CRS-000446,Foundation: Technical Sales / Evaluation,2500,16,40,2026-01-01,2027-12-31
+CRS-000447,Foundation: Technical Sales / Maintenance,0,16,40,2026-01-01,2027-12-31
+CRS-000448,Foundation: Technical Sales / Scaling,0,16,40,2026-01-01,2027-12-31
+CRS-000449,Foundation: Technical Sales / Change Management,9000,4,80,2026-01-01,2027-12-31
+CRS-000450,Foundation: Technical Sales / Review,2500,8,80,2026-01-01,2027-12-31
+CRS-000451,Foundation: Solution Design / Foundations,4000,8,80,2027-07-01,2027-12-31
+CRS-000452,Foundation: Solution Design / Applied Practice,2500,24,12,2026-01-01,2027-12-31
+CRS-000453,Foundation: Solution Design / Diagnostics,6000,12,20,2026-01-01,2027-12-31
+CRS-000454,Foundation: Solution Design / Design,6000,24,80,2026-01-01,2027-12-31
+CRS-000455,Foundation: Solution Design / Validation,4000,8,80,2026-01-01,2027-12-31
+CRS-000456,Foundation: Solution Design / Automation,9000,4,80,2026-01-01,2027-12-31
+CRS-000457,Foundation: Solution Design / Quality,6000,4,12,2026-01-01,2027-12-31
+CRS-000458,Foundation: Solution Design / Performance,9000,12,80,2026-01-01,2027-12-31
+CRS-000459,Foundation: Solution Design / Documentation,1500,12,80,2026-01-01,2027-12-31
+CRS-000460,Foundation: Solution Design / Monitoring,4000,24,12,2026-01-01,2027-12-31
+CRS-000461,Foundation: Solution Design / Integration,4000,16,40,2026-01-01,2027-12-31
+CRS-000462,Foundation: Solution Design / Risk Review,1500,8,12,2026-01-01,2027-12-31
+CRS-000463,Foundation: Solution Design / Troubleshooting,4000,4,20,2026-01-01,2027-12-31
+CRS-000464,Foundation: Solution Design / Planning,1500,16,80,2026-01-01,2027-12-31
+CRS-000465,Foundation: Solution Design / Measurement,4000,8,80,2026-01-01,2027-12-31
+CRS-000466,Foundation: Solution Design / Communication,0,16,80,2026-01-01,2027-12-31
+CRS-000467,Foundation: Solution Design / Implementation,4000,16,20,2026-01-01,2027-12-31
+CRS-000468,Foundation: Solution Design / Optimization,2500,8,20,2026-01-01,2027-12-31
+CRS-000469,Foundation: Solution Design / Controls,4000,24,40,2026-01-01,2027-12-31
+CRS-000470,Foundation: Solution Design / Reporting,6000,16,40,2026-01-01,2027-12-31
+CRS-000471,Foundation: Solution Design / Evaluation,6000,16,20,2026-01-01,2027-12-31
+CRS-000472,Foundation: Solution Design / Maintenance,2500,16,80,2026-01-01,2027-12-31
+CRS-000473,Foundation: Solution Design / Scaling,6000,8,80,2026-01-01,2027-12-31
+CRS-000474,Foundation: Solution Design / Change Management,4000,8,40,2026-01-01,2027-12-31
+CRS-000475,Foundation: Solution Design / Review,2500,24,12,2026-01-01,2027-12-31
+CRS-000476,Foundation: Data Governance / Foundations,6000,8,40,2026-01-01,2027-12-31
+CRS-000477,Foundation: Data Governance / Applied Practice,1500,8,40,2026-01-01,2027-12-31
+CRS-000478,Foundation: Data Governance / Diagnostics,0,16,40,2026-01-01,2027-12-31
+CRS-000479,Foundation: Data Governance / Design,0,8,20,2026-01-01,2027-12-31
+CRS-000480,Foundation: Data Governance / Validation,0,16,12,2026-01-01,2027-12-31
+CRS-000481,Foundation: Data Governance / Automation,4000,12,80,2026-01-01,2027-12-31
+CRS-000482,Foundation: Data Governance / Quality,1500,12,40,2026-01-01,2027-12-31
+CRS-000483,Foundation: Data Governance / Performance,4000,12,12,2026-01-01,2027-12-31
+CRS-000484,Foundation: Data Governance / Documentation,2500,16,12,2026-01-01,2027-12-31
+CRS-000485,Foundation: Data Governance / Monitoring,2500,24,80,2026-01-01,2027-12-31
+CRS-000486,Foundation: Data Governance / Integration,0,8,20,2026-01-01,2027-12-31
+CRS-000487,Foundation: Data Governance / Risk Review,6000,12,80,2026-01-01,2027-12-31
+CRS-000488,Foundation: Data Governance / Troubleshooting,6000,24,20,2026-01-01,2027-12-31
+CRS-000489,Foundation: Data Governance / Planning,4000,12,80,2026-01-01,2027-12-31
+CRS-000490,Foundation: Data Governance / Measurement,2500,24,40,2026-01-01,2027-12-31
+CRS-000491,Foundation: Data Governance / Communication,0,24,20,2026-01-01,2027-12-31
+CRS-000492,Foundation: Data Governance / Implementation,6000,8,20,2027-07-01,2027-12-31
+CRS-000493,Foundation: Data Governance / Optimization,0,24,40,2026-01-01,2027-12-31
+CRS-000494,Foundation: Data Governance / Controls,9000,8,12,2026-01-01,2027-12-31
+CRS-000495,Foundation: Data Governance / Reporting,6000,8,80,2026-01-01,2027-12-31
+CRS-000496,Foundation: Data Governance / Evaluation,2500,12,40,2026-01-01,2027-12-31
+CRS-000497,Foundation: Data Governance / Maintenance,6000,16,40,2026-01-01,2027-12-31
+CRS-000498,Foundation: Data Governance / Scaling,4000,16,20,2026-01-01,2027-12-31
+CRS-000499,Foundation: Data Governance / Change Management,9000,12,20,2026-01-01,2027-12-31
+CRS-000500,Foundation: Data Governance / Review,0,24,12,2027-07-01,2027-12-31
+CRS-000501,Advanced: Python / Foundations,4000,12,40,2026-01-01,2027-12-31
+CRS-000502,Advanced: Python / Applied Practice,4000,16,12,2026-01-01,2027-12-31
+CRS-000503,Advanced: Python / Diagnostics,4000,8,12,2026-01-01,2027-12-31
+CRS-000504,Advanced: Python / Design,0,4,12,2026-01-01,2027-12-31
+CRS-000505,Advanced: Python / Validation,9000,24,40,2026-01-01,2027-12-31
+CRS-000506,Advanced: Python / Automation,9000,4,80,2026-01-01,2027-12-31
+CRS-000507,Advanced: Python / Quality,6000,16,80,2026-01-01,2027-12-31
+CRS-000508,Advanced: Python / Performance,9000,24,20,2026-01-01,2027-12-31
+CRS-000509,Advanced: Python / Documentation,6000,16,40,2026-01-01,2027-12-31
+CRS-000510,Advanced: Python / Monitoring,9000,16,20,2026-01-01,2027-12-31
+CRS-000511,Advanced: Python / Integration,2500,12,20,2026-01-01,2027-12-31
+CRS-000512,Advanced: Python / Risk Review,6000,8,12,2026-01-01,2027-12-31
+CRS-000513,Advanced: Python / Troubleshooting,0,16,80,2026-01-01,2027-12-31
+CRS-000514,Advanced: Python / Planning,9000,24,20,2026-01-01,2027-12-31
+CRS-000515,Advanced: Python / Measurement,2500,12,80,2026-01-01,2027-12-31
+CRS-000516,Advanced: Python / Communication,4000,24,12,2026-01-01,2027-12-31
+CRS-000517,Advanced: Python / Implementation,4000,16,12,2026-01-01,2027-12-31
+CRS-000518,Advanced: Python / Optimization,6000,8,12,2026-01-01,2027-12-31
+CRS-000519,Advanced: Python / Controls,4000,12,12,2026-01-01,2027-12-31
+CRS-000520,Advanced: Python / Reporting,9000,4,40,2026-01-01,2027-12-31
+CRS-000521,Advanced: Python / Evaluation,6000,24,80,2026-01-01,2027-12-31
+CRS-000522,Advanced: Python / Maintenance,4000,16,20,2026-01-01,2027-12-31
+CRS-000523,Advanced: Python / Scaling,2500,8,40,2026-01-01,2027-12-31
+CRS-000524,Advanced: Python / Change Management,4000,16,20,2026-01-01,2027-12-31
+CRS-000525,Advanced: Python / Review,4000,16,12,2026-01-01,2027-12-31
+CRS-000526,Advanced: SQL / Foundations,2500,4,40,2026-01-01,2027-12-31
+CRS-000527,Advanced: SQL / Applied Practice,0,4,12,2026-01-01,2027-12-31
+CRS-000528,Advanced: SQL / Diagnostics,1500,12,20,2026-01-01,2027-12-31
+CRS-000529,Advanced: SQL / Design,6000,24,12,2026-01-01,2027-12-31
+CRS-000530,Advanced: SQL / Validation,1500,16,20,2026-01-01,2027-12-31
+CRS-000531,Advanced: SQL / Automation,4000,12,12,2026-01-01,2027-12-31
+CRS-000532,Advanced: SQL / Quality,4000,12,12,2026-01-01,2027-12-31
+CRS-000533,Advanced: SQL / Performance,2500,12,80,2027-07-01,2027-12-31
+CRS-000534,Advanced: SQL / Documentation,1500,24,40,2026-01-01,2027-12-31
+CRS-000535,Advanced: SQL / Monitoring,0,8,12,2026-01-01,2027-12-31
+CRS-000536,Advanced: SQL / Integration,6000,24,80,2026-01-01,2027-12-31
+CRS-000537,Advanced: SQL / Risk Review,4000,12,12,2026-01-01,2027-12-31
+CRS-000538,Advanced: SQL / Troubleshooting,0,8,20,2026-01-01,2027-12-31
+CRS-000539,Advanced: SQL / Planning,6000,4,80,2026-01-01,2027-12-31
+CRS-000540,Advanced: SQL / Measurement,6000,12,40,2026-01-01,2027-12-31
+CRS-000541,Advanced: SQL / Communication,4000,8,12,2026-01-01,2027-12-31
+CRS-000542,Advanced: SQL / Implementation,6000,8,40,2026-01-01,2027-12-31
+CRS-000543,Advanced: SQL / Optimization,4000,8,80,2026-01-01,2027-12-31
+CRS-000544,Advanced: SQL / Controls,1500,12,80,2026-01-01,2027-12-31
+CRS-000545,Advanced: SQL / Reporting,2500,12,80,2026-01-01,2027-12-31
+CRS-000546,Advanced: SQL / Evaluation,0,12,40,2026-01-01,2027-12-31
+CRS-000547,Advanced: SQL / Maintenance,0,8,20,2026-01-01,2027-12-31
+CRS-000548,Advanced: SQL / Scaling,2500,12,40,2026-01-01,2027-12-31
+CRS-000549,Advanced: SQL / Change Management,0,16,20,2026-01-01,2027-12-31
+CRS-000550,Advanced: SQL / Review,9000,12,12,2026-01-01,2027-12-31
+CRS-000551,Advanced: Data Modeling / Foundations,2500,12,40,2026-01-01,2027-12-31
+CRS-000552,Advanced: Data Modeling / Applied Practice,6000,4,12,2026-01-01,2027-12-31
+CRS-000553,Advanced: Data Modeling / Diagnostics,4000,24,20,2026-01-01,2027-12-31
+CRS-000554,Advanced: Data Modeling / Design,2500,12,12,2026-01-01,2027-12-31
+CRS-000555,Advanced: Data Modeling / Validation,0,16,80,2026-01-01,2027-12-31
+CRS-000556,Advanced: Data Modeling / Automation,4000,4,80,2026-01-01,2027-12-31
+CRS-000557,Advanced: Data Modeling / Quality,9000,8,80,2026-01-01,2027-12-31
+CRS-000558,Advanced: Data Modeling / Performance,4000,16,12,2026-01-01,2027-12-31
+CRS-000559,Advanced: Data Modeling / Documentation,9000,12,80,2026-01-01,2027-12-31
+CRS-000560,Advanced: Data Modeling / Monitoring,4000,4,12,2026-01-01,2027-12-31
+CRS-000561,Advanced: Data Modeling / Integration,4000,8,20,2026-01-01,2027-12-31
+CRS-000562,Advanced: Data Modeling / Risk Review,9000,24,40,2026-01-01,2027-12-31
+CRS-000563,Advanced: Data Modeling / Troubleshooting,4000,24,20,2026-01-01,2027-12-31
+CRS-000564,Advanced: Data Modeling / Planning,2500,16,40,2026-01-01,2027-12-31
+CRS-000565,Advanced: Data Modeling / Measurement,2500,4,12,2026-01-01,2027-12-31
+CRS-000566,Advanced: Data Modeling / Communication,9000,12,12,2026-01-01,2027-12-31
+CRS-000567,Advanced: Data Modeling / Implementation,6000,4,12,2026-01-01,2027-12-31
+CRS-000568,Advanced: Data Modeling / Optimization,1500,8,80,2026-01-01,2027-12-31
+CRS-000569,Advanced: Data Modeling / Controls,4000,12,40,2026-01-01,2027-12-31
+CRS-000570,Advanced: Data Modeling / Reporting,2500,4,40,2026-01-01,2027-12-31
+CRS-000571,Advanced: Data Modeling / Evaluation,9000,24,80,2026-01-01,2027-12-31
+CRS-000572,Advanced: Data Modeling / Maintenance,0,16,40,2026-01-01,2027-12-31
+CRS-000573,Advanced: Data Modeling / Scaling,1500,12,20,2026-01-01,2027-12-31
+CRS-000574,Advanced: Data Modeling / Change Management,0,24,80,2027-07-01,2027-12-31
+CRS-000575,Advanced: Data Modeling / Review,1500,8,20,2026-01-01,2027-12-31
+CRS-000576,Advanced: Statistics / Foundations,1500,4,20,2026-01-01,2027-12-31
+CRS-000577,Advanced: Statistics / Applied Practice,2500,16,80,2026-01-01,2027-12-31
+CRS-000578,Advanced: Statistics / Diagnostics,0,4,80,2026-01-01,2027-12-31
+CRS-000579,Advanced: Statistics / Design,4000,12,12,2026-01-01,2027-12-31
+CRS-000580,Advanced: Statistics / Validation,6000,24,40,2026-01-01,2027-12-31
+CRS-000581,Advanced: Statistics / Automation,2500,8,12,2026-01-01,2027-12-31
+CRS-000582,Advanced: Statistics / Quality,4000,12,80,2026-01-01,2027-12-31
+CRS-000583,Advanced: Statistics / Performance,6000,8,80,2026-01-01,2027-12-31
+CRS-000584,Advanced: Statistics / Documentation,9000,24,80,2026-01-01,2027-12-31
+CRS-000585,Advanced: Statistics / Monitoring,6000,12,12,2026-01-01,2027-12-31
+CRS-000586,Advanced: Statistics / Integration,0,16,12,2026-01-01,2027-12-31
+CRS-000587,Advanced: Statistics / Risk Review,0,24,40,2026-01-01,2027-12-31
+CRS-000588,Advanced: Statistics / Troubleshooting,4000,16,20,2026-01-01,2027-12-31
+CRS-000589,Advanced: Statistics / Planning,9000,24,20,2026-01-01,2027-12-31
+CRS-000590,Advanced: Statistics / Measurement,9000,4,80,2026-01-01,2027-12-31
+CRS-000591,Advanced: Statistics / Communication,0,4,12,2026-01-01,2027-12-31
+CRS-000592,Advanced: Statistics / Implementation,2500,12,80,2026-01-01,2027-12-31
+CRS-000593,Advanced: Statistics / Optimization,2500,16,40,2026-01-01,2027-12-31
+CRS-000594,Advanced: Statistics / Controls,9000,8,20,2026-01-01,2027-12-31
+CRS-000595,Advanced: Statistics / Reporting,9000,4,12,2026-01-01,2027-12-31
+CRS-000596,Advanced: Statistics / Evaluation,2500,4,80,2026-01-01,2027-12-31
+CRS-000597,Advanced: Statistics / Maintenance,2500,16,20,2026-01-01,2027-12-31
+CRS-000598,Advanced: Statistics / Scaling,4000,12,80,2026-01-01,2027-12-31
+CRS-000599,Advanced: Statistics / Change Management,0,12,80,2026-01-01,2027-12-31
+CRS-000600,Advanced: Statistics / Review,1500,12,40,2026-01-01,2027-12-31
+CRS-000601,Advanced: Machine Learning / Foundations,9000,12,12,2026-01-01,2027-12-31
+CRS-000602,Advanced: Machine Learning / Applied Practice,1500,8,40,2026-01-01,2027-12-31
+CRS-000603,Advanced: Machine Learning / Diagnostics,1500,12,40,2026-01-01,2027-12-31
+CRS-000604,Advanced: Machine Learning / Design,4000,24,20,2026-01-01,2027-12-31
+CRS-000605,Advanced: Machine Learning / Validation,1500,12,80,2026-01-01,2027-12-31
+CRS-000606,Advanced: Machine Learning / Automation,2500,4,80,2026-01-01,2027-12-31
+CRS-000607,Advanced: Machine Learning / Quality,4000,8,20,2026-01-01,2027-12-31
+CRS-000608,Advanced: Machine Learning / Performance,1500,4,20,2026-01-01,2027-12-31
+CRS-000609,Advanced: Machine Learning / Documentation,9000,12,40,2026-01-01,2027-12-31
+CRS-000610,Advanced: Machine Learning / Monitoring,6000,4,80,2026-01-01,2027-12-31
+CRS-000611,Advanced: Machine Learning / Integration,9000,16,12,2026-01-01,2027-12-31
+CRS-000612,Advanced: Machine Learning / Risk Review,2500,24,40,2026-01-01,2027-12-31
+CRS-000613,Advanced: Machine Learning / Troubleshooting,1500,4,40,2026-01-01,2027-12-31
+CRS-000614,Advanced: Machine Learning / Planning,6000,4,20,2026-01-01,2027-12-31
+CRS-000615,Advanced: Machine Learning / Measurement,1500,4,40,2027-07-01,2027-12-31
+CRS-000616,Advanced: Machine Learning / Communication,0,24,40,2026-01-01,2027-12-31
+CRS-000617,Advanced: Machine Learning / Implementation,9000,16,80,2026-01-01,2027-12-31
+CRS-000618,Advanced: Machine Learning / Optimization,9000,24,12,2026-01-01,2027-12-31
+CRS-000619,Advanced: Machine Learning / Controls,4000,4,20,2026-01-01,2027-12-31
+CRS-000620,Advanced: Machine Learning / Reporting,2500,4,12,2026-01-01,2027-12-31
+CRS-000621,Advanced: Machine Learning / Evaluation,2500,24,20,2026-01-01,2027-12-31
+CRS-000622,Advanced: Machine Learning / Maintenance,1500,12,40,2026-01-01,2027-12-31
+CRS-000623,Advanced: Machine Learning / Scaling,0,8,40,2026-01-01,2027-12-31
+CRS-000624,Advanced: Machine Learning / Change Management,6000,12,12,2026-01-01,2027-12-31
+CRS-000625,Advanced: Machine Learning / Review,0,16,12,2026-01-01,2027-12-31
+CRS-000626,Advanced: API Design / Foundations,4000,8,12,2026-01-01,2027-12-31
+CRS-000627,Advanced: API Design / Applied Practice,2500,8,12,2026-01-01,2027-12-31
+CRS-000628,Advanced: API Design / Diagnostics,1500,8,20,2026-01-01,2027-12-31
+CRS-000629,Advanced: API Design / Design,9000,12,80,2026-01-01,2027-12-31
+CRS-000630,Advanced: API Design / Validation,1500,8,20,2026-01-01,2027-12-31
+CRS-000631,Advanced: API Design / Automation,6000,24,20,2026-01-01,2027-12-31
+CRS-000632,Advanced: API Design / Quality,9000,8,20,2026-01-01,2027-12-31
+CRS-000633,Advanced: API Design / Performance,9000,16,20,2026-01-01,2027-12-31
+CRS-000634,Advanced: API Design / Documentation,1500,12,12,2026-01-01,2027-12-31
+CRS-000635,Advanced: API Design / Monitoring,0,4,20,2026-01-01,2027-12-31
+CRS-000636,Advanced: API Design / Integration,9000,24,40,2026-01-01,2027-12-31
+CRS-000637,Advanced: API Design / Risk Review,4000,12,12,2026-01-01,2027-12-31
+CRS-000638,Advanced: API Design / Troubleshooting,6000,4,80,2026-01-01,2027-12-31
+CRS-000639,Advanced: API Design / Planning,9000,8,12,2026-01-01,2027-12-31
+CRS-000640,Advanced: API Design / Measurement,2500,24,80,2026-01-01,2027-12-31
+CRS-000641,Advanced: API Design / Communication,9000,8,80,2026-01-01,2027-12-31
+CRS-000642,Advanced: API Design / Implementation,9000,12,40,2026-01-01,2027-12-31
+CRS-000643,Advanced: API Design / Optimization,2500,8,80,2026-01-01,2027-12-31
+CRS-000644,Advanced: API Design / Controls,6000,12,80,2026-01-01,2027-12-31
+CRS-000645,Advanced: API Design / Reporting,2500,24,20,2026-01-01,2027-12-31
+CRS-000646,Advanced: API Design / Evaluation,4000,8,20,2026-01-01,2027-12-31
+CRS-000647,Advanced: API Design / Maintenance,4000,16,40,2026-01-01,2027-12-31
+CRS-000648,Advanced: API Design / Scaling,4000,16,40,2026-01-01,2027-12-31
+CRS-000649,Advanced: API Design / Change Management,4000,16,40,2026-01-01,2027-12-31
+CRS-000650,Advanced: API Design / Review,9000,8,20,2026-01-01,2027-12-31
+CRS-000651,Advanced: Cloud Fundamentals / Foundations,4000,24,20,2026-01-01,2027-12-31
+CRS-000652,Advanced: Cloud Fundamentals / Applied Practice,0,12,80,2026-01-01,2027-12-31
+CRS-000653,Advanced: Cloud Fundamentals / Diagnostics,1500,16,12,2026-01-01,2027-12-31
+CRS-000654,Advanced: Cloud Fundamentals / Design,2500,4,40,2026-01-01,2027-12-31
+CRS-000655,Advanced: Cloud Fundamentals / Validation,6000,16,20,2026-01-01,2027-12-31
+CRS-000656,Advanced: Cloud Fundamentals / Automation,4000,4,80,2027-07-01,2027-12-31
+CRS-000657,Advanced: Cloud Fundamentals / Quality,0,24,12,2026-01-01,2027-12-31
+CRS-000658,Advanced: Cloud Fundamentals / Performance,6000,8,40,2026-01-01,2027-12-31
+CRS-000659,Advanced: Cloud Fundamentals / Documentation,6000,4,12,2026-01-01,2027-12-31
+CRS-000660,Advanced: Cloud Fundamentals / Monitoring,4000,12,40,2026-01-01,2027-12-31
+CRS-000661,Advanced: Cloud Fundamentals / Integration,6000,16,40,2026-01-01,2027-12-31
+CRS-000662,Advanced: Cloud Fundamentals / Risk Review,1500,4,80,2026-01-01,2027-12-31
+CRS-000663,Advanced: Cloud Fundamentals / Troubleshooting,2500,24,80,2026-01-01,2027-12-31
+CRS-000664,Advanced: Cloud Fundamentals / Planning,2500,16,80,2026-01-01,2027-12-31
+CRS-000665,Advanced: Cloud Fundamentals / Measurement,1500,24,12,2026-01-01,2027-12-31
+CRS-000666,Advanced: Cloud Fundamentals / Communication,4000,24,80,2026-01-01,2027-12-31
+CRS-000667,Advanced: Cloud Fundamentals / Implementation,2500,24,40,2026-01-01,2027-12-31
+CRS-000668,Advanced: Cloud Fundamentals / Optimization,4000,8,40,2026-01-01,2027-12-31
+CRS-000669,Advanced: Cloud Fundamentals / Controls,6000,16,40,2026-01-01,2027-12-31
+CRS-000670,Advanced: Cloud Fundamentals / Reporting,6000,8,40,2026-01-01,2027-12-31
+CRS-000671,Advanced: Cloud Fundamentals / Evaluation,1500,4,80,2026-01-01,2027-12-31
+CRS-000672,Advanced: Cloud Fundamentals / Maintenance,9000,4,40,2026-01-01,2027-12-31
+CRS-000673,Advanced: Cloud Fundamentals / Scaling,9000,8,20,2026-01-01,2027-12-31
+CRS-000674,Advanced: Cloud Fundamentals / Change Management,6000,8,12,2026-01-01,2027-12-31
+CRS-000675,Advanced: Cloud Fundamentals / Review,0,16,12,2026-01-01,2027-12-31
+CRS-000676,Advanced: Security / Foundations,0,4,20,2026-01-01,2027-12-31
+CRS-000677,Advanced: Security / Applied Practice,4000,24,20,2026-01-01,2027-12-31
+CRS-000678,Advanced: Security / Diagnostics,9000,16,20,2026-01-01,2027-12-31
+CRS-000679,Advanced: Security / Design,0,8,20,2026-01-01,2027-12-31
+CRS-000680,Advanced: Security / Validation,6000,16,20,2026-01-01,2027-12-31
+CRS-000681,Advanced: Security / Automation,1500,12,40,2026-01-01,2027-12-31
+CRS-000682,Advanced: Security / Quality,0,24,80,2026-01-01,2027-12-31
+CRS-000683,Advanced: Security / Performance,1500,16,40,2026-01-01,2027-12-31
+CRS-000684,Advanced: Security / Documentation,2500,12,12,2026-01-01,2027-12-31
+CRS-000685,Advanced: Security / Monitoring,2500,12,20,2026-01-01,2027-12-31
+CRS-000686,Advanced: Security / Integration,0,8,40,2026-01-01,2027-12-31
+CRS-000687,Advanced: Security / Risk Review,0,4,12,2026-01-01,2027-12-31
+CRS-000688,Advanced: Security / Troubleshooting,4000,12,12,2026-01-01,2027-12-31
+CRS-000689,Advanced: Security / Planning,4000,4,12,2026-01-01,2027-12-31
+CRS-000690,Advanced: Security / Measurement,0,24,12,2026-01-01,2027-12-31
+CRS-000691,Advanced: Security / Communication,0,4,12,2026-01-01,2027-12-31
+CRS-000692,Advanced: Security / Implementation,0,24,12,2026-01-01,2027-12-31
+CRS-000693,Advanced: Security / Optimization,0,8,12,2026-01-01,2027-12-31
+CRS-000694,Advanced: Security / Controls,0,4,80,2026-01-01,2027-12-31
+CRS-000695,Advanced: Security / Reporting,2500,16,20,2026-01-01,2027-12-31
+CRS-000696,Advanced: Security / Evaluation,9000,24,40,2026-01-01,2027-12-31
+CRS-000697,Advanced: Security / Maintenance,6000,24,12,2027-07-01,2027-12-31
+CRS-000698,Advanced: Security / Scaling,6000,16,80,2026-01-01,2027-12-31
+CRS-000699,Advanced: Security / Change Management,0,24,80,2026-01-01,2027-12-31
+CRS-000700,Advanced: Security / Review,1500,16,40,2026-01-01,2027-12-31
+CRS-000701,Advanced: Reliability / Foundations,4000,24,12,2026-01-01,2027-12-31
+CRS-000702,Advanced: Reliability / Applied Practice,2500,16,80,2026-01-01,2027-12-31
+CRS-000703,Advanced: Reliability / Diagnostics,0,16,80,2026-01-01,2027-12-31
+CRS-000704,Advanced: Reliability / Design,0,16,12,2026-01-01,2027-12-31
+CRS-000705,Advanced: Reliability / Validation,9000,8,80,2026-01-01,2027-12-31
+CRS-000706,Advanced: Reliability / Automation,1500,12,20,2026-01-01,2027-12-31
+CRS-000707,Advanced: Reliability / Quality,4000,16,12,2026-01-01,2027-12-31
+CRS-000708,Advanced: Reliability / Performance,9000,12,80,2026-01-01,2027-12-31
+CRS-000709,Advanced: Reliability / Documentation,9000,4,80,2026-01-01,2027-12-31
+CRS-000710,Advanced: Reliability / Monitoring,6000,16,40,2026-01-01,2027-12-31
+CRS-000711,Advanced: Reliability / Integration,1500,16,80,2026-01-01,2027-12-31
+CRS-000712,Advanced: Reliability / Risk Review,2500,4,20,2026-01-01,2027-12-31
+CRS-000713,Advanced: Reliability / Troubleshooting,9000,24,12,2026-01-01,2027-12-31
+CRS-000714,Advanced: Reliability / Planning,6000,8,20,2026-01-01,2027-12-31
+CRS-000715,Advanced: Reliability / Measurement,0,8,40,2026-01-01,2027-12-31
+CRS-000716,Advanced: Reliability / Communication,1500,12,12,2026-01-01,2027-12-31
+CRS-000717,Advanced: Reliability / Implementation,6000,24,80,2026-01-01,2027-12-31
+CRS-000718,Advanced: Reliability / Optimization,2500,12,40,2026-01-01,2027-12-31
+CRS-000719,Advanced: Reliability / Controls,4000,24,20,2026-01-01,2027-12-31
+CRS-000720,Advanced: Reliability / Reporting,0,16,40,2026-01-01,2027-12-31
+CRS-000721,Advanced: Reliability / Evaluation,0,8,80,2026-01-01,2027-12-31
+CRS-000722,Advanced: Reliability / Maintenance,6000,24,40,2026-01-01,2027-12-31
+CRS-000723,Advanced: Reliability / Scaling,6000,24,20,2026-01-01,2027-12-31
+CRS-000724,Advanced: Reliability / Change Management,2500,12,80,2026-01-01,2027-12-31
+CRS-000725,Advanced: Reliability / Review,1500,4,20,2026-01-01,2027-12-31
+CRS-000726,Advanced: Test Engineering / Foundations,4000,4,12,2026-01-01,2027-12-31
+CRS-000727,Advanced: Test Engineering / Applied Practice,0,24,80,2026-01-01,2027-12-31
+CRS-000728,Advanced: Test Engineering / Diagnostics,6000,24,40,2026-01-01,2027-12-31
+CRS-000729,Advanced: Test Engineering / Design,0,16,20,2026-01-01,2027-12-31
+CRS-000730,Advanced: Test Engineering / Validation,6000,24,80,2026-01-01,2027-12-31
+CRS-000731,Advanced: Test Engineering / Automation,6000,4,80,2026-01-01,2027-12-31
+CRS-000732,Advanced: Test Engineering / Quality,6000,24,12,2026-01-01,2027-12-31
+CRS-000733,Advanced: Test Engineering / Performance,9000,8,12,2026-01-01,2027-12-31
+CRS-000734,Advanced: Test Engineering / Documentation,4000,8,40,2026-01-01,2027-12-31
+CRS-000735,Advanced: Test Engineering / Monitoring,9000,16,80,2026-01-01,2027-12-31
+CRS-000736,Advanced: Test Engineering / Integration,9000,16,80,2026-01-01,2027-12-31
+CRS-000737,Advanced: Test Engineering / Risk Review,1500,8,12,2026-01-01,2027-12-31
+CRS-000738,Advanced: Test Engineering / Troubleshooting,4000,12,40,2027-07-01,2027-12-31
+CRS-000739,Advanced: Test Engineering / Planning,1500,16,40,2026-01-01,2027-12-31
+CRS-000740,Advanced: Test Engineering / Measurement,9000,24,20,2026-01-01,2027-12-31
+CRS-000741,Advanced: Test Engineering / Communication,0,16,20,2026-01-01,2027-12-31
+CRS-000742,Advanced: Test Engineering / Implementation,6000,12,20,2026-01-01,2027-12-31
+CRS-000743,Advanced: Test Engineering / Optimization,0,12,20,2026-01-01,2027-12-31
+CRS-000744,Advanced: Test Engineering / Controls,4000,4,20,2026-01-01,2027-12-31
+CRS-000745,Advanced: Test Engineering / Reporting,1500,4,40,2026-01-01,2027-12-31
+CRS-000746,Advanced: Test Engineering / Evaluation,1500,12,20,2026-01-01,2027-12-31
+CRS-000747,Advanced: Test Engineering / Maintenance,4000,16,80,2026-01-01,2027-12-31
+CRS-000748,Advanced: Test Engineering / Scaling,0,4,80,2026-01-01,2027-12-31
+CRS-000749,Advanced: Test Engineering / Change Management,0,12,12,2026-01-01,2027-12-31
+CRS-000750,Advanced: Test Engineering / Review,1500,8,12,2026-01-01,2027-12-31
+CRS-000751,Advanced: Product Analytics / Foundations,4000,4,40,2026-01-01,2027-12-31
+CRS-000752,Advanced: Product Analytics / Applied Practice,2500,16,20,2026-01-01,2027-12-31
+CRS-000753,Advanced: Product Analytics / Diagnostics,1500,12,20,2026-01-01,2027-12-31
+CRS-000754,Advanced: Product Analytics / Design,6000,24,40,2026-01-01,2027-12-31
+CRS-000755,Advanced: Product Analytics / Validation,9000,24,12,2026-01-01,2027-12-31
+CRS-000756,Advanced: Product Analytics / Automation,0,24,80,2026-01-01,2027-12-31
+CRS-000757,Advanced: Product Analytics / Quality,9000,24,12,2026-01-01,2027-12-31
+CRS-000758,Advanced: Product Analytics / Performance,0,8,80,2026-01-01,2027-12-31
+CRS-000759,Advanced: Product Analytics / Documentation,4000,4,12,2026-01-01,2027-12-31
+CRS-000760,Advanced: Product Analytics / Monitoring,1500,24,80,2026-01-01,2027-12-31
+CRS-000761,Advanced: Product Analytics / Integration,2500,24,12,2026-01-01,2027-12-31
+CRS-000762,Advanced: Product Analytics / Risk Review,6000,24,80,2026-01-01,2027-12-31
+CRS-000763,Advanced: Product Analytics / Troubleshooting,6000,4,20,2026-01-01,2027-12-31
+CRS-000764,Advanced: Product Analytics / Planning,4000,4,80,2026-01-01,2027-12-31
+CRS-000765,Advanced: Product Analytics / Measurement,1500,12,80,2026-01-01,2027-12-31
+CRS-000766,Advanced: Product Analytics / Communication,0,4,20,2026-01-01,2027-12-31
+CRS-000767,Advanced: Product Analytics / Implementation,6000,4,40,2026-01-01,2027-12-31
+CRS-000768,Advanced: Product Analytics / Optimization,0,12,80,2026-01-01,2027-12-31
+CRS-000769,Advanced: Product Analytics / Controls,6000,12,40,2026-01-01,2027-12-31
+CRS-000770,Advanced: Product Analytics / Reporting,6000,12,80,2026-01-01,2027-12-31
+CRS-000771,Advanced: Product Analytics / Evaluation,4000,8,20,2026-01-01,2027-12-31
+CRS-000772,Advanced: Product Analytics / Maintenance,6000,8,80,2026-01-01,2027-12-31
+CRS-000773,Advanced: Product Analytics / Scaling,0,4,20,2026-01-01,2027-12-31
+CRS-000774,Advanced: Product Analytics / Change Management,9000,8,20,2026-01-01,2027-12-31
+CRS-000775,Advanced: Product Analytics / Review,1500,8,80,2026-01-01,2027-12-31
+CRS-000776,Advanced: Customer Support / Foundations,1500,16,80,2026-01-01,2027-12-31
+CRS-000777,Advanced: Customer Support / Applied Practice,6000,4,80,2026-01-01,2027-12-31
+CRS-000778,Advanced: Customer Support / Diagnostics,9000,4,80,2026-01-01,2027-12-31
+CRS-000779,Advanced: Customer Support / Design,1500,16,20,2027-07-01,2027-12-31
+CRS-000780,Advanced: Customer Support / Validation,4000,4,80,2026-01-01,2027-12-31
+CRS-000781,Advanced: Customer Support / Automation,9000,24,80,2026-01-01,2027-12-31
+CRS-000782,Advanced: Customer Support / Quality,2500,8,20,2026-01-01,2027-12-31
+CRS-000783,Advanced: Customer Support / Performance,4000,4,40,2026-01-01,2027-12-31
+CRS-000784,Advanced: Customer Support / Documentation,1500,24,40,2026-01-01,2027-12-31
+CRS-000785,Advanced: Customer Support / Monitoring,1500,24,20,2026-01-01,2027-12-31
+CRS-000786,Advanced: Customer Support / Integration,2500,12,40,2026-01-01,2027-12-31
+CRS-000787,Advanced: Customer Support / Risk Review,9000,8,20,2026-01-01,2027-12-31
+CRS-000788,Advanced: Customer Support / Troubleshooting,6000,4,80,2026-01-01,2027-12-31
+CRS-000789,Advanced: Customer Support / Planning,1500,4,12,2026-01-01,2027-12-31
+CRS-000790,Advanced: Customer Support / Measurement,1500,4,40,2026-01-01,2027-12-31
+CRS-000791,Advanced: Customer Support / Communication,6000,12,40,2026-01-01,2027-12-31
+CRS-000792,Advanced: Customer Support / Implementation,1500,16,80,2026-01-01,2027-12-31
+CRS-000793,Advanced: Customer Support / Optimization,1500,16,12,2026-01-01,2027-12-31
+CRS-000794,Advanced: Customer Support / Controls,6000,16,40,2026-01-01,2027-12-31
+CRS-000795,Advanced: Customer Support / Reporting,2500,24,12,2026-01-01,2027-12-31
+CRS-000796,Advanced: Customer Support / Evaluation,4000,8,12,2026-01-01,2027-12-31
+CRS-000797,Advanced: Customer Support / Maintenance,4000,8,12,2026-01-01,2027-12-31
+CRS-000798,Advanced: Customer Support / Scaling,6000,16,80,2026-01-01,2027-12-31
+CRS-000799,Advanced: Customer Support / Change Management,4000,16,40,2026-01-01,2027-12-31
+CRS-000800,Advanced: Customer Support / Review,0,16,80,2026-01-01,2027-12-31
+CRS-000801,Advanced: Process Analysis / Foundations,0,12,40,2026-01-01,2027-12-31
+CRS-000802,Advanced: Process Analysis / Applied Practice,9000,12,12,2026-01-01,2027-12-31
+CRS-000803,Advanced: Process Analysis / Diagnostics,4000,8,20,2026-01-01,2027-12-31
+CRS-000804,Advanced: Process Analysis / Design,6000,8,40,2026-01-01,2027-12-31
+CRS-000805,Advanced: Process Analysis / Validation,1500,24,40,2026-01-01,2027-12-31
+CRS-000806,Advanced: Process Analysis / Automation,0,16,20,2026-01-01,2027-12-31
+CRS-000807,Advanced: Process Analysis / Quality,0,16,40,2026-01-01,2027-12-31
+CRS-000808,Advanced: Process Analysis / Performance,2500,4,80,2026-01-01,2027-12-31
+CRS-000809,Advanced: Process Analysis / Documentation,4000,8,20,2026-01-01,2027-12-31
+CRS-000810,Advanced: Process Analysis / Monitoring,4000,8,80,2026-01-01,2027-12-31
+CRS-000811,Advanced: Process Analysis / Integration,2500,16,20,2026-01-01,2027-12-31
+CRS-000812,Advanced: Process Analysis / Risk Review,6000,12,40,2026-01-01,2027-12-31
+CRS-000813,Advanced: Process Analysis / Troubleshooting,9000,12,12,2026-01-01,2027-12-31
+CRS-000814,Advanced: Process Analysis / Planning,9000,24,40,2026-01-01,2027-12-31
+CRS-000815,Advanced: Process Analysis / Measurement,1500,4,40,2026-01-01,2027-12-31
+CRS-000816,Advanced: Process Analysis / Communication,6000,16,12,2026-01-01,2027-12-31
+CRS-000817,Advanced: Process Analysis / Implementation,1500,8,40,2026-01-01,2027-12-31
+CRS-000818,Advanced: Process Analysis / Optimization,1500,8,20,2026-01-01,2027-12-31
+CRS-000819,Advanced: Process Analysis / Controls,0,4,40,2026-01-01,2027-12-31
+CRS-000820,Advanced: Process Analysis / Reporting,2500,12,40,2027-07-01,2027-12-31
+CRS-000821,Advanced: Process Analysis / Evaluation,4000,4,40,2026-01-01,2027-12-31
+CRS-000822,Advanced: Process Analysis / Maintenance,4000,4,12,2026-01-01,2027-12-31
+CRS-000823,Advanced: Process Analysis / Scaling,1500,16,40,2026-01-01,2027-12-31
+CRS-000824,Advanced: Process Analysis / Change Management,4000,16,40,2026-01-01,2027-12-31
+CRS-000825,Advanced: Process Analysis / Review,6000,4,20,2026-01-01,2027-12-31
+CRS-000826,Advanced: Operations / Foundations,2500,16,20,2026-01-01,2027-12-31
+CRS-000827,Advanced: Operations / Applied Practice,6000,12,12,2026-01-01,2027-12-31
+CRS-000828,Advanced: Operations / Diagnostics,4000,12,20,2026-01-01,2027-12-31
+CRS-000829,Advanced: Operations / Design,9000,4,80,2026-01-01,2027-12-31
+CRS-000830,Advanced: Operations / Validation,2500,24,20,2026-01-01,2027-12-31
+CRS-000831,Advanced: Operations / Automation,6000,24,12,2026-01-01,2027-12-31
+CRS-000832,Advanced: Operations / Quality,4000,8,20,2026-01-01,2027-12-31
+CRS-000833,Advanced: Operations / Performance,4000,16,12,2026-01-01,2027-12-31
+CRS-000834,Advanced: Operations / Documentation,6000,4,12,2026-01-01,2027-12-31
+CRS-000835,Advanced: Operations / Monitoring,4000,16,20,2026-01-01,2027-12-31
+CRS-000836,Advanced: Operations / Integration,4000,12,80,2026-01-01,2027-12-31
+CRS-000837,Advanced: Operations / Risk Review,2500,16,20,2026-01-01,2027-12-31
+CRS-000838,Advanced: Operations / Troubleshooting,0,8,20,2026-01-01,2027-12-31
+CRS-000839,Advanced: Operations / Planning,6000,24,12,2026-01-01,2027-12-31
+CRS-000840,Advanced: Operations / Measurement,2500,12,12,2026-01-01,2027-12-31
+CRS-000841,Advanced: Operations / Communication,9000,8,40,2026-01-01,2027-12-31
+CRS-000842,Advanced: Operations / Implementation,4000,12,80,2026-01-01,2027-12-31
+CRS-000843,Advanced: Operations / Optimization,6000,16,20,2026-01-01,2027-12-31
+CRS-000844,Advanced: Operations / Controls,9000,8,80,2026-01-01,2027-12-31
+CRS-000845,Advanced: Operations / Reporting,2500,16,40,2026-01-01,2027-12-31
+CRS-000846,Advanced: Operations / Evaluation,9000,12,20,2026-01-01,2027-12-31
+CRS-000847,Advanced: Operations / Maintenance,2500,24,12,2026-01-01,2027-12-31
+CRS-000848,Advanced: Operations / Scaling,2500,4,80,2026-01-01,2027-12-31
+CRS-000849,Advanced: Operations / Change Management,2500,16,40,2026-01-01,2027-12-31
+CRS-000850,Advanced: Operations / Review,1500,12,12,2026-01-01,2027-12-31
+CRS-000851,Advanced: Financial Analysis / Foundations,6000,4,20,2026-01-01,2027-12-31
+CRS-000852,Advanced: Financial Analysis / Applied Practice,2500,8,12,2026-01-01,2027-12-31
+CRS-000853,Advanced: Financial Analysis / Diagnostics,1500,16,80,2026-01-01,2027-12-31
+CRS-000854,Advanced: Financial Analysis / Design,2500,16,80,2026-01-01,2027-12-31
+CRS-000855,Advanced: Financial Analysis / Validation,6000,16,20,2026-01-01,2027-12-31
+CRS-000856,Advanced: Financial Analysis / Automation,6000,12,12,2026-01-01,2027-12-31
+CRS-000857,Advanced: Financial Analysis / Quality,2500,4,20,2026-01-01,2027-12-31
+CRS-000858,Advanced: Financial Analysis / Performance,9000,8,12,2026-01-01,2027-12-31
+CRS-000859,Advanced: Financial Analysis / Documentation,2500,24,20,2026-01-01,2027-12-31
+CRS-000860,Advanced: Financial Analysis / Monitoring,0,4,20,2026-01-01,2027-12-31
+CRS-000861,Advanced: Financial Analysis / Integration,1500,24,40,2027-07-01,2027-12-31
+CRS-000862,Advanced: Financial Analysis / Risk Review,4000,8,12,2026-01-01,2027-12-31
+CRS-000863,Advanced: Financial Analysis / Troubleshooting,4000,24,12,2026-01-01,2027-12-31
+CRS-000864,Advanced: Financial Analysis / Planning,9000,4,80,2026-01-01,2027-12-31
+CRS-000865,Advanced: Financial Analysis / Measurement,9000,4,12,2026-01-01,2027-12-31
+CRS-000866,Advanced: Financial Analysis / Communication,6000,4,20,2026-01-01,2027-12-31
+CRS-000867,Advanced: Financial Analysis / Implementation,6000,4,12,2026-01-01,2027-12-31
+CRS-000868,Advanced: Financial Analysis / Optimization,4000,4,40,2026-01-01,2027-12-31
+CRS-000869,Advanced: Financial Analysis / Controls,2500,8,40,2026-01-01,2027-12-31
+CRS-000870,Advanced: Financial Analysis / Reporting,6000,24,80,2026-01-01,2027-12-31
+CRS-000871,Advanced: Financial Analysis / Evaluation,4000,12,20,2026-01-01,2027-12-31
+CRS-000872,Advanced: Financial Analysis / Maintenance,2500,4,20,2026-01-01,2027-12-31
+CRS-000873,Advanced: Financial Analysis / Scaling,2500,4,12,2026-01-01,2027-12-31
+CRS-000874,Advanced: Financial Analysis / Change Management,0,8,40,2026-01-01,2027-12-31
+CRS-000875,Advanced: Financial Analysis / Review,2500,12,80,2026-01-01,2027-12-31
+CRS-000876,Advanced: People Analytics / Foundations,6000,4,40,2026-01-01,2027-12-31
+CRS-000877,Advanced: People Analytics / Applied Practice,2500,12,80,2026-01-01,2027-12-31
+CRS-000878,Advanced: People Analytics / Diagnostics,2500,24,40,2026-01-01,2027-12-31
+CRS-000879,Advanced: People Analytics / Design,0,4,80,2026-01-01,2027-12-31
+CRS-000880,Advanced: People Analytics / Validation,9000,24,80,2026-01-01,2027-12-31
+CRS-000881,Advanced: People Analytics / Automation,9000,24,12,2026-01-01,2027-12-31
+CRS-000882,Advanced: People Analytics / Quality,6000,4,20,2026-01-01,2027-12-31
+CRS-000883,Advanced: People Analytics / Performance,9000,16,40,2026-01-01,2027-12-31
+CRS-000884,Advanced: People Analytics / Documentation,4000,16,80,2026-01-01,2027-12-31
+CRS-000885,Advanced: People Analytics / Monitoring,2500,24,40,2026-01-01,2027-12-31
+CRS-000886,Advanced: People Analytics / Integration,1500,12,40,2026-01-01,2027-12-31
+CRS-000887,Advanced: People Analytics / Risk Review,0,12,12,2026-01-01,2027-12-31
+CRS-000888,Advanced: People Analytics / Troubleshooting,1500,24,12,2026-01-01,2027-12-31
+CRS-000889,Advanced: People Analytics / Planning,2500,16,12,2026-01-01,2027-12-31
+CRS-000890,Advanced: People Analytics / Measurement,0,24,12,2026-01-01,2027-12-31
+CRS-000891,Advanced: People Analytics / Communication,1500,8,40,2026-01-01,2027-12-31
+CRS-000892,Advanced: People Analytics / Implementation,2500,4,40,2026-01-01,2027-12-31
+CRS-000893,Advanced: People Analytics / Optimization,1500,24,80,2026-01-01,2027-12-31
+CRS-000894,Advanced: People Analytics / Controls,1500,12,12,2026-01-01,2027-12-31
+CRS-000895,Advanced: People Analytics / Reporting,6000,4,20,2026-01-01,2027-12-31
+CRS-000896,Advanced: People Analytics / Evaluation,9000,24,12,2026-01-01,2027-12-31
+CRS-000897,Advanced: People Analytics / Maintenance,2500,12,80,2026-01-01,2027-12-31
+CRS-000898,Advanced: People Analytics / Scaling,9000,4,12,2026-01-01,2027-12-31
+CRS-000899,Advanced: People Analytics / Change Management,2500,8,12,2026-01-01,2027-12-31
+CRS-000900,Advanced: People Analytics / Review,9000,12,20,2026-01-01,2027-12-31
+CRS-000901,Advanced: Learning Design / Foundations,9000,16,12,2026-01-01,2027-12-31
+CRS-000902,Advanced: Learning Design / Applied Practice,0,8,40,2027-07-01,2027-12-31
+CRS-000903,Advanced: Learning Design / Diagnostics,9000,24,20,2026-01-01,2027-12-31
+CRS-000904,Advanced: Learning Design / Design,2500,12,20,2026-01-01,2027-12-31
+CRS-000905,Advanced: Learning Design / Validation,6000,8,20,2026-01-01,2027-12-31
+CRS-000906,Advanced: Learning Design / Automation,4000,16,12,2026-01-01,2027-12-31
+CRS-000907,Advanced: Learning Design / Quality,6000,8,12,2026-01-01,2027-12-31
+CRS-000908,Advanced: Learning Design / Performance,4000,12,40,2026-01-01,2027-12-31
+CRS-000909,Advanced: Learning Design / Documentation,9000,16,12,2026-01-01,2027-12-31
+CRS-000910,Advanced: Learning Design / Monitoring,4000,4,20,2026-01-01,2027-12-31
+CRS-000911,Advanced: Learning Design / Integration,0,12,20,2026-01-01,2027-12-31
+CRS-000912,Advanced: Learning Design / Risk Review,2500,24,80,2026-01-01,2027-12-31
+CRS-000913,Advanced: Learning Design / Troubleshooting,6000,16,20,2026-01-01,2027-12-31
+CRS-000914,Advanced: Learning Design / Planning,9000,4,12,2026-01-01,2027-12-31
+CRS-000915,Advanced: Learning Design / Measurement,1500,12,40,2026-01-01,2027-12-31
+CRS-000916,Advanced: Learning Design / Communication,0,16,80,2026-01-01,2027-12-31
+CRS-000917,Advanced: Learning Design / Implementation,2500,8,40,2026-01-01,2027-12-31
+CRS-000918,Advanced: Learning Design / Optimization,1500,4,20,2026-01-01,2027-12-31
+CRS-000919,Advanced: Learning Design / Controls,0,8,12,2026-01-01,2027-12-31
+CRS-000920,Advanced: Learning Design / Reporting,1500,8,12,2026-01-01,2027-12-31
+CRS-000921,Advanced: Learning Design / Evaluation,2500,16,12,2026-01-01,2027-12-31
+CRS-000922,Advanced: Learning Design / Maintenance,0,8,80,2026-01-01,2027-12-31
+CRS-000923,Advanced: Learning Design / Scaling,1500,8,80,2026-01-01,2027-12-31
+CRS-000924,Advanced: Learning Design / Change Management,6000,16,12,2026-01-01,2027-12-31
+CRS-000925,Advanced: Learning Design / Review,6000,4,80,2026-01-01,2027-12-31
+CRS-000926,Advanced: Technical Sales / Foundations,9000,4,80,2026-01-01,2027-12-31
+CRS-000927,Advanced: Technical Sales / Applied Practice,9000,16,20,2026-01-01,2027-12-31
+CRS-000928,Advanced: Technical Sales / Diagnostics,0,12,80,2026-01-01,2027-12-31
+CRS-000929,Advanced: Technical Sales / Design,1500,4,40,2026-01-01,2027-12-31
+CRS-000930,Advanced: Technical Sales / Validation,4000,4,80,2026-01-01,2027-12-31
+CRS-000931,Advanced: Technical Sales / Automation,4000,24,80,2026-01-01,2027-12-31
+CRS-000932,Advanced: Technical Sales / Quality,2500,16,20,2026-01-01,2027-12-31
+CRS-000933,Advanced: Technical Sales / Performance,4000,12,40,2026-01-01,2027-12-31
+CRS-000934,Advanced: Technical Sales / Documentation,2500,24,80,2026-01-01,2027-12-31
+CRS-000935,Advanced: Technical Sales / Monitoring,0,16,40,2026-01-01,2027-12-31
+CRS-000936,Advanced: Technical Sales / Integration,6000,12,20,2026-01-01,2027-12-31
+CRS-000937,Advanced: Technical Sales / Risk Review,0,24,12,2026-01-01,2027-12-31
+CRS-000938,Advanced: Technical Sales / Troubleshooting,0,4,20,2026-01-01,2027-12-31
+CRS-000939,Advanced: Technical Sales / Planning,6000,24,80,2026-01-01,2027-12-31
+CRS-000940,Advanced: Technical Sales / Measurement,2500,24,40,2026-01-01,2027-12-31
+CRS-000941,Advanced: Technical Sales / Communication,6000,24,20,2026-01-01,2027-12-31
+CRS-000942,Advanced: Technical Sales / Implementation,1500,16,20,2026-01-01,2027-12-31
+CRS-000943,Advanced: Technical Sales / Optimization,4000,4,40,2027-07-01,2027-12-31
+CRS-000944,Advanced: Technical Sales / Controls,4000,12,40,2026-01-01,2027-12-31
+CRS-000945,Advanced: Technical Sales / Reporting,0,24,12,2026-01-01,2027-12-31
+CRS-000946,Advanced: Technical Sales / Evaluation,2500,8,20,2026-01-01,2027-12-31
+CRS-000947,Advanced: Technical Sales / Maintenance,0,4,40,2026-01-01,2027-12-31
+CRS-000948,Advanced: Technical Sales / Scaling,9000,4,12,2026-01-01,2027-12-31
+CRS-000949,Advanced: Technical Sales / Change Management,1500,4,12,2026-01-01,2027-12-31
+CRS-000950,Advanced: Technical Sales / Review,4000,16,40,2026-01-01,2027-12-31
+CRS-000951,Advanced: Solution Design / Foundations,1500,24,80,2026-01-01,2027-12-31
+CRS-000952,Advanced: Solution Design / Applied Practice,0,12,40,2026-01-01,2027-12-31
+CRS-000953,Advanced: Solution Design / Diagnostics,0,8,20,2026-01-01,2027-12-31
+CRS-000954,Advanced: Solution Design / Design,6000,16,80,2026-01-01,2027-12-31
+CRS-000955,Advanced: Solution Design / Validation,2500,8,12,2026-01-01,2027-12-31
+CRS-000956,Advanced: Solution Design / Automation,9000,12,80,2026-01-01,2027-12-31
+CRS-000957,Advanced: Solution Design / Quality,0,12,12,2026-01-01,2027-12-31
+CRS-000958,Advanced: Solution Design / Performance,2500,4,80,2026-01-01,2027-12-31
+CRS-000959,Advanced: Solution Design / Documentation,0,16,12,2026-01-01,2027-12-31
+CRS-000960,Advanced: Solution Design / Monitoring,9000,12,20,2026-01-01,2027-12-31
+CRS-000961,Advanced: Solution Design / Integration,6000,4,20,2026-01-01,2027-12-31
+CRS-000962,Advanced: Solution Design / Risk Review,9000,24,20,2026-01-01,2027-12-31
+CRS-000963,Advanced: Solution Design / Troubleshooting,2500,16,12,2026-01-01,2027-12-31
+CRS-000964,Advanced: Solution Design / Planning,4000,16,12,2026-01-01,2027-12-31
+CRS-000965,Advanced: Solution Design / Measurement,9000,8,20,2026-01-01,2027-12-31
+CRS-000966,Advanced: Solution Design / Communication,6000,24,20,2026-01-01,2027-12-31
+CRS-000967,Advanced: Solution Design / Implementation,4000,24,40,2026-01-01,2027-12-31
+CRS-000968,Advanced: Solution Design / Optimization,0,16,12,2026-01-01,2027-12-31
+CRS-000969,Advanced: Solution Design / Controls,4000,16,12,2026-01-01,2027-12-31
+CRS-000970,Advanced: Solution Design / Reporting,4000,8,80,2026-01-01,2027-12-31
+CRS-000971,Advanced: Solution Design / Evaluation,9000,16,40,2026-01-01,2027-12-31
+CRS-000972,Advanced: Solution Design / Maintenance,9000,4,40,2026-01-01,2027-12-31
+CRS-000973,Advanced: Solution Design / Scaling,6000,4,40,2026-01-01,2027-12-31
+CRS-000974,Advanced: Solution Design / Change Management,1500,24,40,2026-01-01,2027-12-31
+CRS-000975,Advanced: Solution Design / Review,9000,8,80,2026-01-01,2027-12-31
+CRS-000976,Advanced: Data Governance / Foundations,1500,16,20,2026-01-01,2027-12-31
+CRS-000977,Advanced: Data Governance / Applied Practice,6000,24,12,2026-01-01,2027-12-31
+CRS-000978,Advanced: Data Governance / Diagnostics,6000,12,12,2026-01-01,2027-12-31
+CRS-000979,Advanced: Data Governance / Design,1500,12,20,2026-01-01,2027-12-31
+CRS-000980,Advanced: Data Governance / Validation,6000,16,12,2026-01-01,2027-12-31
+CRS-000981,Advanced: Data Governance / Automation,2500,8,40,2026-01-01,2027-12-31
+CRS-000982,Advanced: Data Governance / Quality,1500,24,20,2026-01-01,2027-12-31
+CRS-000983,Advanced: Data Governance / Performance,1500,8,12,2026-01-01,2027-12-31
+CRS-000984,Advanced: Data Governance / Documentation,0,16,12,2027-07-01,2027-12-31
+CRS-000985,Advanced: Data Governance / Monitoring,1500,4,12,2026-01-01,2027-12-31
+CRS-000986,Advanced: Data Governance / Integration,6000,4,12,2026-01-01,2027-12-31
+CRS-000987,Advanced: Data Governance / Risk Review,6000,4,12,2026-01-01,2027-12-31
+CRS-000988,Advanced: Data Governance / Troubleshooting,0,24,12,2026-01-01,2027-12-31
+CRS-000989,Advanced: Data Governance / Planning,9000,16,80,2026-01-01,2027-12-31
+CRS-000990,Advanced: Data Governance / Measurement,0,24,20,2026-01-01,2027-12-31
+CRS-000991,Advanced: Data Governance / Communication,2500,24,40,2026-01-01,2027-12-31
+CRS-000992,Advanced: Data Governance / Implementation,9000,16,40,2026-01-01,2027-12-31
+CRS-000993,Advanced: Data Governance / Optimization,9000,12,12,2026-01-01,2027-12-31
+CRS-000994,Advanced: Data Governance / Controls,9000,8,80,2026-01-01,2027-12-31
+CRS-000995,Advanced: Data Governance / Reporting,2500,4,12,2026-01-01,2027-12-31
+CRS-000996,Advanced: Data Governance / Evaluation,4000,16,80,2026-01-01,2027-12-31
+CRS-000997,Advanced: Data Governance / Maintenance,4000,24,80,2026-01-01,2027-12-31
+CRS-000998,Advanced: Data Governance / Scaling,2500,12,20,2026-01-01,2027-12-31
+CRS-000999,Advanced: Data Governance / Change Management,1500,4,12,2026-01-01,2027-12-31
+CRS-001000,Advanced: Data Governance / Review,1500,8,40,2027-07-01,2027-12-31

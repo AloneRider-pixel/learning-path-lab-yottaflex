@@ -1,0 +1,1 @@
+HTTP smoke checks passed: summary, search, plan, history, approval, post-approval validation, invalid reassessment rejection.

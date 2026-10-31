@@ -1,0 +1,102 @@
+[
+  {
+    "id": "ROL-000001",
+    "name": "Data Analyst"
+  },
+  {
+    "id": "ROL-000002",
+    "name": "Data Engineer"
+  },
+  {
+    "id": "ROL-000003",
+    "name": "Analytics Engineer"
+  },
+  {
+    "id": "ROL-000004",
+    "name": "ML Engineer"
+  },
+  {
+    "id": "ROL-000005",
+    "name": "Backend Engineer"
+  },
+  {
+    "id": "ROL-000006",
+    "name": "Platform Engineer"
+  },
+  {
+    "id": "ROL-000007",
+    "name": "Cloud Engineer"
+  },
+  {
+    "id": "ROL-000008",
+    "name": "Security Analyst"
+  },
+  {
+    "id": "ROL-000009",
+    "name": "Reliability Engineer"
+  },
+  {
+    "id": "ROL-000010",
+    "name": "QA Engineer"
+  },
+  {
+    "id": "ROL-000011",
+    "name": "Product Analyst"
+  },
+  {
+    "id": "ROL-000012",
+    "name": "Technical Support Engineer"
+  },
+  {
+    "id": "ROL-000013",
+    "name": "Business Analyst"
+  },
+  {
+    "id": "ROL-000014",
+    "name": "Operations Analyst"
+  },
+  {
+    "id": "ROL-000015",
+    "name": "Finance Analyst"
+  },
+  {
+    "id": "ROL-000016",
+    "name": "People Analyst"
+  },
+  {
+    "id": "ROL-000017",
+    "name": "Learning Coordinator"
+  },
+  {
+    "id": "ROL-000018",
+    "name": "Sales Engineer"
+  },
+  {
+    "id": "ROL-000019",
+    "name": "Solutions Engineer"
+  },
+  {
+    "id": "ROL-000020",
+    "name": "Customer Success Analyst"
+  },
+  {
+    "id": "ROL-000021",
+    "name": "Database Engineer"
+  },
+  {
+    "id": "ROL-000022",
+    "name": "Integration Engineer"
+  },
+  {
+    "id": "ROL-000023",
+    "name": "AI Solutions Engineer"
+  },
+  {
+    "id": "ROL-000024",
+    "name": "Technical Program Analyst"
+  },
+  {
+    "id": "ROL-000025",
+    "name": "Engineering Lead"
+  }
+]

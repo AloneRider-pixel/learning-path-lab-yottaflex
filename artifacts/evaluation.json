@@ -1,0 +1,35 @@
+{
+  "cases": 10,
+  "exact_matches": 10,
+  "exact_match_rate": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "predictions": {
+    "CASE-001": [],
+    "CASE-002": [
+      "prerequisite_violation"
+    ],
+    "CASE-003": [
+      "budget_exceeded"
+    ],
+    "CASE-004": [
+      "duplicate_completion"
+    ],
+    "CASE-005": [
+      "missing_reassessment"
+    ],
+    "CASE-006": [
+      "course_unavailable"
+    ],
+    "CASE-007": [],
+    "CASE-008": [],
+    "CASE-009": [
+      "residual_skill_gap"
+    ],
+    "CASE-010": [
+      "budget_exceeded",
+      "prerequisite_violation"
+    ]
+  },
+  "scope": "Deterministic labelled scenario checks, not evidence of real-world ML generalization."
+}
